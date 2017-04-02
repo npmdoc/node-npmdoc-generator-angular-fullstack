@@ -1,467 +1,467 @@
 <svg height="7422" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="7422" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  1.  2017-04-02 17:39:12 +0000    85463 byte  CHANGELOG.md</tspan>
-<tspan x="10" y="42">  2.  2017-04-02 17:39:12 +0000     4728 byte  Gruntfile.js</tspan>
-<tspan x="10" y="58">  3.  2017-04-02 17:39:12 +0000      524 byte  ISSUE_TEMPLATE.md</tspan>
-<tspan x="10" y="74">  4.  2017-04-02 17:39:12 +0000      357 byte  PULL_REQUEST_TEMPLATE.md</tspan>
-<tspan x="10" y="90">  5.  2017-04-02 17:39:12 +0000     1120 byte  angular-fullstack-deps/LICENSE</tspan>
-<tspan x="10" y="106">  6.  2017-04-02 17:39:12 +0000      716 byte  angular-fullstack-deps/README.md</tspan>
-<tspan x="10" y="122">  7.  2017-04-02 17:39:12 +0000     5617 byte  angular-fullstack-deps/package.json</tspan>
-<tspan x="10" y="138">  8.  2017-04-02 17:39:12 +0000     1457 byte  circle.yml</tspan>
-<tspan x="10" y="154">  9.  2017-04-02 17:39:12 +0000     4608 byte  contributing.md</tspan>
-<tspan x="10" y="170"> 10.  2017-04-02 17:39:12 +0000     2913 byte  docs/CONTRIBUTING.md</tspan>
-<tspan x="10" y="186"> 11.  2017-04-02 17:39:12 +0000     1008 byte  docs/README.md</tspan>
-<tspan x="10" y="202"> 12.  2017-04-02 17:39:12 +0000   603239 byte  docs/angular-fullstack-logo.svg</tspan>
-<tspan x="10" y="218"> 13.  2017-04-02 17:39:12 +0000     4255 byte  docs/antwar.config.js</tspan>
-<tspan x="10" y="234"> 14.  2017-04-02 17:39:12 +0000   111988 byte  docs/assets/afs-screenshot-cropped.png</tspan>
-<tspan x="10" y="250"> 15.  2017-04-02 17:39:12 +0000   176320 byte  docs/assets/afs-screenshot.png</tspan>
-<tspan x="10" y="266"> 16.  2017-04-02 17:39:12 +0000   589017 byte  docs/assets/angular-fullstack-boxes.svg</tspan>
-<tspan x="10" y="282"> 17.  2017-04-02 17:39:12 +0000   603239 byte  docs/assets/angular-fullstack-logo.svg</tspan>
-<tspan x="10" y="298"> 18.  2017-04-02 17:39:12 +0000     4286 byte  docs/assets/favicon.ico</tspan>
-<tspan x="10" y="314"> 19.  2017-04-02 17:39:12 +0000    60976 byte  docs/assets/foo-route-navbar.jpg</tspan>
-<tspan x="10" y="330"> 20.  2017-04-02 17:39:12 +0000    61800 byte  docs/assets/foo-route.jpg</tspan>
-<tspan x="10" y="346"> 21.  2017-04-02 17:39:12 +0000    19236 byte  docs/assets/geomanist-medium.woff</tspan>
-<tspan x="10" y="362"> 22.  2017-04-02 17:39:12 +0000    14807 byte  docs/assets/geomanist-medium.woff2</tspan>
-<tspan x="10" y="378"> 23.  2017-04-02 17:39:12 +0000     2902 byte  docs/assets/github-logo.svg</tspan>
-<tspan x="10" y="394"> 24.  2017-04-02 17:39:12 +0000    68668 byte  docs/assets/homepage-modules.svg</tspan>
-<tspan x="10" y="410"> 25.  2017-04-02 17:39:12 +0000      678 byte  docs/assets/icon-square-big.svg</tspan>
-<tspan x="10" y="426"> 26.  2017-04-02 17:39:12 +0000      656 byte  docs/assets/icon-square-small.svg</tspan>
-<tspan x="10" y="442"> 27.  2017-04-02 17:39:12 +0000   233276 byte  docs/assets/logged-in.jpg</tspan>
-<tspan x="10" y="458"> 28.  2017-04-02 17:39:12 +0000     2396 byte  docs/assets/logo-on-dark-bg.svg</tspan>
-<tspan x="10" y="474"> 29.  2017-04-02 17:39:12 +0000     2397 byte  docs/assets/logo-on-white-bg.svg</tspan>
-<tspan x="10" y="490"> 30.  2017-04-02 17:39:12 +0000    30349 byte  docs/assets/logo-small.svg</tspan>
-<tspan x="10" y="506"> 31.  2017-04-02 17:39:12 +0000     2385 byte  docs/assets/site-logo.svg</tspan>
-<tspan x="10" y="522"> 32.  2017-04-02 17:39:12 +0000    59827 byte  docs/assets/socket.io-demo.gif</tspan>
-<tspan x="10" y="538"> 33.  2017-04-02 17:39:12 +0000      347 byte  docs/bootstrap.js</tspan>
-<tspan x="10" y="554"> 34.  2017-04-02 17:39:12 +0000      147 byte  docs/components/cc/cc-style.scss</tspan>
-<tspan x="10" y="570"> 35.  2017-04-02 17:39:12 +0000      368 byte  docs/components/cc/cc.jsx</tspan>
-<tspan x="10" y="586"> 36.  2017-04-02 17:39:12 +0000      122 byte  docs/components/container/container-style.scss</tspan>
-<tspan x="10" y="602"> 37.  2017-04-02 17:39:12 +0000      200 byte  docs/components/container/container.jsx</tspan>
-<tspan x="10" y="618"> 38.  2017-04-02 17:39:12 +0000      664 byte  docs/components/contributors/contributors-style.s\</tspan>
+<tspan x="10" y="26">  1.  2017-04-02 17:40:43 +0000    85463 byte  CHANGELOG.md</tspan>
+<tspan x="10" y="42">  2.  2017-04-02 17:40:43 +0000     4728 byte  Gruntfile.js</tspan>
+<tspan x="10" y="58">  3.  2017-04-02 17:40:43 +0000      524 byte  ISSUE_TEMPLATE.md</tspan>
+<tspan x="10" y="74">  4.  2017-04-02 17:40:43 +0000      357 byte  PULL_REQUEST_TEMPLATE.md</tspan>
+<tspan x="10" y="90">  5.  2017-04-02 17:40:43 +0000     1120 byte  angular-fullstack-deps/LICENSE</tspan>
+<tspan x="10" y="106">  6.  2017-04-02 17:40:43 +0000      716 byte  angular-fullstack-deps/README.md</tspan>
+<tspan x="10" y="122">  7.  2017-04-02 17:40:43 +0000     5617 byte  angular-fullstack-deps/package.json</tspan>
+<tspan x="10" y="138">  8.  2017-04-02 17:40:43 +0000     1457 byte  circle.yml</tspan>
+<tspan x="10" y="154">  9.  2017-04-02 17:40:43 +0000     4608 byte  contributing.md</tspan>
+<tspan x="10" y="170"> 10.  2017-04-02 17:40:43 +0000     2913 byte  docs/CONTRIBUTING.md</tspan>
+<tspan x="10" y="186"> 11.  2017-04-02 17:40:43 +0000     1008 byte  docs/README.md</tspan>
+<tspan x="10" y="202"> 12.  2017-04-02 17:40:43 +0000   603239 byte  docs/angular-fullstack-logo.svg</tspan>
+<tspan x="10" y="218"> 13.  2017-04-02 17:40:43 +0000     4255 byte  docs/antwar.config.js</tspan>
+<tspan x="10" y="234"> 14.  2017-04-02 17:40:43 +0000   111988 byte  docs/assets/afs-screenshot-cropped.png</tspan>
+<tspan x="10" y="250"> 15.  2017-04-02 17:40:43 +0000   176320 byte  docs/assets/afs-screenshot.png</tspan>
+<tspan x="10" y="266"> 16.  2017-04-02 17:40:43 +0000   589017 byte  docs/assets/angular-fullstack-boxes.svg</tspan>
+<tspan x="10" y="282"> 17.  2017-04-02 17:40:43 +0000   603239 byte  docs/assets/angular-fullstack-logo.svg</tspan>
+<tspan x="10" y="298"> 18.  2017-04-02 17:40:43 +0000     4286 byte  docs/assets/favicon.ico</tspan>
+<tspan x="10" y="314"> 19.  2017-04-02 17:40:43 +0000    60976 byte  docs/assets/foo-route-navbar.jpg</tspan>
+<tspan x="10" y="330"> 20.  2017-04-02 17:40:43 +0000    61800 byte  docs/assets/foo-route.jpg</tspan>
+<tspan x="10" y="346"> 21.  2017-04-02 17:40:43 +0000    19236 byte  docs/assets/geomanist-medium.woff</tspan>
+<tspan x="10" y="362"> 22.  2017-04-02 17:40:43 +0000    14807 byte  docs/assets/geomanist-medium.woff2</tspan>
+<tspan x="10" y="378"> 23.  2017-04-02 17:40:43 +0000     2902 byte  docs/assets/github-logo.svg</tspan>
+<tspan x="10" y="394"> 24.  2017-04-02 17:40:43 +0000    68668 byte  docs/assets/homepage-modules.svg</tspan>
+<tspan x="10" y="410"> 25.  2017-04-02 17:40:43 +0000      678 byte  docs/assets/icon-square-big.svg</tspan>
+<tspan x="10" y="426"> 26.  2017-04-02 17:40:43 +0000      656 byte  docs/assets/icon-square-small.svg</tspan>
+<tspan x="10" y="442"> 27.  2017-04-02 17:40:43 +0000   233276 byte  docs/assets/logged-in.jpg</tspan>
+<tspan x="10" y="458"> 28.  2017-04-02 17:40:43 +0000     2396 byte  docs/assets/logo-on-dark-bg.svg</tspan>
+<tspan x="10" y="474"> 29.  2017-04-02 17:40:43 +0000     2397 byte  docs/assets/logo-on-white-bg.svg</tspan>
+<tspan x="10" y="490"> 30.  2017-04-02 17:40:43 +0000    30349 byte  docs/assets/logo-small.svg</tspan>
+<tspan x="10" y="506"> 31.  2017-04-02 17:40:43 +0000     2385 byte  docs/assets/site-logo.svg</tspan>
+<tspan x="10" y="522"> 32.  2017-04-02 17:40:43 +0000    59827 byte  docs/assets/socket.io-demo.gif</tspan>
+<tspan x="10" y="538"> 33.  2017-04-02 17:40:43 +0000      347 byte  docs/bootstrap.js</tspan>
+<tspan x="10" y="554"> 34.  2017-04-02 17:40:43 +0000      147 byte  docs/components/cc/cc-style.scss</tspan>
+<tspan x="10" y="570"> 35.  2017-04-02 17:40:43 +0000      368 byte  docs/components/cc/cc.jsx</tspan>
+<tspan x="10" y="586"> 36.  2017-04-02 17:40:43 +0000      122 byte  docs/components/container/container-style.scss</tspan>
+<tspan x="10" y="602"> 37.  2017-04-02 17:40:43 +0000      200 byte  docs/components/container/container.jsx</tspan>
+<tspan x="10" y="618"> 38.  2017-04-02 17:40:43 +0000      664 byte  docs/components/contributors/contributors-style.s\</tspan>
 <tspan x="10" y="634">css</tspan>
-<tspan x="10" y="650"> 39.  2017-04-02 17:39:12 +0000      654 byte  docs/components/contributors/contributors.jsx</tspan>
-<tspan x="10" y="666"> 40.  2017-04-02 17:39:12 +0000      704 byte  docs/components/cube/cube-style.scss</tspan>
-<tspan x="10" y="682"> 41.  2017-04-02 17:39:12 +0000     5281 byte  docs/components/cube/cube.jsx</tspan>
-<tspan x="10" y="698"> 42.  2017-04-02 17:39:12 +0000     1053 byte  docs/components/footer/footer-style.scss</tspan>
-<tspan x="10" y="714"> 43.  2017-04-02 17:39:12 +0000     1250 byte  docs/components/footer/footer.jsx</tspan>
-<tspan x="10" y="730"> 44.  2017-04-02 17:39:12 +0000      425 byte  docs/components/link/link.jsx</tspan>
-<tspan x="10" y="746"> 45.  2017-04-02 17:39:12 +0000      128 byte  docs/components/logo/logo-style.scss</tspan>
-<tspan x="10" y="762"> 46.  2017-04-02 17:39:12 +0000      160 byte  docs/components/logo/logo.jsx</tspan>
-<tspan x="10" y="778"> 47.  2017-04-02 17:39:12 +0000     3290 byte  docs/components/navigation/navigation-style.scss</tspan>
-<tspan x="10" y="794"> 48.  2017-04-02 17:39:12 +0000     5551 byte  docs/components/navigation/navigation.jsx</tspan>
-<tspan x="10" y="810"> 49.  2017-04-02 17:39:12 +0000     2201 byte  docs/components/navigation/search-style.scss</tspan>
-<tspan x="10" y="826"> 50.  2017-04-02 17:39:12 +0000      573 byte  docs/components/organization/organization-style.s\</tspan>
+<tspan x="10" y="650"> 39.  2017-04-02 17:40:43 +0000      654 byte  docs/components/contributors/contributors.jsx</tspan>
+<tspan x="10" y="666"> 40.  2017-04-02 17:40:43 +0000      704 byte  docs/components/cube/cube-style.scss</tspan>
+<tspan x="10" y="682"> 41.  2017-04-02 17:40:43 +0000     5281 byte  docs/components/cube/cube.jsx</tspan>
+<tspan x="10" y="698"> 42.  2017-04-02 17:40:43 +0000     1053 byte  docs/components/footer/footer-style.scss</tspan>
+<tspan x="10" y="714"> 43.  2017-04-02 17:40:43 +0000     1250 byte  docs/components/footer/footer.jsx</tspan>
+<tspan x="10" y="730"> 44.  2017-04-02 17:40:43 +0000      425 byte  docs/components/link/link.jsx</tspan>
+<tspan x="10" y="746"> 45.  2017-04-02 17:40:43 +0000      128 byte  docs/components/logo/logo-style.scss</tspan>
+<tspan x="10" y="762"> 46.  2017-04-02 17:40:43 +0000      160 byte  docs/components/logo/logo.jsx</tspan>
+<tspan x="10" y="778"> 47.  2017-04-02 17:40:43 +0000     3290 byte  docs/components/navigation/navigation-style.scss</tspan>
+<tspan x="10" y="794"> 48.  2017-04-02 17:40:43 +0000     5551 byte  docs/components/navigation/navigation.jsx</tspan>
+<tspan x="10" y="810"> 49.  2017-04-02 17:40:43 +0000     2201 byte  docs/components/navigation/search-style.scss</tspan>
+<tspan x="10" y="826"> 50.  2017-04-02 17:40:43 +0000      573 byte  docs/components/organization/organization-style.s\</tspan>
 <tspan x="10" y="842">css</tspan>
-<tspan x="10" y="858"> 51.  2017-04-02 17:39:12 +0000     2637 byte  docs/components/organization/organization.jsx</tspan>
-<tspan x="10" y="874"> 52.  2017-04-02 17:39:12 +0000     7538 byte  docs/components/organization/projects.json</tspan>
-<tspan x="10" y="890"> 53.  2017-04-02 17:39:12 +0000      686 byte  docs/components/page/page-style.scss</tspan>
-<tspan x="10" y="906"> 54.  2017-04-02 17:39:12 +0000     1552 byte  docs/components/page/page.jsx</tspan>
-<tspan x="10" y="922"> 55.  2017-04-02 17:39:12 +0000     1237 byte  docs/components/sidebar-item/sidebar-item-style.s\</tspan>
+<tspan x="10" y="858"> 51.  2017-04-02 17:40:43 +0000     2637 byte  docs/components/organization/organization.jsx</tspan>
+<tspan x="10" y="874"> 52.  2017-04-02 17:40:43 +0000     7538 byte  docs/components/organization/projects.json</tspan>
+<tspan x="10" y="890"> 53.  2017-04-02 17:40:43 +0000      686 byte  docs/components/page/page-style.scss</tspan>
+<tspan x="10" y="906"> 54.  2017-04-02 17:40:43 +0000     1552 byte  docs/components/page/page.jsx</tspan>
+<tspan x="10" y="922"> 55.  2017-04-02 17:40:43 +0000     1237 byte  docs/components/sidebar-item/sidebar-item-style.s\</tspan>
 <tspan x="10" y="938">css</tspan>
-<tspan x="10" y="954"> 56.  2017-04-02 17:39:12 +0000     1195 byte  docs/components/sidebar-item/sidebar-item.jsx</tspan>
-<tspan x="10" y="970"> 57.  2017-04-02 17:39:12 +0000     2082 byte  docs/components/sidebar-mobile/sidebar-mobile-sty\</tspan>
+<tspan x="10" y="954"> 56.  2017-04-02 17:40:43 +0000     1195 byte  docs/components/sidebar-item/sidebar-item.jsx</tspan>
+<tspan x="10" y="970"> 57.  2017-04-02 17:40:43 +0000     2082 byte  docs/components/sidebar-mobile/sidebar-mobile-sty\</tspan>
 <tspan x="10" y="986">le.scss</tspan>
-<tspan x="10" y="1002"> 58.  2017-04-02 17:39:12 +0000     5165 byte  docs/components/sidebar-mobile/sidebar-mobile.jsx</tspan>
-<tspan x="10" y="1018"> 59.  2017-04-02 17:39:12 +0000      242 byte  docs/components/sidebar/sidebar-style.scss</tspan>
-<tspan x="10" y="1034"> 60.  2017-04-02 17:39:12 +0000      806 byte  docs/components/sidebar/sidebar.jsx</tspan>
-<tspan x="10" y="1050"> 61.  2017-04-02 17:39:12 +0000     1529 byte  docs/components/sidecar/sidecar-style.scss</tspan>
-<tspan x="10" y="1066"> 62.  2017-04-02 17:39:12 +0000     2103 byte  docs/components/sidecar/sidecar.jsx</tspan>
-<tspan x="10" y="1082"> 63.  2017-04-02 17:39:12 +0000      137 byte  docs/components/site/site-style.scss</tspan>
-<tspan x="10" y="1098"> 64.  2017-04-02 17:39:12 +0000     1716 byte  docs/components/site/site.jsx</tspan>
-<tspan x="10" y="1114"> 65.  2017-04-02 17:39:12 +0000      950 byte  docs/components/splash-viz/splash-viz-style.scss</tspan>
-<tspan x="10" y="1130"> 66.  2017-04-02 17:39:12 +0000      847 byte  docs/components/splash-viz/splash-viz.jsx</tspan>
-<tspan x="10" y="1146"> 67.  2017-04-02 17:39:12 +0000      443 byte  docs/components/splash/splash-style.scss</tspan>
-<tspan x="10" y="1162"> 68.  2017-04-02 17:39:12 +0000     1148 byte  docs/components/splash/splash.jsx</tspan>
-<tspan x="10" y="1178"> 69.  2017-04-02 17:39:12 +0000      480 byte  docs/components/support/support-style.scss</tspan>
-<tspan x="10" y="1194"> 70.  2017-04-02 17:39:12 +0000      529 byte  docs/components/support/support.jsx</tspan>
-<tspan x="10" y="1210"> 71.  2017-04-02 17:39:12 +0000      780 byte  docs/components/text-rotater/text-rotater-style.s\</tspan>
+<tspan x="10" y="1002"> 58.  2017-04-02 17:40:43 +0000     5165 byte  docs/components/sidebar-mobile/sidebar-mobile.jsx</tspan>
+<tspan x="10" y="1018"> 59.  2017-04-02 17:40:43 +0000      242 byte  docs/components/sidebar/sidebar-style.scss</tspan>
+<tspan x="10" y="1034"> 60.  2017-04-02 17:40:43 +0000      806 byte  docs/components/sidebar/sidebar.jsx</tspan>
+<tspan x="10" y="1050"> 61.  2017-04-02 17:40:43 +0000     1529 byte  docs/components/sidecar/sidecar-style.scss</tspan>
+<tspan x="10" y="1066"> 62.  2017-04-02 17:40:43 +0000     2103 byte  docs/components/sidecar/sidecar.jsx</tspan>
+<tspan x="10" y="1082"> 63.  2017-04-02 17:40:43 +0000      137 byte  docs/components/site/site-style.scss</tspan>
+<tspan x="10" y="1098"> 64.  2017-04-02 17:40:43 +0000     1716 byte  docs/components/site/site.jsx</tspan>
+<tspan x="10" y="1114"> 65.  2017-04-02 17:40:43 +0000      950 byte  docs/components/splash-viz/splash-viz-style.scss</tspan>
+<tspan x="10" y="1130"> 66.  2017-04-02 17:40:43 +0000      847 byte  docs/components/splash-viz/splash-viz.jsx</tspan>
+<tspan x="10" y="1146"> 67.  2017-04-02 17:40:43 +0000      443 byte  docs/components/splash/splash-style.scss</tspan>
+<tspan x="10" y="1162"> 68.  2017-04-02 17:40:43 +0000     1148 byte  docs/components/splash/splash.jsx</tspan>
+<tspan x="10" y="1178"> 69.  2017-04-02 17:40:43 +0000      480 byte  docs/components/support/support-style.scss</tspan>
+<tspan x="10" y="1194"> 70.  2017-04-02 17:40:43 +0000      529 byte  docs/components/support/support.jsx</tspan>
+<tspan x="10" y="1210"> 71.  2017-04-02 17:40:43 +0000      780 byte  docs/components/text-rotater/text-rotater-style.s\</tspan>
 <tspan x="10" y="1226">css</tspan>
-<tspan x="10" y="1242"> 72.  2017-04-02 17:39:12 +0000     2350 byte  docs/components/text-rotater/text-rotater.jsx</tspan>
-<tspan x="10" y="1258"> 73.  2017-04-02 17:39:12 +0000     4493 byte  docs/components/vote/api.dev.js</tspan>
-<tspan x="10" y="1274"> 74.  2017-04-02 17:39:12 +0000     3512 byte  docs/components/vote/api.js</tspan>
-<tspan x="10" y="1290"> 75.  2017-04-02 17:39:12 +0000     3242 byte  docs/components/vote/app-style.scss</tspan>
-<tspan x="10" y="1306"> 76.  2017-04-02 17:39:12 +0000    11007 byte  docs/components/vote/app.jsx</tspan>
-<tspan x="10" y="1322"> 77.  2017-04-02 17:39:12 +0000      752 byte  docs/components/vote/button/button-style.scss</tspan>
-<tspan x="10" y="1338"> 78.  2017-04-02 17:39:12 +0000     3641 byte  docs/components/vote/button/button.jsx</tspan>
-<tspan x="10" y="1354"> 79.  2017-04-02 17:39:12 +0000      230 byte  docs/components/vote/influence-style.scss</tspan>
-<tspan x="10" y="1370"> 80.  2017-04-02 17:39:12 +0000      986 byte  docs/components/vote/influence.jsx</tspan>
-<tspan x="10" y="1386"> 81.  2017-04-02 17:39:12 +0000       56 byte  docs/components/vote/list-style.scss</tspan>
-<tspan x="10" y="1402"> 82.  2017-04-02 17:39:12 +0000      680 byte  docs/components/vote/list.jsx</tspan>
-<tspan x="10" y="1418"> 83.  2017-04-02 17:39:12 +0000     1230 byte  docs/config.json</tspan>
-<tspan x="10" y="1434"> 84.  2017-04-02 17:39:12 +0000      484 byte  docs/content/Contributing/00_title.md</tspan>
-<tspan x="10" y="1450"> 85.  2017-04-02 17:39:12 +0000     1871 byte  docs/content/Contributing/01_Commit_Style.md</tspan>
-<tspan x="10" y="1466"> 86.  2017-04-02 17:39:12 +0000      180 byte  docs/content/contribute.md</tspan>
-<tspan x="10" y="1482"> 87.  2017-04-02 17:39:12 +0000      414 byte  docs/content/deployment/index.md</tspan>
-<tspan x="10" y="1498"> 88.  2017-04-02 17:39:12 +0000     3228 byte  docs/content/developing/01_Adding_a_Route.md</tspan>
-<tspan x="10" y="1514"> 89.  2017-04-02 17:39:12 +0000     5305 byte  docs/content/developing/index.md</tspan>
-<tspan x="10" y="1530"> 90.  2017-04-02 17:39:12 +0000      577 byte  docs/content/examples/Heroku_Deployment.md</tspan>
-<tspan x="10" y="1546"> 91.  2017-04-02 17:39:12 +0000     5676 byte  docs/content/examples/IIS.md</tspan>
-<tspan x="10" y="1562"> 92.  2017-04-02 17:39:12 +0000       40 byte  docs/content/examples/index.md</tspan>
-<tspan x="10" y="1578"> 93.  2017-04-02 17:39:12 +0000     1034 byte  docs/content/generators/app.md</tspan>
-<tspan x="10" y="1594"> 94.  2017-04-02 17:39:12 +0000      345 byte  docs/content/generators/component.md</tspan>
-<tspan x="10" y="1610"> 95.  2017-04-02 17:39:12 +0000      339 byte  docs/content/generators/controller.md</tspan>
-<tspan x="10" y="1626"> 96.  2017-04-02 17:39:12 +0000      335 byte  docs/content/generators/decorator.md</tspan>
-<tspan x="10" y="1642"> 97.  2017-04-02 17:39:12 +0000      897 byte  docs/content/generators/directive.md</tspan>
-<tspan x="10" y="1658"> 98.  2017-04-02 17:39:12 +0000     1024 byte  docs/content/generators/endpoint.md</tspan>
-<tspan x="10" y="1674"> 99.  2017-04-02 17:39:12 +0000      335 byte  docs/content/generators/filter.md</tspan>
-<tspan x="10" y="1690">100.  2017-04-02 17:39:12 +0000     2213 byte  docs/content/generators/heroku.md</tspan>
-<tspan x="10" y="1706">101.  2017-04-02 17:39:12 +0000       73 byte  docs/content/generators/index.md</tspan>
-<tspan x="10" y="1722">102.  2017-04-02 17:39:12 +0000     1327 byte  docs/content/generators/openshift.md</tspan>
-<tspan x="10" y="1738">103.  2017-04-02 17:39:12 +0000      887 byte  docs/content/generators/route.md</tspan>
-<tspan x="10" y="1754">104.  2017-04-02 17:39:12 +0000      481 byte  docs/content/generators/service.md</tspan>
-<tspan x="10" y="1770">105.  2017-04-02 17:39:12 +0000     3587 byte  docs/content/get-started/index.md</tspan>
-<tspan x="10" y="1786">106.  2017-04-02 17:39:12 +0000     1270 byte  docs/content/get-started/installation.md</tspan>
-<tspan x="10" y="1802">107.  2017-04-02 17:39:12 +0000     4888 byte  docs/content/get-started/overview.md</tspan>
-<tspan x="10" y="1818">108.  2017-04-02 17:39:12 +0000      772 byte  docs/content/get-started/running.md</tspan>
-<tspan x="10" y="1834">109.  2017-04-02 17:39:12 +0000       20 byte  docs/content/guides/asdf.md</tspan>
-<tspan x="10" y="1850">110.  2017-04-02 17:39:12 +0000      137 byte  docs/content/guides/index.md</tspan>
-<tspan x="10" y="1866">111.  2017-04-02 17:39:12 +0000      898 byte  docs/content/index.md</tspan>
-<tspan x="10" y="1882">112.  2017-04-02 17:39:12 +0000      229 byte  docs/docs.css</tspan>
-<tspan x="10" y="1898">113.  2017-04-02 17:39:12 +0000   176320 byte  docs/images/afs-screenshot.png</tspan>
-<tspan x="10" y="1914">114.  2017-04-02 17:39:12 +0000    60976 byte  docs/images/foo-route-navbar.jpg</tspan>
-<tspan x="10" y="1930">115.  2017-04-02 17:39:12 +0000    61800 byte  docs/images/foo-route.jpg</tspan>
-<tspan x="10" y="1946">116.  2017-04-02 17:39:12 +0000   233276 byte  docs/images/logged-in.jpg</tspan>
-<tspan x="10" y="1962">117.  2017-04-02 17:39:12 +0000    59827 byte  docs/images/socket.io-demo.gif</tspan>
-<tspan x="10" y="1978">118.  2017-04-02 17:39:12 +0000     4433 byte  docs/index.md</tspan>
-<tspan x="10" y="1994">119.  2017-04-02 17:39:12 +0000     3491 byte  docs/package.json</tspan>
-<tspan x="10" y="2010">120.  2017-04-02 17:39:12 +0000     1439 byte  docs/scripts/deploy.sh</tspan>
-<tspan x="10" y="2026">121.  2017-04-02 17:39:12 +0000     3248 byte  docs/scripts/deploy_key.enc</tspan>
-<tspan x="10" y="2042">122.  2017-04-02 17:39:12 +0000      732 byte  docs/scripts/deploy_key.pub</tspan>
-<tspan x="10" y="2058">123.  2017-04-02 17:39:12 +0000      581 byte  docs/scripts/fetch.sh</tspan>
-<tspan x="10" y="2074">124.  2017-04-02 17:39:12 +0000     2820 byte  docs/scripts/fetch_package_files.js</tspan>
-<tspan x="10" y="2090">125.  2017-04-02 17:39:12 +0000      943 byte  docs/scripts/fetch_package_names.js</tspan>
-<tspan x="10" y="2106">126.  2017-04-02 17:39:12 +0000      205 byte  docs/styles/fonts.scss</tspan>
-<tspan x="10" y="2122">127.  2017-04-02 17:39:12 +0000      349 byte  docs/styles/homepage.scss</tspan>
-<tspan x="10" y="2138">128.  2017-04-02 17:39:12 +0000      157 byte  docs/styles/icon.font.js</tspan>
-<tspan x="10" y="2154">129.  2017-04-02 17:39:12 +0000      311 byte  docs/styles/icon.template.hbs</tspan>
-<tspan x="10" y="2170">130.  2017-04-02 17:39:12 +0000      750 byte  docs/styles/icons/chevron-down.svg</tspan>
-<tspan x="10" y="2186">131.  2017-04-02 17:39:12 +0000      750 byte  docs/styles/icons/chevron-left.svg</tspan>
-<tspan x="10" y="2202">132.  2017-04-02 17:39:12 +0000      750 byte  docs/styles/icons/chevron-right.svg</tspan>
-<tspan x="10" y="2218">133.  2017-04-02 17:39:12 +0000      752 byte  docs/styles/icons/chevron-up.svg</tspan>
-<tspan x="10" y="2234">134.  2017-04-02 17:39:12 +0000      835 byte  docs/styles/icons/cross.svg</tspan>
-<tspan x="10" y="2250">135.  2017-04-02 17:39:12 +0000      829 byte  docs/styles/icons/edit.svg</tspan>
-<tspan x="10" y="2266">136.  2017-04-02 17:39:12 +0000      840 byte  docs/styles/icons/github.svg</tspan>
-<tspan x="10" y="2282">137.  2017-04-02 17:39:12 +0000     1372 byte  docs/styles/icons/gitter.svg</tspan>
-<tspan x="10" y="2298">138.  2017-04-02 17:39:12 +0000      868 byte  docs/styles/icons/link.svg</tspan>
-<tspan x="10" y="2314">139.  2017-04-02 17:39:12 +0000      904 byte  docs/styles/icons/magnifying-glass.svg</tspan>
-<tspan x="10" y="2330">140.  2017-04-02 17:39:12 +0000      412 byte  docs/styles/icons/medium.svg</tspan>
-<tspan x="10" y="2346">141.  2017-04-02 17:39:12 +0000      787 byte  docs/styles/icons/menu.svg</tspan>
-<tspan x="10" y="2362">142.  2017-04-02 17:39:12 +0000      399 byte  docs/styles/icons/stack-overflow.svg</tspan>
-<tspan x="10" y="2378">143.  2017-04-02 17:39:12 +0000     1432 byte  docs/styles/index.scss</tspan>
-<tspan x="10" y="2394">144.  2017-04-02 17:39:12 +0000     4177 byte  docs/styles/markdown.scss</tspan>
-<tspan x="10" y="2410">145.  2017-04-02 17:39:12 +0000      233 byte  docs/styles/partials/_functions.scss</tspan>
-<tspan x="10" y="2426">146.  2017-04-02 17:39:12 +0000      100 byte  docs/styles/partials/_mixins.scss</tspan>
-<tspan x="10" y="2442">147.  2017-04-02 17:39:12 +0000      597 byte  docs/styles/partials/_vars.scss</tspan>
-<tspan x="10" y="2458">148.  2017-04-02 17:39:12 +0000     1582 byte  docs/styles/prism-theme.scss</tspan>
-<tspan x="10" y="2474">149.  2017-04-02 17:39:12 +0000      864 byte  docs/styles/reset.css</tspan>
-<tspan x="10" y="2490">150.  2017-04-02 17:39:12 +0000     1221 byte  docs/template.ejs</tspan>
-<tspan x="10" y="2506">151.  2017-04-02 17:39:12 +0000      788 byte  docs/utilities/highlight.js</tspan>
-<tspan x="10" y="2522">152.  2017-04-02 17:39:12 +0000     6615 byte  docs/utilities/markdown.js</tspan>
-<tspan x="10" y="2538">153.  2017-04-02 17:39:12 +0000     3239 byte  docs/webpack.config.js</tspan>
-<tspan x="10" y="2554">154.  2017-04-02 17:39:12 +0000      491 byte  generators/app/USAGE</tspan>
-<tspan x="10" y="2570">155.  2017-04-02 17:39:12 +0000    26533 byte  generators/app/index.js</tspan>
-<tspan x="10" y="2586">156.  2017-04-02 17:39:12 +0000     2143 byte  generators/component/index.js</tspan>
-<tspan x="10" y="2602">157.  2017-04-02 17:39:12 +0000      319 byte  generators/controller/index.js</tspan>
-<tspan x="10" y="2618">158.  2017-04-02 17:39:12 +0000      317 byte  generators/decorator/index.js</tspan>
-<tspan x="10" y="2634">159.  2017-04-02 17:39:12 +0000      317 byte  generators/directive/index.js</tspan>
-<tspan x="10" y="2650">160.  2017-04-02 17:39:12 +0000     6867 byte  generators/endpoint/index.js</tspan>
-<tspan x="10" y="2666">161.  2017-04-02 17:39:12 +0000      313 byte  generators/factory/index.js</tspan>
-<tspan x="10" y="2682">162.  2017-04-02 17:39:12 +0000      311 byte  generators/filter/index.js</tspan>
-<tspan x="10" y="2698">163.  2017-04-02 17:39:12 +0000     3201 byte  generators/generator-base.js</tspan>
-<tspan x="10" y="2714">164.  2017-04-02 17:39:12 +0000      220 byte  generators/heroku/USAGE</tspan>
-<tspan x="10" y="2730">165.  2017-04-02 17:39:12 +0000     9466 byte  generators/heroku/index.js</tspan>
-<tspan x="10" y="2746">166.  2017-04-02 17:39:12 +0000      482 byte  generators/insight-init.js</tspan>
-<tspan x="10" y="2762">167.  2017-04-02 17:39:12 +0000      225 byte  generators/openshift/USAGE</tspan>
-<tspan x="10" y="2778">168.  2017-04-02 17:39:12 +0000    10823 byte  generators/openshift/index.js</tspan>
-<tspan x="10" y="2794">169.  2017-04-02 17:39:12 +0000        0 byte  generators/openshift/templates/hot_deploy</tspan>
-<tspan x="10" y="2810">170.  2017-04-02 17:39:12 +0000      315 byte  generators/provider/index.js</tspan>
-<tspan x="10" y="2826">171.  2017-04-02 17:39:12 +0000      309 byte  generators/route/index.js</tspan>
-<tspan x="10" y="2842">172.  2017-04-02 17:39:12 +0000      313 byte  generators/service/index.js</tspan>
-<tspan x="10" y="2858">173.  2017-04-02 17:39:12 +0000     5715 byte  generators/util.js</tspan>
-<tspan x="10" y="2874">174.  2017-04-02 17:39:12 +0000     8677 byte  gulpfile.js</tspan>
-<tspan x="10" y="2890">175.  2017-04-02 17:39:12 +0000      245 byte  media/readme.md</tspan>
-<tspan x="10" y="2906">176.  2017-04-02 17:39:12 +0000   594427 byte  media/source/angular-fullstack-boxes.ai</tspan>
-<tspan x="10" y="2922">177.  2017-04-02 17:39:12 +0000   625001 byte  media/source/angular-fullstack-logo.ai</tspan>
-<tspan x="10" y="2938">178.  2017-04-02 17:39:12 +0000   589017 byte  media/svg/angular-fullstack-boxes.svg</tspan>
-<tspan x="10" y="2954">179.  2017-04-02 17:39:12 +0000   603239 byte  media/svg/angular-fullstack-logo.svg</tspan>
-<tspan x="10" y="2970">180.  2017-04-02 17:39:12 +0000      137 byte  mocha.conf.js</tspan>
-<tspan x="10" y="2986">181.  2017-04-02 17:39:12 +0000     5186 byte  package.json</tspan>
-<tspan x="10" y="3002">182.  2017-04-02 17:39:12 +0000    12752 byte  readme.md</tspan>
-<tspan x="10" y="3018">183.  2017-04-02 17:39:12 +0000     1884 byte  scripts/sauce_connect_setup.sh</tspan>
-<tspan x="10" y="3034">184.  2017-04-02 17:39:12 +0000      491 byte  src/generators/app/USAGE</tspan>
-<tspan x="10" y="3050">185.  2017-04-02 17:39:12 +0000    20477 byte  src/generators/app/index.js</tspan>
-<tspan x="10" y="3066">186.  2017-04-02 17:39:12 +0000      308 byte  src/generators/component/index.js</tspan>
-<tspan x="10" y="3082">187.  2017-04-02 17:39:12 +0000      309 byte  src/generators/controller/index.js</tspan>
-<tspan x="10" y="3098">188.  2017-04-02 17:39:12 +0000      307 byte  src/generators/decorator/index.js</tspan>
-<tspan x="10" y="3114">189.  2017-04-02 17:39:12 +0000      307 byte  src/generators/directive/index.js</tspan>
-<tspan x="10" y="3130">190.  2017-04-02 17:39:12 +0000     4148 byte  src/generators/endpoint/index.js</tspan>
-<tspan x="10" y="3146">191.  2017-04-02 17:39:12 +0000      303 byte  src/generators/factory/index.js</tspan>
-<tspan x="10" y="3162">192.  2017-04-02 17:39:12 +0000      301 byte  src/generators/filter/index.js</tspan>
-<tspan x="10" y="3178">193.  2017-04-02 17:39:12 +0000     2151 byte  src/generators/generator-base.js</tspan>
-<tspan x="10" y="3194">194.  2017-04-02 17:39:12 +0000      220 byte  src/generators/heroku/USAGE</tspan>
-<tspan x="10" y="3210">195.  2017-04-02 17:39:12 +0000     5485 byte  src/generators/heroku/index.js</tspan>
-<tspan x="10" y="3226">196.  2017-04-02 17:39:12 +0000      481 byte  src/generators/insight-init.js</tspan>
-<tspan x="10" y="3242">197.  2017-04-02 17:39:12 +0000      225 byte  src/generators/openshift/USAGE</tspan>
-<tspan x="10" y="3258">198.  2017-04-02 17:39:12 +0000    10754 byte  src/generators/openshift/index.js</tspan>
-<tspan x="10" y="3274">199.  2017-04-02 17:39:12 +0000        0 byte  src/generators/openshift/templates/hot_deploy</tspan>
-<tspan x="10" y="3290">200.  2017-04-02 17:39:12 +0000      305 byte  src/generators/provider/index.js</tspan>
-<tspan x="10" y="3306">201.  2017-04-02 17:39:12 +0000      299 byte  src/generators/route/index.js</tspan>
-<tspan x="10" y="3322">202.  2017-04-02 17:39:12 +0000      303 byte  src/generators/service/index.js</tspan>
-<tspan x="10" y="3338">203.  2017-04-02 17:39:12 +0000     4922 byte  src/generators/util.js</tspan>
-<tspan x="10" y="3354">204.  2017-04-02 17:39:12 +0000     5926 byte  src/test/endpoint.test.js</tspan>
-<tspan x="10" y="3370">205.  2017-04-02 17:39:12 +0000     7504 byte  src/test/get-expected-files.js</tspan>
-<tspan x="10" y="3386">206.  2017-04-02 17:39:12 +0000    11682 byte  src/test/main.test.js</tspan>
-<tspan x="10" y="3402">207.  2017-04-02 17:39:12 +0000      773 byte  src/test/pre.test.js</tspan>
-<tspan x="10" y="3418">208.  2017-04-02 17:39:12 +0000     3438 byte  src/test/test-helpers.js</tspan>
-<tspan x="10" y="3434">209.  2017-04-02 17:39:12 +0000      916 byte  task-utils/changelog-templates/commit.hbs</tspan>
-<tspan x="10" y="3450">210.  2017-04-02 17:39:12 +0000     2766 byte  task-utils/grunt.js</tspan>
-<tspan x="10" y="3466">211.  2017-04-02 17:39:12 +0000     1106 byte  templates/app/README.md</tspan>
-<tspan x="10" y="3482">212.  2017-04-02 17:39:12 +0000      171 byte  templates/app/_.babelrc</tspan>
-<tspan x="10" y="3498">213.  2017-04-02 17:39:12 +0000      173 byte  templates/app/_.gitignore</tspan>
-<tspan x="10" y="3514">214.  2017-04-02 17:39:12 +0000     6647 byte  templates/app/_package.json</tspan>
-<tspan x="10" y="3530">215.  2017-04-02 17:39:12 +0000     1291 byte  templates/app/client/__index.html</tspan>
-<tspan x="10" y="3546">216.  2017-04-02 17:39:12 +0000     2154 byte  templates/app/client/app/account(auth)/account.ro\</tspan>
+<tspan x="10" y="1242"> 72.  2017-04-02 17:40:43 +0000     2350 byte  docs/components/text-rotater/text-rotater.jsx</tspan>
+<tspan x="10" y="1258"> 73.  2017-04-02 17:40:43 +0000     4493 byte  docs/components/vote/api.dev.js</tspan>
+<tspan x="10" y="1274"> 74.  2017-04-02 17:40:43 +0000     3512 byte  docs/components/vote/api.js</tspan>
+<tspan x="10" y="1290"> 75.  2017-04-02 17:40:43 +0000     3242 byte  docs/components/vote/app-style.scss</tspan>
+<tspan x="10" y="1306"> 76.  2017-04-02 17:40:43 +0000    11007 byte  docs/components/vote/app.jsx</tspan>
+<tspan x="10" y="1322"> 77.  2017-04-02 17:40:43 +0000      752 byte  docs/components/vote/button/button-style.scss</tspan>
+<tspan x="10" y="1338"> 78.  2017-04-02 17:40:43 +0000     3641 byte  docs/components/vote/button/button.jsx</tspan>
+<tspan x="10" y="1354"> 79.  2017-04-02 17:40:43 +0000      230 byte  docs/components/vote/influence-style.scss</tspan>
+<tspan x="10" y="1370"> 80.  2017-04-02 17:40:43 +0000      986 byte  docs/components/vote/influence.jsx</tspan>
+<tspan x="10" y="1386"> 81.  2017-04-02 17:40:43 +0000       56 byte  docs/components/vote/list-style.scss</tspan>
+<tspan x="10" y="1402"> 82.  2017-04-02 17:40:43 +0000      680 byte  docs/components/vote/list.jsx</tspan>
+<tspan x="10" y="1418"> 83.  2017-04-02 17:40:43 +0000     1230 byte  docs/config.json</tspan>
+<tspan x="10" y="1434"> 84.  2017-04-02 17:40:43 +0000      484 byte  docs/content/Contributing/00_title.md</tspan>
+<tspan x="10" y="1450"> 85.  2017-04-02 17:40:43 +0000     1871 byte  docs/content/Contributing/01_Commit_Style.md</tspan>
+<tspan x="10" y="1466"> 86.  2017-04-02 17:40:43 +0000      180 byte  docs/content/contribute.md</tspan>
+<tspan x="10" y="1482"> 87.  2017-04-02 17:40:43 +0000      414 byte  docs/content/deployment/index.md</tspan>
+<tspan x="10" y="1498"> 88.  2017-04-02 17:40:43 +0000     3228 byte  docs/content/developing/01_Adding_a_Route.md</tspan>
+<tspan x="10" y="1514"> 89.  2017-04-02 17:40:43 +0000     5305 byte  docs/content/developing/index.md</tspan>
+<tspan x="10" y="1530"> 90.  2017-04-02 17:40:43 +0000      577 byte  docs/content/examples/Heroku_Deployment.md</tspan>
+<tspan x="10" y="1546"> 91.  2017-04-02 17:40:43 +0000     5676 byte  docs/content/examples/IIS.md</tspan>
+<tspan x="10" y="1562"> 92.  2017-04-02 17:40:43 +0000       40 byte  docs/content/examples/index.md</tspan>
+<tspan x="10" y="1578"> 93.  2017-04-02 17:40:43 +0000     1034 byte  docs/content/generators/app.md</tspan>
+<tspan x="10" y="1594"> 94.  2017-04-02 17:40:43 +0000      345 byte  docs/content/generators/component.md</tspan>
+<tspan x="10" y="1610"> 95.  2017-04-02 17:40:43 +0000      339 byte  docs/content/generators/controller.md</tspan>
+<tspan x="10" y="1626"> 96.  2017-04-02 17:40:43 +0000      335 byte  docs/content/generators/decorator.md</tspan>
+<tspan x="10" y="1642"> 97.  2017-04-02 17:40:43 +0000      897 byte  docs/content/generators/directive.md</tspan>
+<tspan x="10" y="1658"> 98.  2017-04-02 17:40:43 +0000     1024 byte  docs/content/generators/endpoint.md</tspan>
+<tspan x="10" y="1674"> 99.  2017-04-02 17:40:43 +0000      335 byte  docs/content/generators/filter.md</tspan>
+<tspan x="10" y="1690">100.  2017-04-02 17:40:43 +0000     2213 byte  docs/content/generators/heroku.md</tspan>
+<tspan x="10" y="1706">101.  2017-04-02 17:40:43 +0000       73 byte  docs/content/generators/index.md</tspan>
+<tspan x="10" y="1722">102.  2017-04-02 17:40:43 +0000     1327 byte  docs/content/generators/openshift.md</tspan>
+<tspan x="10" y="1738">103.  2017-04-02 17:40:43 +0000      887 byte  docs/content/generators/route.md</tspan>
+<tspan x="10" y="1754">104.  2017-04-02 17:40:43 +0000      481 byte  docs/content/generators/service.md</tspan>
+<tspan x="10" y="1770">105.  2017-04-02 17:40:43 +0000     3587 byte  docs/content/get-started/index.md</tspan>
+<tspan x="10" y="1786">106.  2017-04-02 17:40:43 +0000     1270 byte  docs/content/get-started/installation.md</tspan>
+<tspan x="10" y="1802">107.  2017-04-02 17:40:43 +0000     4888 byte  docs/content/get-started/overview.md</tspan>
+<tspan x="10" y="1818">108.  2017-04-02 17:40:43 +0000      772 byte  docs/content/get-started/running.md</tspan>
+<tspan x="10" y="1834">109.  2017-04-02 17:40:43 +0000       20 byte  docs/content/guides/asdf.md</tspan>
+<tspan x="10" y="1850">110.  2017-04-02 17:40:43 +0000      137 byte  docs/content/guides/index.md</tspan>
+<tspan x="10" y="1866">111.  2017-04-02 17:40:43 +0000      898 byte  docs/content/index.md</tspan>
+<tspan x="10" y="1882">112.  2017-04-02 17:40:43 +0000      229 byte  docs/docs.css</tspan>
+<tspan x="10" y="1898">113.  2017-04-02 17:40:43 +0000   176320 byte  docs/images/afs-screenshot.png</tspan>
+<tspan x="10" y="1914">114.  2017-04-02 17:40:43 +0000    60976 byte  docs/images/foo-route-navbar.jpg</tspan>
+<tspan x="10" y="1930">115.  2017-04-02 17:40:43 +0000    61800 byte  docs/images/foo-route.jpg</tspan>
+<tspan x="10" y="1946">116.  2017-04-02 17:40:43 +0000   233276 byte  docs/images/logged-in.jpg</tspan>
+<tspan x="10" y="1962">117.  2017-04-02 17:40:43 +0000    59827 byte  docs/images/socket.io-demo.gif</tspan>
+<tspan x="10" y="1978">118.  2017-04-02 17:40:43 +0000     4433 byte  docs/index.md</tspan>
+<tspan x="10" y="1994">119.  2017-04-02 17:40:43 +0000     3491 byte  docs/package.json</tspan>
+<tspan x="10" y="2010">120.  2017-04-02 17:40:43 +0000     1439 byte  docs/scripts/deploy.sh</tspan>
+<tspan x="10" y="2026">121.  2017-04-02 17:40:43 +0000     3248 byte  docs/scripts/deploy_key.enc</tspan>
+<tspan x="10" y="2042">122.  2017-04-02 17:40:43 +0000      732 byte  docs/scripts/deploy_key.pub</tspan>
+<tspan x="10" y="2058">123.  2017-04-02 17:40:43 +0000      581 byte  docs/scripts/fetch.sh</tspan>
+<tspan x="10" y="2074">124.  2017-04-02 17:40:43 +0000     2820 byte  docs/scripts/fetch_package_files.js</tspan>
+<tspan x="10" y="2090">125.  2017-04-02 17:40:43 +0000      943 byte  docs/scripts/fetch_package_names.js</tspan>
+<tspan x="10" y="2106">126.  2017-04-02 17:40:43 +0000      205 byte  docs/styles/fonts.scss</tspan>
+<tspan x="10" y="2122">127.  2017-04-02 17:40:43 +0000      349 byte  docs/styles/homepage.scss</tspan>
+<tspan x="10" y="2138">128.  2017-04-02 17:40:43 +0000      157 byte  docs/styles/icon.font.js</tspan>
+<tspan x="10" y="2154">129.  2017-04-02 17:40:43 +0000      311 byte  docs/styles/icon.template.hbs</tspan>
+<tspan x="10" y="2170">130.  2017-04-02 17:40:43 +0000      750 byte  docs/styles/icons/chevron-down.svg</tspan>
+<tspan x="10" y="2186">131.  2017-04-02 17:40:43 +0000      750 byte  docs/styles/icons/chevron-left.svg</tspan>
+<tspan x="10" y="2202">132.  2017-04-02 17:40:43 +0000      750 byte  docs/styles/icons/chevron-right.svg</tspan>
+<tspan x="10" y="2218">133.  2017-04-02 17:40:43 +0000      752 byte  docs/styles/icons/chevron-up.svg</tspan>
+<tspan x="10" y="2234">134.  2017-04-02 17:40:43 +0000      835 byte  docs/styles/icons/cross.svg</tspan>
+<tspan x="10" y="2250">135.  2017-04-02 17:40:43 +0000      829 byte  docs/styles/icons/edit.svg</tspan>
+<tspan x="10" y="2266">136.  2017-04-02 17:40:43 +0000      840 byte  docs/styles/icons/github.svg</tspan>
+<tspan x="10" y="2282">137.  2017-04-02 17:40:43 +0000     1372 byte  docs/styles/icons/gitter.svg</tspan>
+<tspan x="10" y="2298">138.  2017-04-02 17:40:43 +0000      868 byte  docs/styles/icons/link.svg</tspan>
+<tspan x="10" y="2314">139.  2017-04-02 17:40:43 +0000      904 byte  docs/styles/icons/magnifying-glass.svg</tspan>
+<tspan x="10" y="2330">140.  2017-04-02 17:40:43 +0000      412 byte  docs/styles/icons/medium.svg</tspan>
+<tspan x="10" y="2346">141.  2017-04-02 17:40:43 +0000      787 byte  docs/styles/icons/menu.svg</tspan>
+<tspan x="10" y="2362">142.  2017-04-02 17:40:43 +0000      399 byte  docs/styles/icons/stack-overflow.svg</tspan>
+<tspan x="10" y="2378">143.  2017-04-02 17:40:43 +0000     1432 byte  docs/styles/index.scss</tspan>
+<tspan x="10" y="2394">144.  2017-04-02 17:40:43 +0000     4177 byte  docs/styles/markdown.scss</tspan>
+<tspan x="10" y="2410">145.  2017-04-02 17:40:43 +0000      233 byte  docs/styles/partials/_functions.scss</tspan>
+<tspan x="10" y="2426">146.  2017-04-02 17:40:43 +0000      100 byte  docs/styles/partials/_mixins.scss</tspan>
+<tspan x="10" y="2442">147.  2017-04-02 17:40:43 +0000      597 byte  docs/styles/partials/_vars.scss</tspan>
+<tspan x="10" y="2458">148.  2017-04-02 17:40:43 +0000     1582 byte  docs/styles/prism-theme.scss</tspan>
+<tspan x="10" y="2474">149.  2017-04-02 17:40:43 +0000      864 byte  docs/styles/reset.css</tspan>
+<tspan x="10" y="2490">150.  2017-04-02 17:40:43 +0000     1221 byte  docs/template.ejs</tspan>
+<tspan x="10" y="2506">151.  2017-04-02 17:40:43 +0000      788 byte  docs/utilities/highlight.js</tspan>
+<tspan x="10" y="2522">152.  2017-04-02 17:40:43 +0000     6615 byte  docs/utilities/markdown.js</tspan>
+<tspan x="10" y="2538">153.  2017-04-02 17:40:43 +0000     3239 byte  docs/webpack.config.js</tspan>
+<tspan x="10" y="2554">154.  2017-04-02 17:40:43 +0000      491 byte  generators/app/USAGE</tspan>
+<tspan x="10" y="2570">155.  2017-04-02 17:40:43 +0000    26533 byte  generators/app/index.js</tspan>
+<tspan x="10" y="2586">156.  2017-04-02 17:40:43 +0000     2143 byte  generators/component/index.js</tspan>
+<tspan x="10" y="2602">157.  2017-04-02 17:40:43 +0000      319 byte  generators/controller/index.js</tspan>
+<tspan x="10" y="2618">158.  2017-04-02 17:40:43 +0000      317 byte  generators/decorator/index.js</tspan>
+<tspan x="10" y="2634">159.  2017-04-02 17:40:43 +0000      317 byte  generators/directive/index.js</tspan>
+<tspan x="10" y="2650">160.  2017-04-02 17:40:43 +0000     6867 byte  generators/endpoint/index.js</tspan>
+<tspan x="10" y="2666">161.  2017-04-02 17:40:43 +0000      313 byte  generators/factory/index.js</tspan>
+<tspan x="10" y="2682">162.  2017-04-02 17:40:43 +0000      311 byte  generators/filter/index.js</tspan>
+<tspan x="10" y="2698">163.  2017-04-02 17:40:43 +0000     3201 byte  generators/generator-base.js</tspan>
+<tspan x="10" y="2714">164.  2017-04-02 17:40:43 +0000      220 byte  generators/heroku/USAGE</tspan>
+<tspan x="10" y="2730">165.  2017-04-02 17:40:43 +0000     9466 byte  generators/heroku/index.js</tspan>
+<tspan x="10" y="2746">166.  2017-04-02 17:40:43 +0000      482 byte  generators/insight-init.js</tspan>
+<tspan x="10" y="2762">167.  2017-04-02 17:40:43 +0000      225 byte  generators/openshift/USAGE</tspan>
+<tspan x="10" y="2778">168.  2017-04-02 17:40:43 +0000    10823 byte  generators/openshift/index.js</tspan>
+<tspan x="10" y="2794">169.  2017-04-02 17:40:43 +0000        0 byte  generators/openshift/templates/hot_deploy</tspan>
+<tspan x="10" y="2810">170.  2017-04-02 17:40:43 +0000      315 byte  generators/provider/index.js</tspan>
+<tspan x="10" y="2826">171.  2017-04-02 17:40:43 +0000      309 byte  generators/route/index.js</tspan>
+<tspan x="10" y="2842">172.  2017-04-02 17:40:43 +0000      313 byte  generators/service/index.js</tspan>
+<tspan x="10" y="2858">173.  2017-04-02 17:40:43 +0000     5715 byte  generators/util.js</tspan>
+<tspan x="10" y="2874">174.  2017-04-02 17:40:43 +0000     8677 byte  gulpfile.js</tspan>
+<tspan x="10" y="2890">175.  2017-04-02 17:40:43 +0000      245 byte  media/readme.md</tspan>
+<tspan x="10" y="2906">176.  2017-04-02 17:40:43 +0000   594427 byte  media/source/angular-fullstack-boxes.ai</tspan>
+<tspan x="10" y="2922">177.  2017-04-02 17:40:43 +0000   625001 byte  media/source/angular-fullstack-logo.ai</tspan>
+<tspan x="10" y="2938">178.  2017-04-02 17:40:43 +0000   589017 byte  media/svg/angular-fullstack-boxes.svg</tspan>
+<tspan x="10" y="2954">179.  2017-04-02 17:40:43 +0000   603239 byte  media/svg/angular-fullstack-logo.svg</tspan>
+<tspan x="10" y="2970">180.  2017-04-02 17:40:43 +0000      137 byte  mocha.conf.js</tspan>
+<tspan x="10" y="2986">181.  2017-04-02 17:40:43 +0000     5186 byte  package.json</tspan>
+<tspan x="10" y="3002">182.  2017-04-02 17:40:43 +0000    12752 byte  readme.md</tspan>
+<tspan x="10" y="3018">183.  2017-04-02 17:40:43 +0000     1884 byte  scripts/sauce_connect_setup.sh</tspan>
+<tspan x="10" y="3034">184.  2017-04-02 17:40:43 +0000      491 byte  src/generators/app/USAGE</tspan>
+<tspan x="10" y="3050">185.  2017-04-02 17:40:43 +0000    20477 byte  src/generators/app/index.js</tspan>
+<tspan x="10" y="3066">186.  2017-04-02 17:40:43 +0000      308 byte  src/generators/component/index.js</tspan>
+<tspan x="10" y="3082">187.  2017-04-02 17:40:43 +0000      309 byte  src/generators/controller/index.js</tspan>
+<tspan x="10" y="3098">188.  2017-04-02 17:40:43 +0000      307 byte  src/generators/decorator/index.js</tspan>
+<tspan x="10" y="3114">189.  2017-04-02 17:40:43 +0000      307 byte  src/generators/directive/index.js</tspan>
+<tspan x="10" y="3130">190.  2017-04-02 17:40:43 +0000     4148 byte  src/generators/endpoint/index.js</tspan>
+<tspan x="10" y="3146">191.  2017-04-02 17:40:43 +0000      303 byte  src/generators/factory/index.js</tspan>
+<tspan x="10" y="3162">192.  2017-04-02 17:40:43 +0000      301 byte  src/generators/filter/index.js</tspan>
+<tspan x="10" y="3178">193.  2017-04-02 17:40:43 +0000     2151 byte  src/generators/generator-base.js</tspan>
+<tspan x="10" y="3194">194.  2017-04-02 17:40:43 +0000      220 byte  src/generators/heroku/USAGE</tspan>
+<tspan x="10" y="3210">195.  2017-04-02 17:40:43 +0000     5485 byte  src/generators/heroku/index.js</tspan>
+<tspan x="10" y="3226">196.  2017-04-02 17:40:43 +0000      481 byte  src/generators/insight-init.js</tspan>
+<tspan x="10" y="3242">197.  2017-04-02 17:40:43 +0000      225 byte  src/generators/openshift/USAGE</tspan>
+<tspan x="10" y="3258">198.  2017-04-02 17:40:43 +0000    10754 byte  src/generators/openshift/index.js</tspan>
+<tspan x="10" y="3274">199.  2017-04-02 17:40:43 +0000        0 byte  src/generators/openshift/templates/hot_deploy</tspan>
+<tspan x="10" y="3290">200.  2017-04-02 17:40:43 +0000      305 byte  src/generators/provider/index.js</tspan>
+<tspan x="10" y="3306">201.  2017-04-02 17:40:43 +0000      299 byte  src/generators/route/index.js</tspan>
+<tspan x="10" y="3322">202.  2017-04-02 17:40:43 +0000      303 byte  src/generators/service/index.js</tspan>
+<tspan x="10" y="3338">203.  2017-04-02 17:40:43 +0000     4922 byte  src/generators/util.js</tspan>
+<tspan x="10" y="3354">204.  2017-04-02 17:40:43 +0000     5926 byte  src/test/endpoint.test.js</tspan>
+<tspan x="10" y="3370">205.  2017-04-02 17:40:43 +0000     7504 byte  src/test/get-expected-files.js</tspan>
+<tspan x="10" y="3386">206.  2017-04-02 17:40:43 +0000    11682 byte  src/test/main.test.js</tspan>
+<tspan x="10" y="3402">207.  2017-04-02 17:40:43 +0000      773 byte  src/test/pre.test.js</tspan>
+<tspan x="10" y="3418">208.  2017-04-02 17:40:43 +0000     3438 byte  src/test/test-helpers.js</tspan>
+<tspan x="10" y="3434">209.  2017-04-02 17:40:43 +0000      916 byte  task-utils/changelog-templates/commit.hbs</tspan>
+<tspan x="10" y="3450">210.  2017-04-02 17:40:43 +0000     2766 byte  task-utils/grunt.js</tspan>
+<tspan x="10" y="3466">211.  2017-04-02 17:40:43 +0000     1106 byte  templates/app/README.md</tspan>
+<tspan x="10" y="3482">212.  2017-04-02 17:40:43 +0000      171 byte  templates/app/_.babelrc</tspan>
+<tspan x="10" y="3498">213.  2017-04-02 17:40:43 +0000      173 byte  templates/app/_.gitignore</tspan>
+<tspan x="10" y="3514">214.  2017-04-02 17:40:43 +0000     6647 byte  templates/app/_package.json</tspan>
+<tspan x="10" y="3530">215.  2017-04-02 17:40:43 +0000     1291 byte  templates/app/client/__index.html</tspan>
+<tspan x="10" y="3546">216.  2017-04-02 17:40:43 +0000     2154 byte  templates/app/client/app/account(auth)/account.ro\</tspan>
 <tspan x="10" y="3562">utes.js</tspan>
-<tspan x="10" y="3578">217.  2017-04-02 17:39:12 +0000     1412 byte  templates/app/client/app/account(auth)/index.js</tspan>
-<tspan x="10" y="3594">218.  2017-04-02 17:39:12 +0000      219 byte  templates/app/client/app/account(auth)/login/inde\</tspan>
+<tspan x="10" y="3578">217.  2017-04-02 17:40:43 +0000     1412 byte  templates/app/client/app/account(auth)/index.js</tspan>
+<tspan x="10" y="3594">218.  2017-04-02 17:40:43 +0000      219 byte  templates/app/client/app/account(auth)/login/inde\</tspan>
 <tspan x="10" y="3610">x.js</tspan>
-<tspan x="10" y="3626">219.  2017-04-02 17:39:12 +0000     1841 byte  templates/app/client/app/account(auth)/login/logi\</tspan>
+<tspan x="10" y="3626">219.  2017-04-02 17:40:43 +0000     1841 byte  templates/app/client/app/account(auth)/login/logi\</tspan>
 <tspan x="10" y="3642">n(html).html</tspan>
-<tspan x="10" y="3658">220.  2017-04-02 17:39:12 +0000     1326 byte  templates/app/client/app/account(auth)/login/logi\</tspan>
+<tspan x="10" y="3658">220.  2017-04-02 17:40:43 +0000     1326 byte  templates/app/client/app/account(auth)/login/logi\</tspan>
 <tspan x="10" y="3674">n(pug).pug</tspan>
-<tspan x="10" y="3690">221.  2017-04-02 17:39:12 +0000     1244 byte  templates/app/client/app/account(auth)/login/logi\</tspan>
+<tspan x="10" y="3690">221.  2017-04-02 17:40:43 +0000     1244 byte  templates/app/client/app/account(auth)/login/logi\</tspan>
 <tspan x="10" y="3706">n.controller.js</tspan>
-<tspan x="10" y="3722">222.  2017-04-02 17:39:12 +0000      234 byte  templates/app/client/app/account(auth)/settings/i\</tspan>
+<tspan x="10" y="3722">222.  2017-04-02 17:40:43 +0000      234 byte  templates/app/client/app/account(auth)/settings/i\</tspan>
 <tspan x="10" y="3738">ndex.js</tspan>
-<tspan x="10" y="3754">223.  2017-04-02 17:39:12 +0000     1725 byte  templates/app/client/app/account(auth)/settings/s\</tspan>
+<tspan x="10" y="3754">223.  2017-04-02 17:40:43 +0000     1725 byte  templates/app/client/app/account(auth)/settings/s\</tspan>
 <tspan x="10" y="3770">ettings(html).html</tspan>
-<tspan x="10" y="3786">224.  2017-04-02 17:39:12 +0000     1367 byte  templates/app/client/app/account(auth)/settings/s\</tspan>
+<tspan x="10" y="3786">224.  2017-04-02 17:40:43 +0000     1367 byte  templates/app/client/app/account(auth)/settings/s\</tspan>
 <tspan x="10" y="3802">ettings(pug).pug</tspan>
-<tspan x="10" y="3818">225.  2017-04-02 17:39:12 +0000      979 byte  templates/app/client/app/account(auth)/settings/s\</tspan>
+<tspan x="10" y="3818">225.  2017-04-02 17:40:43 +0000      979 byte  templates/app/client/app/account(auth)/settings/s\</tspan>
 <tspan x="10" y="3834">ettings.controller.js</tspan>
-<tspan x="10" y="3850">226.  2017-04-02 17:39:12 +0000      228 byte  templates/app/client/app/account(auth)/signup/ind\</tspan>
+<tspan x="10" y="3850">226.  2017-04-02 17:40:43 +0000      228 byte  templates/app/client/app/account(auth)/signup/ind\</tspan>
 <tspan x="10" y="3866">ex.js</tspan>
-<tspan x="10" y="3882">227.  2017-04-02 17:39:12 +0000     3451 byte  templates/app/client/app/account(auth)/signup/sig\</tspan>
+<tspan x="10" y="3882">227.  2017-04-02 17:40:43 +0000     3451 byte  templates/app/client/app/account(auth)/signup/sig\</tspan>
 <tspan x="10" y="3898">nup(html).html</tspan>
-<tspan x="10" y="3914">228.  2017-04-02 17:39:12 +0000     2688 byte  templates/app/client/app/account(auth)/signup/sig\</tspan>
+<tspan x="10" y="3914">228.  2017-04-02 17:40:43 +0000     2688 byte  templates/app/client/app/account(auth)/signup/sig\</tspan>
 <tspan x="10" y="3930">nup(pug).pug</tspan>
-<tspan x="10" y="3946">229.  2017-04-02 17:39:12 +0000     1959 byte  templates/app/client/app/account(auth)/signup/sig\</tspan>
+<tspan x="10" y="3946">229.  2017-04-02 17:40:43 +0000     1959 byte  templates/app/client/app/account(auth)/signup/sig\</tspan>
 <tspan x="10" y="3962">nup.controller.js</tspan>
-<tspan x="10" y="3978">230.  2017-04-02 17:39:12 +0000      323 byte  templates/app/client/app/admin(auth)/admin(css).c\</tspan>
+<tspan x="10" y="3978">230.  2017-04-02 17:40:43 +0000      323 byte  templates/app/client/app/admin(auth)/admin(css).c\</tspan>
 <tspan x="10" y="3994">ss</tspan>
-<tspan x="10" y="4010">231.  2017-04-02 17:39:12 +0000      488 byte  templates/app/client/app/admin(auth)/admin(html).\</tspan>
+<tspan x="10" y="4010">231.  2017-04-02 17:40:43 +0000      488 byte  templates/app/client/app/admin(auth)/admin(html).\</tspan>
 <tspan x="10" y="4026">html</tspan>
-<tspan x="10" y="4042">232.  2017-04-02 17:39:12 +0000      311 byte  templates/app/client/app/admin(auth)/admin(less).\</tspan>
+<tspan x="10" y="4042">232.  2017-04-02 17:40:43 +0000      311 byte  templates/app/client/app/admin(auth)/admin(less).\</tspan>
 <tspan x="10" y="4058">less</tspan>
-<tspan x="10" y="4074">233.  2017-04-02 17:39:12 +0000      350 byte  templates/app/client/app/admin(auth)/admin(pug).p\</tspan>
+<tspan x="10" y="4074">233.  2017-04-02 17:40:43 +0000      350 byte  templates/app/client/app/admin(auth)/admin(pug).p\</tspan>
 <tspan x="10" y="4090">ug</tspan>
-<tspan x="10" y="4106">234.  2017-04-02 17:39:12 +0000      311 byte  templates/app/client/app/admin(auth)/admin(sass).\</tspan>
+<tspan x="10" y="4106">234.  2017-04-02 17:40:43 +0000      311 byte  templates/app/client/app/admin(auth)/admin(sass).\</tspan>
 <tspan x="10" y="4122">scss</tspan>
-<tspan x="10" y="4138">235.  2017-04-02 17:39:12 +0000      268 byte  templates/app/client/app/admin(auth)/admin(stylus\</tspan>
+<tspan x="10" y="4138">235.  2017-04-02 17:40:43 +0000      268 byte  templates/app/client/app/admin(auth)/admin(stylus\</tspan>
 <tspan x="10" y="4154">).styl</tspan>
-<tspan x="10" y="4170">236.  2017-04-02 17:39:12 +0000      347 byte  templates/app/client/app/admin(auth)/admin.contro\</tspan>
+<tspan x="10" y="4170">236.  2017-04-02 17:40:43 +0000      347 byte  templates/app/client/app/admin(auth)/admin.contro\</tspan>
 <tspan x="10" y="4186">ller.js</tspan>
-<tspan x="10" y="4202">237.  2017-04-02 17:39:12 +0000      637 byte  templates/app/client/app/admin(auth)/admin.routes\</tspan>
+<tspan x="10" y="4202">237.  2017-04-02 17:40:43 +0000      637 byte  templates/app/client/app/admin(auth)/admin.routes\</tspan>
 <tspan x="10" y="4218">.js</tspan>
-<tspan x="10" y="4234">238.  2017-04-02 17:39:12 +0000      399 byte  templates/app/client/app/admin(auth)/index.js</tspan>
-<tspan x="10" y="4250">239.  2017-04-02 17:39:12 +0000     1902 byte  templates/app/client/app/app(css).css</tspan>
-<tspan x="10" y="4266">240.  2017-04-02 17:39:12 +0000      705 byte  templates/app/client/app/app(less).less</tspan>
-<tspan x="10" y="4282">241.  2017-04-02 17:39:12 +0000      838 byte  templates/app/client/app/app(sass).scss</tspan>
-<tspan x="10" y="4298">242.  2017-04-02 17:39:12 +0000      684 byte  templates/app/client/app/app(stylus).styl</tspan>
-<tspan x="10" y="4314">243.  2017-04-02 17:39:12 +0000      403 byte  templates/app/client/app/app.config.js</tspan>
-<tspan x="10" y="4330">244.  2017-04-02 17:39:12 +0000      199 byte  templates/app/client/app/app.constants.js</tspan>
-<tspan x="10" y="4346">245.  2017-04-02 17:39:12 +0000     2276 byte  templates/app/client/app/app.js</tspan>
-<tspan x="10" y="4362">246.  2017-04-02 17:39:12 +0000      373 byte  templates/app/client/app/main/main(css).css</tspan>
-<tspan x="10" y="4378">247.  2017-04-02 17:39:12 +0000     1138 byte  templates/app/client/app/main/main(html).html</tspan>
-<tspan x="10" y="4394">248.  2017-04-02 17:39:12 +0000      373 byte  templates/app/client/app/main/main(less).less</tspan>
-<tspan x="10" y="4410">249.  2017-04-02 17:39:12 +0000      889 byte  templates/app/client/app/main/main(pug).pug</tspan>
-<tspan x="10" y="4426">250.  2017-04-02 17:39:12 +0000      373 byte  templates/app/client/app/main/main(sass).scss</tspan>
-<tspan x="10" y="4442">251.  2017-04-02 17:39:12 +0000      327 byte  templates/app/client/app/main/main(stylus).styl</tspan>
-<tspan x="10" y="4458">252.  2017-04-02 17:39:12 +0000     1461 byte  templates/app/client/app/main/main.component.js</tspan>
-<tspan x="10" y="4474">253.  2017-04-02 17:39:12 +0000     1474 byte  templates/app/client/app/main/main.component.spec\</tspan>
+<tspan x="10" y="4234">238.  2017-04-02 17:40:43 +0000      399 byte  templates/app/client/app/admin(auth)/index.js</tspan>
+<tspan x="10" y="4250">239.  2017-04-02 17:40:43 +0000     1902 byte  templates/app/client/app/app(css).css</tspan>
+<tspan x="10" y="4266">240.  2017-04-02 17:40:43 +0000      705 byte  templates/app/client/app/app(less).less</tspan>
+<tspan x="10" y="4282">241.  2017-04-02 17:40:43 +0000      838 byte  templates/app/client/app/app(sass).scss</tspan>
+<tspan x="10" y="4298">242.  2017-04-02 17:40:43 +0000      684 byte  templates/app/client/app/app(stylus).styl</tspan>
+<tspan x="10" y="4314">243.  2017-04-02 17:40:43 +0000      403 byte  templates/app/client/app/app.config.js</tspan>
+<tspan x="10" y="4330">244.  2017-04-02 17:40:43 +0000      199 byte  templates/app/client/app/app.constants.js</tspan>
+<tspan x="10" y="4346">245.  2017-04-02 17:40:43 +0000     2276 byte  templates/app/client/app/app.js</tspan>
+<tspan x="10" y="4362">246.  2017-04-02 17:40:43 +0000      373 byte  templates/app/client/app/main/main(css).css</tspan>
+<tspan x="10" y="4378">247.  2017-04-02 17:40:43 +0000     1138 byte  templates/app/client/app/main/main(html).html</tspan>
+<tspan x="10" y="4394">248.  2017-04-02 17:40:43 +0000      373 byte  templates/app/client/app/main/main(less).less</tspan>
+<tspan x="10" y="4410">249.  2017-04-02 17:40:43 +0000      889 byte  templates/app/client/app/main/main(pug).pug</tspan>
+<tspan x="10" y="4426">250.  2017-04-02 17:40:43 +0000      373 byte  templates/app/client/app/main/main(sass).scss</tspan>
+<tspan x="10" y="4442">251.  2017-04-02 17:40:43 +0000      327 byte  templates/app/client/app/main/main(stylus).styl</tspan>
+<tspan x="10" y="4458">252.  2017-04-02 17:40:43 +0000     1461 byte  templates/app/client/app/main/main.component.js</tspan>
+<tspan x="10" y="4474">253.  2017-04-02 17:40:43 +0000     1474 byte  templates/app/client/app/main/main.component.spec\</tspan>
 <tspan x="10" y="4490">.js</tspan>
-<tspan x="10" y="4506">254.  2017-04-02 17:39:12 +0000      390 byte  templates/app/client/app/main/main.routes.js</tspan>
-<tspan x="10" y="4522">255.  2017-04-02 17:39:12 +0000    12331 byte  templates/app/client/assets/images/!yeoman.png</tspan>
-<tspan x="10" y="4538">256.  2017-04-02 17:39:12 +0000     1019 byte  templates/app/client/components/auth(auth)/auth.m\</tspan>
+<tspan x="10" y="4506">254.  2017-04-02 17:40:43 +0000      390 byte  templates/app/client/app/main/main.routes.js</tspan>
+<tspan x="10" y="4522">255.  2017-04-02 17:40:43 +0000    12331 byte  templates/app/client/assets/images/!yeoman.png</tspan>
+<tspan x="10" y="4538">256.  2017-04-02 17:40:43 +0000     1019 byte  templates/app/client/components/auth(auth)/auth.m\</tspan>
 <tspan x="10" y="4554">odule.js</tspan>
-<tspan x="10" y="4570">257.  2017-04-02 17:39:12 +0000     5149 byte  templates/app/client/components/auth(auth)/auth.s\</tspan>
+<tspan x="10" y="4570">257.  2017-04-02 17:40:43 +0000     5149 byte  templates/app/client/components/auth(auth)/auth.s\</tspan>
 <tspan x="10" y="4586">ervice.js</tspan>
-<tspan x="10" y="4602">258.  2017-04-02 17:39:12 +0000      968 byte  templates/app/client/components/auth(auth)/interc\</tspan>
+<tspan x="10" y="4602">258.  2017-04-02 17:40:43 +0000      968 byte  templates/app/client/components/auth(auth)/interc\</tspan>
 <tspan x="10" y="4618">eptor.service.js</tspan>
-<tspan x="10" y="4634">259.  2017-04-02 17:39:12 +0000     1210 byte  templates/app/client/components/auth(auth)/router\</tspan>
+<tspan x="10" y="4634">259.  2017-04-02 17:40:43 +0000     1210 byte  templates/app/client/components/auth(auth)/router\</tspan>
 <tspan x="10" y="4650">.decorator.js</tspan>
-<tspan x="10" y="4666">260.  2017-04-02 17:39:12 +0000      336 byte  templates/app/client/components/auth(auth)/user.s\</tspan>
+<tspan x="10" y="4666">260.  2017-04-02 17:40:43 +0000      336 byte  templates/app/client/components/auth(auth)/user.s\</tspan>
 <tspan x="10" y="4682">ervice.js</tspan>
-<tspan x="10" y="4698">261.  2017-04-02 17:39:12 +0000      112 byte  templates/app/client/components/footer/footer(css\</tspan>
+<tspan x="10" y="4698">261.  2017-04-02 17:40:43 +0000      112 byte  templates/app/client/components/footer/footer(css\</tspan>
 <tspan x="10" y="4714">).css</tspan>
-<tspan x="10" y="4730">262.  2017-04-02 17:39:12 +0000      457 byte  templates/app/client/components/footer/footer(htm\</tspan>
+<tspan x="10" y="4730">262.  2017-04-02 17:40:43 +0000      457 byte  templates/app/client/components/footer/footer(htm\</tspan>
 <tspan x="10" y="4746">l).html</tspan>
-<tspan x="10" y="4762">263.  2017-04-02 17:39:12 +0000      112 byte  templates/app/client/components/footer/footer(les\</tspan>
+<tspan x="10" y="4762">263.  2017-04-02 17:40:43 +0000      112 byte  templates/app/client/components/footer/footer(les\</tspan>
 <tspan x="10" y="4778">s).less</tspan>
-<tspan x="10" y="4794">264.  2017-04-02 17:39:12 +0000      459 byte  templates/app/client/components/footer/footer(pug\</tspan>
+<tspan x="10" y="4794">264.  2017-04-02 17:40:43 +0000      459 byte  templates/app/client/components/footer/footer(pug\</tspan>
 <tspan x="10" y="4810">).pug</tspan>
-<tspan x="10" y="4826">265.  2017-04-02 17:39:12 +0000      112 byte  templates/app/client/components/footer/footer(sas\</tspan>
+<tspan x="10" y="4826">265.  2017-04-02 17:40:43 +0000      112 byte  templates/app/client/components/footer/footer(sas\</tspan>
 <tspan x="10" y="4842">s).scss</tspan>
-<tspan x="10" y="4858">266.  2017-04-02 17:39:12 +0000      100 byte  templates/app/client/components/footer/footer(sty\</tspan>
+<tspan x="10" y="4858">266.  2017-04-02 17:40:43 +0000      100 byte  templates/app/client/components/footer/footer(sty\</tspan>
 <tspan x="10" y="4874">lus).styl</tspan>
-<tspan x="10" y="4890">267.  2017-04-02 17:39:12 +0000      245 byte  templates/app/client/components/footer/footer.com\</tspan>
+<tspan x="10" y="4890">267.  2017-04-02 17:40:43 +0000      245 byte  templates/app/client/components/footer/footer.com\</tspan>
 <tspan x="10" y="4906">ponent.js</tspan>
-<tspan x="10" y="4922">268.  2017-04-02 17:39:12 +0000      470 byte  templates/app/client/components/modal(uibootstrap\</tspan>
+<tspan x="10" y="4922">268.  2017-04-02 17:40:43 +0000      470 byte  templates/app/client/components/modal(uibootstrap\</tspan>
 <tspan x="10" y="4938">)/modal(css).css</tspan>
-<tspan x="10" y="4954">269.  2017-04-02 17:39:12 +0000      534 byte  templates/app/client/components/modal(uibootstrap\</tspan>
+<tspan x="10" y="4954">269.  2017-04-02 17:40:43 +0000      534 byte  templates/app/client/components/modal(uibootstrap\</tspan>
 <tspan x="10" y="4970">)/modal(html).html</tspan>
-<tspan x="10" y="4986">270.  2017-04-02 17:39:12 +0000      457 byte  templates/app/client/components/modal(uibootstrap\</tspan>
+<tspan x="10" y="4986">270.  2017-04-02 17:40:43 +0000      457 byte  templates/app/client/components/modal(uibootstrap\</tspan>
 <tspan x="10" y="5002">)/modal(less).less</tspan>
-<tspan x="10" y="5018">271.  2017-04-02 17:39:12 +0000      421 byte  templates/app/client/components/modal(uibootstrap\</tspan>
+<tspan x="10" y="5018">271.  2017-04-02 17:40:43 +0000      421 byte  templates/app/client/components/modal(uibootstrap\</tspan>
 <tspan x="10" y="5034">)/modal(pug).pug</tspan>
-<tspan x="10" y="5050">272.  2017-04-02 17:39:12 +0000      457 byte  templates/app/client/components/modal(uibootstrap\</tspan>
+<tspan x="10" y="5050">272.  2017-04-02 17:40:43 +0000      457 byte  templates/app/client/components/modal(uibootstrap\</tspan>
 <tspan x="10" y="5066">)/modal(sass).scss</tspan>
-<tspan x="10" y="5082">273.  2017-04-02 17:39:12 +0000      388 byte  templates/app/client/components/modal(uibootstrap\</tspan>
+<tspan x="10" y="5082">273.  2017-04-02 17:40:43 +0000      388 byte  templates/app/client/components/modal(uibootstrap\</tspan>
 <tspan x="10" y="5098">)/modal(stylus).styl</tspan>
-<tspan x="10" y="5114">274.  2017-04-02 17:39:12 +0000     2332 byte  templates/app/client/components/modal(uibootstrap\</tspan>
+<tspan x="10" y="5114">274.  2017-04-02 17:40:43 +0000     2332 byte  templates/app/client/components/modal(uibootstrap\</tspan>
 <tspan x="10" y="5130">)/modal.service.js</tspan>
-<tspan x="10" y="5146">275.  2017-04-02 17:39:12 +0000      397 byte  templates/app/client/components/mongoose-error(au\</tspan>
+<tspan x="10" y="5146">275.  2017-04-02 17:40:43 +0000      397 byte  templates/app/client/components/mongoose-error(au\</tspan>
 <tspan x="10" y="5162">th)/mongoose-error.directive.js</tspan>
-<tspan x="10" y="5178">276.  2017-04-02 17:39:12 +0000     2437 byte  templates/app/client/components/navbar/navbar(htm\</tspan>
+<tspan x="10" y="5178">276.  2017-04-02 17:40:43 +0000     2437 byte  templates/app/client/components/navbar/navbar(htm\</tspan>
 <tspan x="10" y="5194">l).html</tspan>
-<tspan x="10" y="5210">277.  2017-04-02 17:39:12 +0000     2157 byte  templates/app/client/components/navbar/navbar(pug\</tspan>
+<tspan x="10" y="5210">277.  2017-04-02 17:40:43 +0000     2157 byte  templates/app/client/components/navbar/navbar(pug\</tspan>
 <tspan x="10" y="5226">).pug</tspan>
-<tspan x="10" y="5242">278.  2017-04-02 17:39:12 +0000     1188 byte  templates/app/client/components/navbar/navbar.com\</tspan>
+<tspan x="10" y="5242">278.  2017-04-02 17:40:43 +0000     1188 byte  templates/app/client/components/navbar/navbar.com\</tspan>
 <tspan x="10" y="5258">ponent.js</tspan>
-<tspan x="10" y="5274">279.  2017-04-02 17:39:12 +0000      562 byte  templates/app/client/components/oauth-buttons(oau\</tspan>
+<tspan x="10" y="5274">279.  2017-04-02 17:40:43 +0000      562 byte  templates/app/client/components/oauth-buttons(oau\</tspan>
 <tspan x="10" y="5290">th)/index.js</tspan>
-<tspan x="10" y="5306">280.  2017-04-02 17:39:12 +0000      480 byte  templates/app/client/components/oauth-buttons(oau\</tspan>
+<tspan x="10" y="5306">280.  2017-04-02 17:40:43 +0000      480 byte  templates/app/client/components/oauth-buttons(oau\</tspan>
 <tspan x="10" y="5322">th)/oauth-buttons(css).css</tspan>
-<tspan x="10" y="5338">281.  2017-04-02 17:39:12 +0000      715 byte  templates/app/client/components/oauth-buttons(oau\</tspan>
+<tspan x="10" y="5338">281.  2017-04-02 17:40:43 +0000      715 byte  templates/app/client/components/oauth-buttons(oau\</tspan>
 <tspan x="10" y="5354">th)/oauth-buttons(html).html</tspan>
-<tspan x="10" y="5370">282.  2017-04-02 17:39:12 +0000      480 byte  templates/app/client/components/oauth-buttons(oau\</tspan>
+<tspan x="10" y="5370">282.  2017-04-02 17:40:43 +0000      480 byte  templates/app/client/components/oauth-buttons(oau\</tspan>
 <tspan x="10" y="5386">th)/oauth-buttons(less).less</tspan>
-<tspan x="10" y="5402">283.  2017-04-02 17:39:12 +0000      646 byte  templates/app/client/components/oauth-buttons(oau\</tspan>
+<tspan x="10" y="5402">283.  2017-04-02 17:40:43 +0000      646 byte  templates/app/client/components/oauth-buttons(oau\</tspan>
 <tspan x="10" y="5418">th)/oauth-buttons(pug).pug</tspan>
-<tspan x="10" y="5434">284.  2017-04-02 17:39:12 +0000      480 byte  templates/app/client/components/oauth-buttons(oau\</tspan>
+<tspan x="10" y="5434">284.  2017-04-02 17:40:43 +0000      480 byte  templates/app/client/components/oauth-buttons(oau\</tspan>
 <tspan x="10" y="5450">th)/oauth-buttons(sass).scss</tspan>
-<tspan x="10" y="5466">285.  2017-04-02 17:39:12 +0000      440 byte  templates/app/client/components/oauth-buttons(oau\</tspan>
+<tspan x="10" y="5466">285.  2017-04-02 17:40:43 +0000      440 byte  templates/app/client/components/oauth-buttons(oau\</tspan>
 <tspan x="10" y="5482">th)/oauth-buttons(stylus).styl</tspan>
-<tspan x="10" y="5498">286.  2017-04-02 17:39:12 +0000      846 byte  templates/app/client/components/oauth-buttons(oau\</tspan>
+<tspan x="10" y="5498">286.  2017-04-02 17:40:43 +0000      846 byte  templates/app/client/components/oauth-buttons(oau\</tspan>
 <tspan x="10" y="5514">th)/oauth-buttons.controller.spec.js</tspan>
-<tspan x="10" y="5530">287.  2017-04-02 17:39:12 +0000     2589 byte  templates/app/client/components/oauth-buttons(oau\</tspan>
+<tspan x="10" y="5530">287.  2017-04-02 17:40:43 +0000     2589 byte  templates/app/client/components/oauth-buttons(oau\</tspan>
 <tspan x="10" y="5546">th)/oauth-buttons.directive.spec.js</tspan>
-<tspan x="10" y="5562">288.  2017-04-02 17:39:12 +0000      358 byte  templates/app/client/components/socket(socketio)/\</tspan>
+<tspan x="10" y="5562">288.  2017-04-02 17:40:43 +0000      358 byte  templates/app/client/components/socket(socketio)/\</tspan>
 <tspan x="10" y="5578">socket.mock.js</tspan>
-<tspan x="10" y="5594">289.  2017-04-02 17:39:12 +0000     2184 byte  templates/app/client/components/socket(socketio)/\</tspan>
+<tspan x="10" y="5594">289.  2017-04-02 17:40:43 +0000     2184 byte  templates/app/client/components/socket(socketio)/\</tspan>
 <tspan x="10" y="5610">socket.service.js</tspan>
-<tspan x="10" y="5626">290.  2017-04-02 17:39:12 +0000     1167 byte  templates/app/client/components/ui-router(uiroute\</tspan>
+<tspan x="10" y="5626">290.  2017-04-02 17:40:43 +0000     1167 byte  templates/app/client/components/ui-router(uiroute\</tspan>
 <tspan x="10" y="5642">r)/ui-router.mock.js</tspan>
-<tspan x="10" y="5658">291.  2017-04-02 17:39:12 +0000      194 byte  templates/app/client/components/util/util.module.\</tspan>
+<tspan x="10" y="5658">291.  2017-04-02 17:40:43 +0000      194 byte  templates/app/client/components/util/util.module.\</tspan>
 <tspan x="10" y="5674">js</tspan>
-<tspan x="10" y="5690">292.  2017-04-02 17:39:12 +0000     2050 byte  templates/app/client/components/util/util.service\</tspan>
+<tspan x="10" y="5690">292.  2017-04-02 17:40:43 +0000     2050 byte  templates/app/client/components/util/util.service\</tspan>
 <tspan x="10" y="5706">.js</tspan>
-<tspan x="10" y="5722">293.  2017-04-02 17:39:12 +0000     4286 byte  templates/app/client/favicon.ico</tspan>
-<tspan x="10" y="5738">294.  2017-04-02 17:39:12 +0000      884 byte  templates/app/client/polyfills.js</tspan>
-<tspan x="10" y="5754">295.  2017-04-02 17:39:12 +0000       31 byte  templates/app/client/robots.txt</tspan>
-<tspan x="10" y="5770">296.  2017-04-02 17:39:12 +0000     1490 byte  templates/app/client/tslint.json(ts)</tspan>
-<tspan x="10" y="5786">297.  2017-04-02 17:39:12 +0000      884 byte  templates/app/e2e/account(auth)/login/login.po.js</tspan>
-<tspan x="10" y="5802">298.  2017-04-02 17:39:12 +0000     3284 byte  templates/app/e2e/account(auth)/login/login.spec(\</tspan>
+<tspan x="10" y="5722">293.  2017-04-02 17:40:43 +0000     4286 byte  templates/app/client/favicon.ico</tspan>
+<tspan x="10" y="5738">294.  2017-04-02 17:40:43 +0000      884 byte  templates/app/client/polyfills.js</tspan>
+<tspan x="10" y="5754">295.  2017-04-02 17:40:43 +0000       31 byte  templates/app/client/robots.txt</tspan>
+<tspan x="10" y="5770">296.  2017-04-02 17:40:43 +0000     1490 byte  templates/app/client/tslint.json(ts)</tspan>
+<tspan x="10" y="5786">297.  2017-04-02 17:40:43 +0000      884 byte  templates/app/e2e/account(auth)/login/login.po.js</tspan>
+<tspan x="10" y="5802">298.  2017-04-02 17:40:43 +0000     3284 byte  templates/app/e2e/account(auth)/login/login.spec(\</tspan>
 <tspan x="10" y="5818">jasmine).js</tspan>
-<tspan x="10" y="5834">299.  2017-04-02 17:39:12 +0000     4000 byte  templates/app/e2e/account(auth)/login/login.spec(\</tspan>
+<tspan x="10" y="5834">299.  2017-04-02 17:40:43 +0000     4000 byte  templates/app/e2e/account(auth)/login/login.spec(\</tspan>
 <tspan x="10" y="5850">mocha).js</tspan>
-<tspan x="10" y="5866">300.  2017-04-02 17:39:12 +0000     1770 byte  templates/app/e2e/account(auth)/logout/logout.spe\</tspan>
+<tspan x="10" y="5866">300.  2017-04-02 17:40:43 +0000     1770 byte  templates/app/e2e/account(auth)/logout/logout.spe\</tspan>
 <tspan x="10" y="5882">c(jasmine).js</tspan>
-<tspan x="10" y="5898">301.  2017-04-02 17:39:12 +0000     1943 byte  templates/app/e2e/account(auth)/logout/logout.spe\</tspan>
+<tspan x="10" y="5898">301.  2017-04-02 17:40:43 +0000     1943 byte  templates/app/e2e/account(auth)/logout/logout.spe\</tspan>
 <tspan x="10" y="5914">c(mocha).js</tspan>
-<tspan x="10" y="5930">302.  2017-04-02 17:39:12 +0000     1020 byte  templates/app/e2e/account(auth)/signup/signup.po.\</tspan>
+<tspan x="10" y="5930">302.  2017-04-02 17:40:43 +0000     1020 byte  templates/app/e2e/account(auth)/signup/signup.po.\</tspan>
 <tspan x="10" y="5946">js</tspan>
-<tspan x="10" y="5962">303.  2017-04-02 17:39:12 +0000     3349 byte  templates/app/e2e/account(auth)/signup/signup.spe\</tspan>
+<tspan x="10" y="5962">303.  2017-04-02 17:40:43 +0000     3349 byte  templates/app/e2e/account(auth)/signup/signup.spe\</tspan>
 <tspan x="10" y="5978">c(jasmine).js</tspan>
-<tspan x="10" y="5994">304.  2017-04-02 17:39:12 +0000     4195 byte  templates/app/e2e/account(auth)/signup/signup.spe\</tspan>
+<tspan x="10" y="5994">304.  2017-04-02 17:40:43 +0000     4195 byte  templates/app/e2e/account(auth)/signup/signup.spe\</tspan>
 <tspan x="10" y="6010">c(mocha).js</tspan>
-<tspan x="10" y="6026">305.  2017-04-02 17:39:12 +0000      703 byte  templates/app/e2e/components/navbar/navbar.po.js</tspan>
-<tspan x="10" y="6042">306.  2017-04-02 17:39:12 +0000      811 byte  templates/app/e2e/components/oauth-buttons(oauth)\</tspan>
+<tspan x="10" y="6026">305.  2017-04-02 17:40:43 +0000      703 byte  templates/app/e2e/components/navbar/navbar.po.js</tspan>
+<tspan x="10" y="6042">306.  2017-04-02 17:40:43 +0000      811 byte  templates/app/e2e/components/oauth-buttons(oauth)\</tspan>
 <tspan x="10" y="6058">/oauth-buttons.po.js</tspan>
-<tspan x="10" y="6074">307.  2017-04-02 17:39:12 +0000      400 byte  templates/app/e2e/main/main.po.js</tspan>
-<tspan x="10" y="6090">308.  2017-04-02 17:39:12 +0000      478 byte  templates/app/e2e/main/main.spec(jasmine).js</tspan>
-<tspan x="10" y="6106">309.  2017-04-02 17:39:12 +0000      599 byte  templates/app/e2e/main/main.spec(mocha).js</tspan>
-<tspan x="10" y="6122">310.  2017-04-02 17:39:12 +0000    17935 byte  templates/app/gulpfile.babel.js</tspan>
-<tspan x="10" y="6138">311.  2017-04-02 17:39:12 +0000     2632 byte  templates/app/karma.conf.js</tspan>
-<tspan x="10" y="6154">312.  2017-04-02 17:39:12 +0000      390 byte  templates/app/mocha.conf.js</tspan>
-<tspan x="10" y="6170">313.  2017-04-02 17:39:12 +0000      268 byte  templates/app/mocha.global.js</tspan>
-<tspan x="10" y="6186">314.  2017-04-02 17:39:12 +0000     3067 byte  templates/app/protractor.conf.js</tspan>
-<tspan x="10" y="6202">315.  2017-04-02 17:39:12 +0000      560 byte  templates/app/server/api/user(auth)/index.js</tspan>
-<tspan x="10" y="6218">316.  2017-04-02 17:39:12 +0000     2764 byte  templates/app/server/api/user(auth)/index.spec.js</tspan>
-<tspan x="10" y="6234">317.  2017-04-02 17:39:12 +0000     3790 byte  templates/app/server/api/user(auth)/user.controll\</tspan>
+<tspan x="10" y="6074">307.  2017-04-02 17:40:43 +0000      400 byte  templates/app/e2e/main/main.po.js</tspan>
+<tspan x="10" y="6090">308.  2017-04-02 17:40:43 +0000      478 byte  templates/app/e2e/main/main.spec(jasmine).js</tspan>
+<tspan x="10" y="6106">309.  2017-04-02 17:40:43 +0000      599 byte  templates/app/e2e/main/main.spec(mocha).js</tspan>
+<tspan x="10" y="6122">310.  2017-04-02 17:40:43 +0000    17935 byte  templates/app/gulpfile.babel.js</tspan>
+<tspan x="10" y="6138">311.  2017-04-02 17:40:43 +0000     2632 byte  templates/app/karma.conf.js</tspan>
+<tspan x="10" y="6154">312.  2017-04-02 17:40:43 +0000      390 byte  templates/app/mocha.conf.js</tspan>
+<tspan x="10" y="6170">313.  2017-04-02 17:40:43 +0000      268 byte  templates/app/mocha.global.js</tspan>
+<tspan x="10" y="6186">314.  2017-04-02 17:40:43 +0000     3067 byte  templates/app/protractor.conf.js</tspan>
+<tspan x="10" y="6202">315.  2017-04-02 17:40:43 +0000      560 byte  templates/app/server/api/user(auth)/index.js</tspan>
+<tspan x="10" y="6218">316.  2017-04-02 17:40:43 +0000     2764 byte  templates/app/server/api/user(auth)/index.spec.js</tspan>
+<tspan x="10" y="6234">317.  2017-04-02 17:40:43 +0000     3790 byte  templates/app/server/api/user(auth)/user.controll\</tspan>
 <tspan x="10" y="6250">er.js</tspan>
-<tspan x="10" y="6266">318.  2017-04-02 17:39:12 +0000     1218 byte  templates/app/server/api/user(auth)/user.events.j\</tspan>
+<tspan x="10" y="6266">318.  2017-04-02 17:40:43 +0000     1218 byte  templates/app/server/api/user(auth)/user.events.j\</tspan>
 <tspan x="10" y="6282">s</tspan>
-<tspan x="10" y="6298">319.  2017-04-02 17:39:12 +0000     2135 byte  templates/app/server/api/user(auth)/user.integrat\</tspan>
+<tspan x="10" y="6298">319.  2017-04-02 17:40:43 +0000     2135 byte  templates/app/server/api/user(auth)/user.integrat\</tspan>
 <tspan x="10" y="6314">ion.js</tspan>
-<tspan x="10" y="6330">320.  2017-04-02 17:39:12 +0000     5832 byte  templates/app/server/api/user(auth)/user.model(mo\</tspan>
+<tspan x="10" y="6330">320.  2017-04-02 17:40:43 +0000     5832 byte  templates/app/server/api/user(auth)/user.model(mo\</tspan>
 <tspan x="10" y="6346">ngooseModels).js</tspan>
-<tspan x="10" y="6362">321.  2017-04-02 17:39:12 +0000     5542 byte  templates/app/server/api/user(auth)/user.model(se\</tspan>
+<tspan x="10" y="6362">321.  2017-04-02 17:40:43 +0000     5542 byte  templates/app/server/api/user(auth)/user.model(se\</tspan>
 <tspan x="10" y="6378">quelizeModels).js</tspan>
-<tspan x="10" y="6394">322.  2017-04-02 17:39:12 +0000     5644 byte  templates/app/server/api/user(auth)/user.model.sp\</tspan>
+<tspan x="10" y="6394">322.  2017-04-02 17:40:43 +0000     5644 byte  templates/app/server/api/user(auth)/user.model.sp\</tspan>
 <tspan x="10" y="6410">ec(mongooseModels).js</tspan>
-<tspan x="10" y="6426">323.  2017-04-02 17:39:12 +0000     1816 byte  templates/app/server/api/user(auth)/user.model.sp\</tspan>
+<tspan x="10" y="6426">323.  2017-04-02 17:40:43 +0000     1816 byte  templates/app/server/api/user(auth)/user.model.sp\</tspan>
 <tspan x="10" y="6442">ec(sequelizeModels).js</tspan>
-<tspan x="10" y="6458">324.  2017-04-02 17:39:12 +0000     1648 byte  templates/app/server/app.js</tspan>
-<tspan x="10" y="6474">325.  2017-04-02 17:39:12 +0000     2598 byte  templates/app/server/auth(auth)/auth.service.js</tspan>
-<tspan x="10" y="6490">326.  2017-04-02 17:39:12 +0000      465 byte  templates/app/server/auth(auth)/facebook(facebook\</tspan>
+<tspan x="10" y="6458">324.  2017-04-02 17:40:43 +0000     1648 byte  templates/app/server/app.js</tspan>
+<tspan x="10" y="6474">325.  2017-04-02 17:40:43 +0000     2598 byte  templates/app/server/auth(auth)/auth.service.js</tspan>
+<tspan x="10" y="6490">326.  2017-04-02 17:40:43 +0000      465 byte  templates/app/server/auth(auth)/facebook(facebook\</tspan>
 <tspan x="10" y="6506">Auth)/index.js</tspan>
-<tspan x="10" y="6522">327.  2017-04-02 17:39:12 +0000     1175 byte  templates/app/server/auth(auth)/facebook(facebook\</tspan>
+<tspan x="10" y="6522">327.  2017-04-02 17:40:43 +0000     1175 byte  templates/app/server/auth(auth)/facebook(facebook\</tspan>
 <tspan x="10" y="6538">Auth)/passport.js</tspan>
-<tspan x="10" y="6554">328.  2017-04-02 17:39:12 +0000      473 byte  templates/app/server/auth(auth)/google(googleAuth\</tspan>
+<tspan x="10" y="6554">328.  2017-04-02 17:40:43 +0000      473 byte  templates/app/server/auth(auth)/google(googleAuth\</tspan>
 <tspan x="10" y="6570">)/index.js</tspan>
-<tspan x="10" y="6586">329.  2017-04-02 17:39:12 +0000     1258 byte  templates/app/server/auth(auth)/google(googleAuth\</tspan>
+<tspan x="10" y="6586">329.  2017-04-02 17:40:43 +0000     1258 byte  templates/app/server/auth(auth)/google(googleAuth\</tspan>
 <tspan x="10" y="6602">)/passport.js</tspan>
-<tspan x="10" y="6618">330.  2017-04-02 17:39:12 +0000      980 byte  templates/app/server/auth(auth)/index.js</tspan>
-<tspan x="10" y="6634">331.  2017-04-02 17:39:12 +0000      588 byte  templates/app/server/auth(auth)/local/index.js</tspan>
-<tspan x="10" y="6650">332.  2017-04-02 17:39:12 +0000     1184 byte  templates/app/server/auth(auth)/local/passport.js</tspan>
-<tspan x="10" y="6666">333.  2017-04-02 17:39:12 +0000      424 byte  templates/app/server/auth(auth)/twitter(twitterAu\</tspan>
+<tspan x="10" y="6618">330.  2017-04-02 17:40:43 +0000      980 byte  templates/app/server/auth(auth)/index.js</tspan>
+<tspan x="10" y="6634">331.  2017-04-02 17:40:43 +0000      588 byte  templates/app/server/auth(auth)/local/index.js</tspan>
+<tspan x="10" y="6650">332.  2017-04-02 17:40:43 +0000     1184 byte  templates/app/server/auth(auth)/local/passport.js</tspan>
+<tspan x="10" y="6666">333.  2017-04-02 17:40:43 +0000      424 byte  templates/app/server/auth(auth)/twitter(twitterAu\</tspan>
 <tspan x="10" y="6682">th)/index.js</tspan>
-<tspan x="10" y="6698">334.  2017-04-02 17:39:12 +0000     1276 byte  templates/app/server/auth(auth)/twitter(twitterAu\</tspan>
+<tspan x="10" y="6698">334.  2017-04-02 17:40:43 +0000     1276 byte  templates/app/server/auth(auth)/twitter(twitterAu\</tspan>
 <tspan x="10" y="6714">th)/passport.js</tspan>
-<tspan x="10" y="6730">335.  2017-04-02 17:39:12 +0000      382 byte  templates/app/server/components/errors/index.js</tspan>
-<tspan x="10" y="6746">336.  2017-04-02 17:39:12 +0000      724 byte  templates/app/server/config/_local.env.js</tspan>
-<tspan x="10" y="6762">337.  2017-04-02 17:39:12 +0000      760 byte  templates/app/server/config/_local.env.sample.js</tspan>
-<tspan x="10" y="6778">338.  2017-04-02 17:39:12 +0000      569 byte  templates/app/server/config/environment/developme\</tspan>
+<tspan x="10" y="6730">335.  2017-04-02 17:40:43 +0000      382 byte  templates/app/server/components/errors/index.js</tspan>
+<tspan x="10" y="6746">336.  2017-04-02 17:40:43 +0000      724 byte  templates/app/server/config/_local.env.js</tspan>
+<tspan x="10" y="6762">337.  2017-04-02 17:40:43 +0000      760 byte  templates/app/server/config/_local.env.sample.js</tspan>
+<tspan x="10" y="6778">338.  2017-04-02 17:40:43 +0000      569 byte  templates/app/server/config/environment/developme\</tspan>
 <tspan x="10" y="6794">nt.js</tspan>
-<tspan x="10" y="6810">339.  2017-04-02 17:39:12 +0000     1936 byte  templates/app/server/config/environment/index.js</tspan>
-<tspan x="10" y="6826">340.  2017-04-02 17:39:12 +0000      863 byte  templates/app/server/config/environment/productio\</tspan>
+<tspan x="10" y="6810">339.  2017-04-02 17:40:43 +0000     1936 byte  templates/app/server/config/environment/index.js</tspan>
+<tspan x="10" y="6826">340.  2017-04-02 17:40:43 +0000      863 byte  templates/app/server/config/environment/productio\</tspan>
 <tspan x="10" y="6842">n.js</tspan>
-<tspan x="10" y="6858">341.  2017-04-02 17:39:12 +0000      111 byte  templates/app/server/config/environment/shared.js</tspan>
-<tspan x="10" y="6874">342.  2017-04-02 17:39:12 +0000      406 byte  templates/app/server/config/environment/test.js</tspan>
-<tspan x="10" y="6890">343.  2017-04-02 17:39:12 +0000     4498 byte  templates/app/server/config/express.js</tspan>
-<tspan x="10" y="6906">344.  2017-04-02 17:39:12 +0000     3326 byte  templates/app/server/config/seed(models).js</tspan>
-<tspan x="10" y="6922">345.  2017-04-02 17:39:12 +0000     1550 byte  templates/app/server/config/socketio(socketio).js</tspan>
-<tspan x="10" y="6938">346.  2017-04-02 17:39:12 +0000      322 byte  templates/app/server/index.js</tspan>
-<tspan x="10" y="6954">347.  2017-04-02 17:39:12 +0000      637 byte  templates/app/server/routes.js</tspan>
-<tspan x="10" y="6970">348.  2017-04-02 17:39:12 +0000      428 byte  templates/app/server/sqldb(sequelize)/index.js</tspan>
-<tspan x="10" y="6986">349.  2017-04-02 17:39:12 +0000     3529 byte  templates/app/server/views/404(html).html</tspan>
-<tspan x="10" y="7002">350.  2017-04-02 17:39:12 +0000     3223 byte  templates/app/server/views/404(pug).pug</tspan>
-<tspan x="10" y="7018">351.  2017-04-02 17:39:12 +0000      433 byte  templates/app/spec.js</tspan>
-<tspan x="10" y="7034">352.  2017-04-02 17:39:12 +0000      509 byte  templates/app/tsconfig.client(ts).json</tspan>
-<tspan x="10" y="7050">353.  2017-04-02 17:39:12 +0000      274 byte  templates/app/tsconfig.client.test(ts).json</tspan>
-<tspan x="10" y="7066">354.  2017-04-02 17:39:12 +0000     1827 byte  templates/app/typings(ts).json</tspan>
-<tspan x="10" y="7082">355.  2017-04-02 17:39:12 +0000      135 byte  templates/app/webpack.build.js</tspan>
-<tspan x="10" y="7098">356.  2017-04-02 17:39:12 +0000      140 byte  templates/app/webpack.dev.js</tspan>
-<tspan x="10" y="7114">357.  2017-04-02 17:39:12 +0000    13920 byte  templates/app/webpack.make.js</tspan>
-<tspan x="10" y="7130">358.  2017-04-02 17:39:12 +0000      134 byte  templates/app/webpack.test.js</tspan>
-<tspan x="10" y="7146">359.  2017-04-02 17:39:12 +0000     4336 byte  templates/endpoint/basename.controller.js</tspan>
-<tspan x="10" y="7162">360.  2017-04-02 17:39:12 +0000     1440 byte  templates/endpoint/basename.events(models).js</tspan>
-<tspan x="10" y="7178">361.  2017-04-02 17:39:12 +0000     5666 byte  templates/endpoint/basename.integration.js</tspan>
-<tspan x="10" y="7194">362.  2017-04-02 17:39:12 +0000      335 byte  templates/endpoint/basename.model(mongooseModels)\</tspan>
+<tspan x="10" y="6858">341.  2017-04-02 17:40:43 +0000      111 byte  templates/app/server/config/environment/shared.js</tspan>
+<tspan x="10" y="6874">342.  2017-04-02 17:40:43 +0000      406 byte  templates/app/server/config/environment/test.js</tspan>
+<tspan x="10" y="6890">343.  2017-04-02 17:40:43 +0000     4498 byte  templates/app/server/config/express.js</tspan>
+<tspan x="10" y="6906">344.  2017-04-02 17:40:43 +0000     3326 byte  templates/app/server/config/seed(models).js</tspan>
+<tspan x="10" y="6922">345.  2017-04-02 17:40:43 +0000     1550 byte  templates/app/server/config/socketio(socketio).js</tspan>
+<tspan x="10" y="6938">346.  2017-04-02 17:40:43 +0000      322 byte  templates/app/server/index.js</tspan>
+<tspan x="10" y="6954">347.  2017-04-02 17:40:43 +0000      637 byte  templates/app/server/routes.js</tspan>
+<tspan x="10" y="6970">348.  2017-04-02 17:40:43 +0000      428 byte  templates/app/server/sqldb(sequelize)/index.js</tspan>
+<tspan x="10" y="6986">349.  2017-04-02 17:40:43 +0000     3529 byte  templates/app/server/views/404(html).html</tspan>
+<tspan x="10" y="7002">350.  2017-04-02 17:40:43 +0000     3223 byte  templates/app/server/views/404(pug).pug</tspan>
+<tspan x="10" y="7018">351.  2017-04-02 17:40:43 +0000      433 byte  templates/app/spec.js</tspan>
+<tspan x="10" y="7034">352.  2017-04-02 17:40:43 +0000      509 byte  templates/app/tsconfig.client(ts).json</tspan>
+<tspan x="10" y="7050">353.  2017-04-02 17:40:43 +0000      274 byte  templates/app/tsconfig.client.test(ts).json</tspan>
+<tspan x="10" y="7066">354.  2017-04-02 17:40:43 +0000     1827 byte  templates/app/typings(ts).json</tspan>
+<tspan x="10" y="7082">355.  2017-04-02 17:40:43 +0000      135 byte  templates/app/webpack.build.js</tspan>
+<tspan x="10" y="7098">356.  2017-04-02 17:40:43 +0000      140 byte  templates/app/webpack.dev.js</tspan>
+<tspan x="10" y="7114">357.  2017-04-02 17:40:43 +0000    13920 byte  templates/app/webpack.make.js</tspan>
+<tspan x="10" y="7130">358.  2017-04-02 17:40:43 +0000      134 byte  templates/app/webpack.test.js</tspan>
+<tspan x="10" y="7146">359.  2017-04-02 17:40:43 +0000     4336 byte  templates/endpoint/basename.controller.js</tspan>
+<tspan x="10" y="7162">360.  2017-04-02 17:40:43 +0000     1440 byte  templates/endpoint/basename.events(models).js</tspan>
+<tspan x="10" y="7178">361.  2017-04-02 17:40:43 +0000     5666 byte  templates/endpoint/basename.integration.js</tspan>
+<tspan x="10" y="7194">362.  2017-04-02 17:40:43 +0000      335 byte  templates/endpoint/basename.model(mongooseModels)\</tspan>
 <tspan x="10" y="7210">.js</tspan>
-<tspan x="10" y="7226">363.  2017-04-02 17:39:12 +0000      330 byte  templates/endpoint/basename.model(sequelizeModels\</tspan>
+<tspan x="10" y="7226">363.  2017-04-02 17:40:43 +0000      330 byte  templates/endpoint/basename.model(sequelizeModels\</tspan>
 <tspan x="10" y="7242">).js</tspan>
-<tspan x="10" y="7258">364.  2017-04-02 17:39:12 +0000      808 byte  templates/endpoint/basename.socket(socketio).js</tspan>
-<tspan x="10" y="7274">365.  2017-04-02 17:39:12 +0000      431 byte  templates/endpoint/index.js</tspan>
-<tspan x="10" y="7290">366.  2017-04-02 17:39:12 +0000     2720 byte  templates/endpoint/index.spec.js</tspan>
-<tspan x="10" y="7306">367.  2017-04-02 17:39:12 +0000       24 byte  templates/heroku/Procfile</tspan>
-<tspan x="10" y="7322">368.  2017-04-02 17:39:12 +0000     7511 byte  test/endpoint.test.js</tspan>
-<tspan x="10" y="7338">369.  2017-04-02 17:39:12 +0000     6966 byte  test/get-expected-files.js</tspan>
-<tspan x="10" y="7354">370.  2017-04-02 17:39:12 +0000    13714 byte  test/main.test.js</tspan>
-<tspan x="10" y="7370">371.  2017-04-02 17:39:12 +0000     1074 byte  test/pre.test.js</tspan>
-<tspan x="10" y="7386">372.  2017-04-02 17:39:12 +0000     4592 byte  test/test-helpers.js</tspan>
-<tspan x="10" y="7402">373.  2017-04-02 17:39:12 +0000  6406388 byte  .</tspan>
+<tspan x="10" y="7258">364.  2017-04-02 17:40:43 +0000      808 byte  templates/endpoint/basename.socket(socketio).js</tspan>
+<tspan x="10" y="7274">365.  2017-04-02 17:40:43 +0000      431 byte  templates/endpoint/index.js</tspan>
+<tspan x="10" y="7290">366.  2017-04-02 17:40:43 +0000     2720 byte  templates/endpoint/index.spec.js</tspan>
+<tspan x="10" y="7306">367.  2017-04-02 17:40:43 +0000       24 byte  templates/heroku/Procfile</tspan>
+<tspan x="10" y="7322">368.  2017-04-02 17:40:43 +0000     7511 byte  test/endpoint.test.js</tspan>
+<tspan x="10" y="7338">369.  2017-04-02 17:40:43 +0000     6966 byte  test/get-expected-files.js</tspan>
+<tspan x="10" y="7354">370.  2017-04-02 17:40:43 +0000    13714 byte  test/main.test.js</tspan>
+<tspan x="10" y="7370">371.  2017-04-02 17:40:43 +0000     1074 byte  test/pre.test.js</tspan>
+<tspan x="10" y="7386">372.  2017-04-02 17:40:43 +0000     4592 byte  test/test-helpers.js</tspan>
+<tspan x="10" y="7402">373.  2017-04-02 17:40:43 +0000  6406388 byte  .</tspan>
 </text>
 </svg>
