@@ -1,691 +1,691 @@
 <svg height="11006" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="11006" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-15 22:01:08 +0000  6542635 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-15 22:01:08 +0000    85463 bytes  CHANGELOG.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-15 22:01:08 +0000     4728 bytes  Gruntfile.js</tspan>
-<tspan x="10" y="74">  3.  2017-04-15 22:01:08 +0000      524 bytes  ISSUE_TEMPLATE.md</tspan>
-<tspan x="10" y="90">  4.  2017-04-15 22:01:08 +0000      357 bytes  PULL_REQUEST_TEMPLATE.md</tspan>
-<tspan x="10" y="106">  5.  2017-04-15 22:01:08 +0000     1120 bytes  angular-fullstack-deps/LICENSE</tspan>
-<tspan x="10" y="122">  6.  2017-04-15 22:01:08 +0000      716 bytes  angular-fullstack-deps/README.md</tspan>
-<tspan x="10" y="138">  7.  2017-04-15 22:01:08 +0000     5617 bytes  angular-fullstack-deps/package.json</tspan>
-<tspan x="10" y="154">  8.  2017-04-15 22:01:08 +0000     1457 bytes  circle.yml</tspan>
-<tspan x="10" y="170">  9.  2017-04-15 22:01:08 +0000     4608 bytes  contributing.md</tspan>
-<tspan x="10" y="186"> 10.  2017-04-15 22:01:08 +0000     2913 bytes  docs/CONTRIBUTING.md</tspan>
-<tspan x="10" y="202"> 11.  2017-04-15 22:01:08 +0000     1008 bytes  docs/README.md</tspan>
-<tspan x="10" y="218"> 12.  2017-04-15 22:01:08 +0000   603239 bytes  docs/angular-fullstack-logo.svg</tspan>
-<tspan x="10" y="234"> 13.  2017-04-15 22:01:08 +0000     4255 bytes  docs/antwar.config.js</tspan>
-<tspan x="10" y="250"> 14.  2017-04-15 22:01:08 +0000   111988 bytes  docs/assets/afs-screenshot-cropped.png</tspan>
-<tspan x="10" y="266"> 15.  2017-04-15 22:01:08 +0000   176320 bytes  docs/assets/afs-screenshot.png</tspan>
-<tspan x="10" y="282"> 16.  2017-04-15 22:01:08 +0000   589017 bytes  docs/assets/angular-fullstack-boxes.svg</tspan>
-<tspan x="10" y="298"> 17.  2017-04-15 22:01:08 +0000   603239 bytes  docs/assets/angular-fullstack-logo.svg</tspan>
-<tspan x="10" y="314"> 18.  2017-04-15 22:01:08 +0000     4286 bytes  docs/assets/favicon.ico</tspan>
-<tspan x="10" y="330"> 19.  2017-04-15 22:01:08 +0000    60976 bytes  docs/assets/foo-route-navbar.jpg</tspan>
-<tspan x="10" y="346"> 20.  2017-04-15 22:01:08 +0000    61800 bytes  docs/assets/foo-route.jpg</tspan>
-<tspan x="10" y="362"> 21.  2017-04-15 22:01:08 +0000    19236 bytes  docs/assets/geomanist-medium.woff</tspan>
-<tspan x="10" y="378"> 22.  2017-04-15 22:01:08 +0000    14807 bytes  docs/assets/geomanist-medium.woff2</tspan>
-<tspan x="10" y="394"> 23.  2017-04-15 22:01:08 +0000     2902 bytes  docs/assets/github-logo.svg</tspan>
-<tspan x="10" y="410"> 24.  2017-04-15 22:01:08 +0000    68668 bytes  docs/assets/homepage-modules.svg</tspan>
-<tspan x="10" y="426"> 25.  2017-04-15 22:01:08 +0000      678 bytes  docs/assets/icon-square-big.svg</tspan>
-<tspan x="10" y="442"> 26.  2017-04-15 22:01:08 +0000      656 bytes  docs/assets/icon-square-small.svg</tspan>
-<tspan x="10" y="458"> 27.  2017-04-15 22:01:08 +0000   233276 bytes  docs/assets/logged-in.jpg</tspan>
-<tspan x="10" y="474"> 28.  2017-04-15 22:01:08 +0000     2396 bytes  docs/assets/logo-on-dark-bg.svg</tspan>
-<tspan x="10" y="490"> 29.  2017-04-15 22:01:08 +0000     2397 bytes  docs/assets/logo-on-white-bg.svg</tspan>
-<tspan x="10" y="506"> 30.  2017-04-15 22:01:08 +0000    30349 bytes  docs/assets/logo-small.svg</tspan>
-<tspan x="10" y="522"> 31.  2017-04-15 22:01:08 +0000     2385 bytes  docs/assets/site-logo.svg</tspan>
-<tspan x="10" y="538"> 32.  2017-04-15 22:01:08 +0000    59827 bytes  docs/assets/socket.io-demo.gif</tspan>
-<tspan x="10" y="554"> 33.  2017-04-15 22:01:08 +0000      347 bytes  docs/bootstrap.js</tspan>
-<tspan x="10" y="570"> 34.  2017-04-15 22:01:08 +0000      147 bytes  docs/components/cc/cc-style.scss</tspan>
-<tspan x="10" y="586"> 35.  2017-04-15 22:01:08 +0000      368 bytes  docs/components/cc/cc.jsx</tspan>
-<tspan x="10" y="602"> 36.  2017-04-15 22:01:08 +0000      122 bytes  docs/components/container/container-style.scss</tspan>
-<tspan x="10" y="618"> 37.  2017-04-15 22:01:08 +0000      200 bytes  docs/components/container/container.jsx</tspan>
-<tspan x="10" y="634"> 38.  2017-04-15 22:01:08 +0000      664 bytes  docs/components/contributors/contributors-style.\</tspan>
+<tspan x="10" y="26">  0.  2017-04-25 11:01:58 +0000  6544654 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-25 11:01:58 +0000    86314 bytes  CHANGELOG.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-25 11:01:58 +0000     4728 bytes  Gruntfile.js</tspan>
+<tspan x="10" y="74">  3.  2017-04-25 11:01:58 +0000      524 bytes  ISSUE_TEMPLATE.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-25 11:01:58 +0000      357 bytes  PULL_REQUEST_TEMPLATE.md</tspan>
+<tspan x="10" y="106">  5.  2017-04-25 11:01:58 +0000     1120 bytes  angular-fullstack-deps/LICENSE</tspan>
+<tspan x="10" y="122">  6.  2017-04-25 11:01:58 +0000      716 bytes  angular-fullstack-deps/README.md</tspan>
+<tspan x="10" y="138">  7.  2017-04-25 11:01:58 +0000     5407 bytes  angular-fullstack-deps/package.json</tspan>
+<tspan x="10" y="154">  8.  2017-04-25 11:01:58 +0000     1457 bytes  circle.yml</tspan>
+<tspan x="10" y="170">  9.  2017-04-25 11:01:58 +0000     4608 bytes  contributing.md</tspan>
+<tspan x="10" y="186"> 10.  2017-04-25 11:01:58 +0000     2913 bytes  docs/CONTRIBUTING.md</tspan>
+<tspan x="10" y="202"> 11.  2017-04-25 11:01:58 +0000     1008 bytes  docs/README.md</tspan>
+<tspan x="10" y="218"> 12.  2017-04-25 11:01:58 +0000   603239 bytes  docs/angular-fullstack-logo.svg</tspan>
+<tspan x="10" y="234"> 13.  2017-04-25 11:01:58 +0000     4255 bytes  docs/antwar.config.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-25 11:01:58 +0000   111988 bytes  docs/assets/afs-screenshot-cropped.png</tspan>
+<tspan x="10" y="266"> 15.  2017-04-25 11:01:58 +0000   176320 bytes  docs/assets/afs-screenshot.png</tspan>
+<tspan x="10" y="282"> 16.  2017-04-25 11:01:58 +0000   589017 bytes  docs/assets/angular-fullstack-boxes.svg</tspan>
+<tspan x="10" y="298"> 17.  2017-04-25 11:01:58 +0000   603239 bytes  docs/assets/angular-fullstack-logo.svg</tspan>
+<tspan x="10" y="314"> 18.  2017-04-25 11:01:58 +0000     4286 bytes  docs/assets/favicon.ico</tspan>
+<tspan x="10" y="330"> 19.  2017-04-25 11:01:58 +0000    60976 bytes  docs/assets/foo-route-navbar.jpg</tspan>
+<tspan x="10" y="346"> 20.  2017-04-25 11:01:58 +0000    61800 bytes  docs/assets/foo-route.jpg</tspan>
+<tspan x="10" y="362"> 21.  2017-04-25 11:01:58 +0000    19236 bytes  docs/assets/geomanist-medium.woff</tspan>
+<tspan x="10" y="378"> 22.  2017-04-25 11:01:58 +0000    14807 bytes  docs/assets/geomanist-medium.woff2</tspan>
+<tspan x="10" y="394"> 23.  2017-04-25 11:01:58 +0000     2902 bytes  docs/assets/github-logo.svg</tspan>
+<tspan x="10" y="410"> 24.  2017-04-25 11:01:58 +0000    68668 bytes  docs/assets/homepage-modules.svg</tspan>
+<tspan x="10" y="426"> 25.  2017-04-25 11:01:58 +0000      678 bytes  docs/assets/icon-square-big.svg</tspan>
+<tspan x="10" y="442"> 26.  2017-04-25 11:01:58 +0000      656 bytes  docs/assets/icon-square-small.svg</tspan>
+<tspan x="10" y="458"> 27.  2017-04-25 11:01:58 +0000   233276 bytes  docs/assets/logged-in.jpg</tspan>
+<tspan x="10" y="474"> 28.  2017-04-25 11:01:58 +0000     2396 bytes  docs/assets/logo-on-dark-bg.svg</tspan>
+<tspan x="10" y="490"> 29.  2017-04-25 11:01:58 +0000     2397 bytes  docs/assets/logo-on-white-bg.svg</tspan>
+<tspan x="10" y="506"> 30.  2017-04-25 11:01:58 +0000    30349 bytes  docs/assets/logo-small.svg</tspan>
+<tspan x="10" y="522"> 31.  2017-04-25 11:01:58 +0000     2385 bytes  docs/assets/site-logo.svg</tspan>
+<tspan x="10" y="538"> 32.  2017-04-25 11:01:58 +0000    59827 bytes  docs/assets/socket.io-demo.gif</tspan>
+<tspan x="10" y="554"> 33.  2017-04-25 11:01:58 +0000      347 bytes  docs/bootstrap.js</tspan>
+<tspan x="10" y="570"> 34.  2017-04-25 11:01:58 +0000      147 bytes  docs/components/cc/cc-style.scss</tspan>
+<tspan x="10" y="586"> 35.  2017-04-25 11:01:58 +0000      368 bytes  docs/components/cc/cc.jsx</tspan>
+<tspan x="10" y="602"> 36.  2017-04-25 11:01:58 +0000      122 bytes  docs/components/container/container-style.scss</tspan>
+<tspan x="10" y="618"> 37.  2017-04-25 11:01:58 +0000      200 bytes  docs/components/container/container.jsx</tspan>
+<tspan x="10" y="634"> 38.  2017-04-25 11:01:58 +0000      664 bytes  docs/components/contributors/contributors-style.\</tspan>
 <tspan x="10" y="650">scss</tspan>
-<tspan x="10" y="666"> 39.  2017-04-15 22:01:08 +0000      654 bytes  docs/components/contributors/contributors.jsx</tspan>
-<tspan x="10" y="682"> 40.  2017-04-15 22:01:08 +0000      704 bytes  docs/components/cube/cube-style.scss</tspan>
-<tspan x="10" y="698"> 41.  2017-04-15 22:01:08 +0000     5281 bytes  docs/components/cube/cube.jsx</tspan>
-<tspan x="10" y="714"> 42.  2017-04-15 22:01:08 +0000     1053 bytes  docs/components/footer/footer-style.scss</tspan>
-<tspan x="10" y="730"> 43.  2017-04-15 22:01:08 +0000     1250 bytes  docs/components/footer/footer.jsx</tspan>
-<tspan x="10" y="746"> 44.  2017-04-15 22:01:08 +0000      425 bytes  docs/components/link/link.jsx</tspan>
-<tspan x="10" y="762"> 45.  2017-04-15 22:01:08 +0000      128 bytes  docs/components/logo/logo-style.scss</tspan>
-<tspan x="10" y="778"> 46.  2017-04-15 22:01:08 +0000      160 bytes  docs/components/logo/logo.jsx</tspan>
-<tspan x="10" y="794"> 47.  2017-04-15 22:01:08 +0000     3290 bytes  docs/components/navigation/navigation-style.scss</tspan>
-<tspan x="10" y="810"> 48.  2017-04-15 22:01:08 +0000     5551 bytes  docs/components/navigation/navigation.jsx</tspan>
-<tspan x="10" y="826"> 49.  2017-04-15 22:01:08 +0000     2201 bytes  docs/components/navigation/search-style.scss</tspan>
-<tspan x="10" y="842"> 50.  2017-04-15 22:01:08 +0000      573 bytes  docs/components/organization/organization-style.\</tspan>
+<tspan x="10" y="666"> 39.  2017-04-25 11:01:58 +0000      654 bytes  docs/components/contributors/contributors.jsx</tspan>
+<tspan x="10" y="682"> 40.  2017-04-25 11:01:58 +0000      704 bytes  docs/components/cube/cube-style.scss</tspan>
+<tspan x="10" y="698"> 41.  2017-04-25 11:01:58 +0000     5281 bytes  docs/components/cube/cube.jsx</tspan>
+<tspan x="10" y="714"> 42.  2017-04-25 11:01:58 +0000     1053 bytes  docs/components/footer/footer-style.scss</tspan>
+<tspan x="10" y="730"> 43.  2017-04-25 11:01:58 +0000     1250 bytes  docs/components/footer/footer.jsx</tspan>
+<tspan x="10" y="746"> 44.  2017-04-25 11:01:58 +0000      425 bytes  docs/components/link/link.jsx</tspan>
+<tspan x="10" y="762"> 45.  2017-04-25 11:01:58 +0000      128 bytes  docs/components/logo/logo-style.scss</tspan>
+<tspan x="10" y="778"> 46.  2017-04-25 11:01:58 +0000      160 bytes  docs/components/logo/logo.jsx</tspan>
+<tspan x="10" y="794"> 47.  2017-04-25 11:01:58 +0000     3290 bytes  docs/components/navigation/navigation-style.scss</tspan>
+<tspan x="10" y="810"> 48.  2017-04-25 11:01:58 +0000     5551 bytes  docs/components/navigation/navigation.jsx</tspan>
+<tspan x="10" y="826"> 49.  2017-04-25 11:01:58 +0000     2201 bytes  docs/components/navigation/search-style.scss</tspan>
+<tspan x="10" y="842"> 50.  2017-04-25 11:01:58 +0000      573 bytes  docs/components/organization/organization-style.\</tspan>
 <tspan x="10" y="858">scss</tspan>
-<tspan x="10" y="874"> 51.  2017-04-15 22:01:08 +0000     2637 bytes  docs/components/organization/organization.jsx</tspan>
-<tspan x="10" y="890"> 52.  2017-04-15 22:01:08 +0000     7538 bytes  docs/components/organization/projects.json</tspan>
-<tspan x="10" y="906"> 53.  2017-04-15 22:01:08 +0000      686 bytes  docs/components/page/page-style.scss</tspan>
-<tspan x="10" y="922"> 54.  2017-04-15 22:01:08 +0000     1552 bytes  docs/components/page/page.jsx</tspan>
-<tspan x="10" y="938"> 55.  2017-04-15 22:01:08 +0000     1237 bytes  docs/components/sidebar-item/sidebar-item-style.\</tspan>
+<tspan x="10" y="874"> 51.  2017-04-25 11:01:58 +0000     2637 bytes  docs/components/organization/organization.jsx</tspan>
+<tspan x="10" y="890"> 52.  2017-04-25 11:01:58 +0000     7538 bytes  docs/components/organization/projects.json</tspan>
+<tspan x="10" y="906"> 53.  2017-04-25 11:01:58 +0000      686 bytes  docs/components/page/page-style.scss</tspan>
+<tspan x="10" y="922"> 54.  2017-04-25 11:01:58 +0000     1552 bytes  docs/components/page/page.jsx</tspan>
+<tspan x="10" y="938"> 55.  2017-04-25 11:01:58 +0000     1237 bytes  docs/components/sidebar-item/sidebar-item-style.\</tspan>
 <tspan x="10" y="954">scss</tspan>
-<tspan x="10" y="970"> 56.  2017-04-15 22:01:08 +0000     1195 bytes  docs/components/sidebar-item/sidebar-item.jsx</tspan>
-<tspan x="10" y="986"> 57.  2017-04-15 22:01:08 +0000     2082 bytes  docs/components/sidebar-mobile/sidebar-mobile-st\</tspan>
+<tspan x="10" y="970"> 56.  2017-04-25 11:01:58 +0000     1195 bytes  docs/components/sidebar-item/sidebar-item.jsx</tspan>
+<tspan x="10" y="986"> 57.  2017-04-25 11:01:58 +0000     2082 bytes  docs/components/sidebar-mobile/sidebar-mobile-st\</tspan>
 <tspan x="10" y="1002">yle.scss</tspan>
-<tspan x="10" y="1018"> 58.  2017-04-15 22:01:08 +0000     5165 bytes  docs/components/sidebar-mobile/sidebar-mobile.js\</tspan>
+<tspan x="10" y="1018"> 58.  2017-04-25 11:01:58 +0000     5165 bytes  docs/components/sidebar-mobile/sidebar-mobile.js\</tspan>
 <tspan x="10" y="1034">x</tspan>
-<tspan x="10" y="1050"> 59.  2017-04-15 22:01:08 +0000      242 bytes  docs/components/sidebar/sidebar-style.scss</tspan>
-<tspan x="10" y="1066"> 60.  2017-04-15 22:01:08 +0000      806 bytes  docs/components/sidebar/sidebar.jsx</tspan>
-<tspan x="10" y="1082"> 61.  2017-04-15 22:01:08 +0000     1529 bytes  docs/components/sidecar/sidecar-style.scss</tspan>
-<tspan x="10" y="1098"> 62.  2017-04-15 22:01:08 +0000     2103 bytes  docs/components/sidecar/sidecar.jsx</tspan>
-<tspan x="10" y="1114"> 63.  2017-04-15 22:01:08 +0000      137 bytes  docs/components/site/site-style.scss</tspan>
-<tspan x="10" y="1130"> 64.  2017-04-15 22:01:08 +0000     1716 bytes  docs/components/site/site.jsx</tspan>
-<tspan x="10" y="1146"> 65.  2017-04-15 22:01:08 +0000      950 bytes  docs/components/splash-viz/splash-viz-style.scss</tspan>
-<tspan x="10" y="1162"> 66.  2017-04-15 22:01:08 +0000      847 bytes  docs/components/splash-viz/splash-viz.jsx</tspan>
-<tspan x="10" y="1178"> 67.  2017-04-15 22:01:08 +0000      443 bytes  docs/components/splash/splash-style.scss</tspan>
-<tspan x="10" y="1194"> 68.  2017-04-15 22:01:08 +0000     1148 bytes  docs/components/splash/splash.jsx</tspan>
-<tspan x="10" y="1210"> 69.  2017-04-15 22:01:08 +0000      480 bytes  docs/components/support/support-style.scss</tspan>
-<tspan x="10" y="1226"> 70.  2017-04-15 22:01:08 +0000      529 bytes  docs/components/support/support.jsx</tspan>
-<tspan x="10" y="1242"> 71.  2017-04-15 22:01:08 +0000      780 bytes  docs/components/text-rotater/text-rotater-style.\</tspan>
+<tspan x="10" y="1050"> 59.  2017-04-25 11:01:58 +0000      242 bytes  docs/components/sidebar/sidebar-style.scss</tspan>
+<tspan x="10" y="1066"> 60.  2017-04-25 11:01:58 +0000      806 bytes  docs/components/sidebar/sidebar.jsx</tspan>
+<tspan x="10" y="1082"> 61.  2017-04-25 11:01:58 +0000     1529 bytes  docs/components/sidecar/sidecar-style.scss</tspan>
+<tspan x="10" y="1098"> 62.  2017-04-25 11:01:58 +0000     2103 bytes  docs/components/sidecar/sidecar.jsx</tspan>
+<tspan x="10" y="1114"> 63.  2017-04-25 11:01:58 +0000      137 bytes  docs/components/site/site-style.scss</tspan>
+<tspan x="10" y="1130"> 64.  2017-04-25 11:01:58 +0000     1716 bytes  docs/components/site/site.jsx</tspan>
+<tspan x="10" y="1146"> 65.  2017-04-25 11:01:58 +0000      950 bytes  docs/components/splash-viz/splash-viz-style.scss</tspan>
+<tspan x="10" y="1162"> 66.  2017-04-25 11:01:58 +0000      847 bytes  docs/components/splash-viz/splash-viz.jsx</tspan>
+<tspan x="10" y="1178"> 67.  2017-04-25 11:01:58 +0000      443 bytes  docs/components/splash/splash-style.scss</tspan>
+<tspan x="10" y="1194"> 68.  2017-04-25 11:01:58 +0000     1148 bytes  docs/components/splash/splash.jsx</tspan>
+<tspan x="10" y="1210"> 69.  2017-04-25 11:01:58 +0000      480 bytes  docs/components/support/support-style.scss</tspan>
+<tspan x="10" y="1226"> 70.  2017-04-25 11:01:58 +0000      529 bytes  docs/components/support/support.jsx</tspan>
+<tspan x="10" y="1242"> 71.  2017-04-25 11:01:58 +0000      780 bytes  docs/components/text-rotater/text-rotater-style.\</tspan>
 <tspan x="10" y="1258">scss</tspan>
-<tspan x="10" y="1274"> 72.  2017-04-15 22:01:08 +0000     2350 bytes  docs/components/text-rotater/text-rotater.jsx</tspan>
-<tspan x="10" y="1290"> 73.  2017-04-15 22:01:08 +0000     4493 bytes  docs/components/vote/api.dev.js</tspan>
-<tspan x="10" y="1306"> 74.  2017-04-15 22:01:08 +0000     3512 bytes  docs/components/vote/api.js</tspan>
-<tspan x="10" y="1322"> 75.  2017-04-15 22:01:08 +0000     3242 bytes  docs/components/vote/app-style.scss</tspan>
-<tspan x="10" y="1338"> 76.  2017-04-15 22:01:08 +0000    11007 bytes  docs/components/vote/app.jsx</tspan>
-<tspan x="10" y="1354"> 77.  2017-04-15 22:01:08 +0000      752 bytes  docs/components/vote/button/button-style.scss</tspan>
-<tspan x="10" y="1370"> 78.  2017-04-15 22:01:08 +0000     3641 bytes  docs/components/vote/button/button.jsx</tspan>
-<tspan x="10" y="1386"> 79.  2017-04-15 22:01:08 +0000      230 bytes  docs/components/vote/influence-style.scss</tspan>
-<tspan x="10" y="1402"> 80.  2017-04-15 22:01:08 +0000      986 bytes  docs/components/vote/influence.jsx</tspan>
-<tspan x="10" y="1418"> 81.  2017-04-15 22:01:08 +0000       56 bytes  docs/components/vote/list-style.scss</tspan>
-<tspan x="10" y="1434"> 82.  2017-04-15 22:01:08 +0000      680 bytes  docs/components/vote/list.jsx</tspan>
-<tspan x="10" y="1450"> 83.  2017-04-15 22:01:08 +0000     1230 bytes  docs/config.json</tspan>
-<tspan x="10" y="1466"> 84.  2017-04-15 22:01:08 +0000      484 bytes  docs/content/Contributing/00_title.md</tspan>
-<tspan x="10" y="1482"> 85.  2017-04-15 22:01:08 +0000     1871 bytes  docs/content/Contributing/01_Commit_Style.md</tspan>
-<tspan x="10" y="1498"> 86.  2017-04-15 22:01:08 +0000      180 bytes  docs/content/contribute.md</tspan>
-<tspan x="10" y="1514"> 87.  2017-04-15 22:01:08 +0000      414 bytes  docs/content/deployment/index.md</tspan>
-<tspan x="10" y="1530"> 88.  2017-04-15 22:01:08 +0000     3228 bytes  docs/content/developing/01_Adding_a_Route.md</tspan>
-<tspan x="10" y="1546"> 89.  2017-04-15 22:01:08 +0000     5305 bytes  docs/content/developing/index.md</tspan>
-<tspan x="10" y="1562"> 90.  2017-04-15 22:01:08 +0000      577 bytes  docs/content/examples/Heroku_Deployment.md</tspan>
-<tspan x="10" y="1578"> 91.  2017-04-15 22:01:08 +0000     5676 bytes  docs/content/examples/IIS.md</tspan>
-<tspan x="10" y="1594"> 92.  2017-04-15 22:01:08 +0000       40 bytes  docs/content/examples/index.md</tspan>
-<tspan x="10" y="1610"> 93.  2017-04-15 22:01:08 +0000     1034 bytes  docs/content/generators/app.md</tspan>
-<tspan x="10" y="1626"> 94.  2017-04-15 22:01:08 +0000      345 bytes  docs/content/generators/component.md</tspan>
-<tspan x="10" y="1642"> 95.  2017-04-15 22:01:08 +0000      339 bytes  docs/content/generators/controller.md</tspan>
-<tspan x="10" y="1658"> 96.  2017-04-15 22:01:08 +0000      335 bytes  docs/content/generators/decorator.md</tspan>
-<tspan x="10" y="1674"> 97.  2017-04-15 22:01:08 +0000      897 bytes  docs/content/generators/directive.md</tspan>
-<tspan x="10" y="1690"> 98.  2017-04-15 22:01:08 +0000     1024 bytes  docs/content/generators/endpoint.md</tspan>
-<tspan x="10" y="1706"> 99.  2017-04-15 22:01:08 +0000      335 bytes  docs/content/generators/filter.md</tspan>
-<tspan x="10" y="1722">100.  2017-04-15 22:01:08 +0000     2213 bytes  docs/content/generators/heroku.md</tspan>
-<tspan x="10" y="1738">101.  2017-04-15 22:01:08 +0000       73 bytes  docs/content/generators/index.md</tspan>
-<tspan x="10" y="1754">102.  2017-04-15 22:01:08 +0000     1327 bytes  docs/content/generators/openshift.md</tspan>
-<tspan x="10" y="1770">103.  2017-04-15 22:01:08 +0000      887 bytes  docs/content/generators/route.md</tspan>
-<tspan x="10" y="1786">104.  2017-04-15 22:01:08 +0000      481 bytes  docs/content/generators/service.md</tspan>
-<tspan x="10" y="1802">105.  2017-04-15 22:01:08 +0000     3587 bytes  docs/content/get-started/index.md</tspan>
-<tspan x="10" y="1818">106.  2017-04-15 22:01:08 +0000     1270 bytes  docs/content/get-started/installation.md</tspan>
-<tspan x="10" y="1834">107.  2017-04-15 22:01:08 +0000     4888 bytes  docs/content/get-started/overview.md</tspan>
-<tspan x="10" y="1850">108.  2017-04-15 22:01:08 +0000      772 bytes  docs/content/get-started/running.md</tspan>
-<tspan x="10" y="1866">109.  2017-04-15 22:01:08 +0000       20 bytes  docs/content/guides/asdf.md</tspan>
-<tspan x="10" y="1882">110.  2017-04-15 22:01:08 +0000      137 bytes  docs/content/guides/index.md</tspan>
-<tspan x="10" y="1898">111.  2017-04-15 22:01:08 +0000      898 bytes  docs/content/index.md</tspan>
-<tspan x="10" y="1914">112.  2017-04-15 22:01:08 +0000      229 bytes  docs/docs.css</tspan>
-<tspan x="10" y="1930">113.  2017-04-15 22:01:08 +0000   176320 bytes  docs/images/afs-screenshot.png</tspan>
-<tspan x="10" y="1946">114.  2017-04-15 22:01:08 +0000    60976 bytes  docs/images/foo-route-navbar.jpg</tspan>
-<tspan x="10" y="1962">115.  2017-04-15 22:01:08 +0000    61800 bytes  docs/images/foo-route.jpg</tspan>
-<tspan x="10" y="1978">116.  2017-04-15 22:01:08 +0000   233276 bytes  docs/images/logged-in.jpg</tspan>
-<tspan x="10" y="1994">117.  2017-04-15 22:01:08 +0000    59827 bytes  docs/images/socket.io-demo.gif</tspan>
-<tspan x="10" y="2010">118.  2017-04-15 22:01:08 +0000     4433 bytes  docs/index.md</tspan>
-<tspan x="10" y="2026">119.  2017-04-15 22:01:08 +0000     3491 bytes  docs/package.json</tspan>
-<tspan x="10" y="2042">120.  2017-04-15 22:01:08 +0000     1439 bytes  docs/scripts/deploy.sh</tspan>
-<tspan x="10" y="2058">121.  2017-04-15 22:01:08 +0000     3248 bytes  docs/scripts/deploy_key.enc</tspan>
-<tspan x="10" y="2074">122.  2017-04-15 22:01:08 +0000      732 bytes  docs/scripts/deploy_key.pub</tspan>
-<tspan x="10" y="2090">123.  2017-04-15 22:01:08 +0000      581 bytes  docs/scripts/fetch.sh</tspan>
-<tspan x="10" y="2106">124.  2017-04-15 22:01:08 +0000     2820 bytes  docs/scripts/fetch_package_files.js</tspan>
-<tspan x="10" y="2122">125.  2017-04-15 22:01:08 +0000      943 bytes  docs/scripts/fetch_package_names.js</tspan>
-<tspan x="10" y="2138">126.  2017-04-15 22:01:08 +0000      205 bytes  docs/styles/fonts.scss</tspan>
-<tspan x="10" y="2154">127.  2017-04-15 22:01:08 +0000      349 bytes  docs/styles/homepage.scss</tspan>
-<tspan x="10" y="2170">128.  2017-04-15 22:01:08 +0000      157 bytes  docs/styles/icon.font.js</tspan>
-<tspan x="10" y="2186">129.  2017-04-15 22:01:08 +0000      311 bytes  docs/styles/icon.template.hbs</tspan>
-<tspan x="10" y="2202">130.  2017-04-15 22:01:08 +0000      750 bytes  docs/styles/icons/chevron-down.svg</tspan>
-<tspan x="10" y="2218">131.  2017-04-15 22:01:08 +0000      750 bytes  docs/styles/icons/chevron-left.svg</tspan>
-<tspan x="10" y="2234">132.  2017-04-15 22:01:08 +0000      750 bytes  docs/styles/icons/chevron-right.svg</tspan>
-<tspan x="10" y="2250">133.  2017-04-15 22:01:08 +0000      752 bytes  docs/styles/icons/chevron-up.svg</tspan>
-<tspan x="10" y="2266">134.  2017-04-15 22:01:08 +0000      835 bytes  docs/styles/icons/cross.svg</tspan>
-<tspan x="10" y="2282">135.  2017-04-15 22:01:08 +0000      829 bytes  docs/styles/icons/edit.svg</tspan>
-<tspan x="10" y="2298">136.  2017-04-15 22:01:08 +0000      840 bytes  docs/styles/icons/github.svg</tspan>
-<tspan x="10" y="2314">137.  2017-04-15 22:01:08 +0000     1372 bytes  docs/styles/icons/gitter.svg</tspan>
-<tspan x="10" y="2330">138.  2017-04-15 22:01:08 +0000      868 bytes  docs/styles/icons/link.svg</tspan>
-<tspan x="10" y="2346">139.  2017-04-15 22:01:08 +0000      904 bytes  docs/styles/icons/magnifying-glass.svg</tspan>
-<tspan x="10" y="2362">140.  2017-04-15 22:01:08 +0000      412 bytes  docs/styles/icons/medium.svg</tspan>
-<tspan x="10" y="2378">141.  2017-04-15 22:01:08 +0000      787 bytes  docs/styles/icons/menu.svg</tspan>
-<tspan x="10" y="2394">142.  2017-04-15 22:01:08 +0000      399 bytes  docs/styles/icons/stack-overflow.svg</tspan>
-<tspan x="10" y="2410">143.  2017-04-15 22:01:08 +0000     1432 bytes  docs/styles/index.scss</tspan>
-<tspan x="10" y="2426">144.  2017-04-15 22:01:08 +0000     4177 bytes  docs/styles/markdown.scss</tspan>
-<tspan x="10" y="2442">145.  2017-04-15 22:01:08 +0000      233 bytes  docs/styles/partials/_functions.scss</tspan>
-<tspan x="10" y="2458">146.  2017-04-15 22:01:08 +0000      100 bytes  docs/styles/partials/_mixins.scss</tspan>
-<tspan x="10" y="2474">147.  2017-04-15 22:01:08 +0000      597 bytes  docs/styles/partials/_vars.scss</tspan>
-<tspan x="10" y="2490">148.  2017-04-15 22:01:08 +0000     1582 bytes  docs/styles/prism-theme.scss</tspan>
-<tspan x="10" y="2506">149.  2017-04-15 22:01:08 +0000      864 bytes  docs/styles/reset.css</tspan>
-<tspan x="10" y="2522">150.  2017-04-15 22:01:08 +0000     1221 bytes  docs/template.ejs</tspan>
-<tspan x="10" y="2538">151.  2017-04-15 22:01:08 +0000      788 bytes  docs/utilities/highlight.js</tspan>
-<tspan x="10" y="2554">152.  2017-04-15 22:01:08 +0000     6615 bytes  docs/utilities/markdown.js</tspan>
-<tspan x="10" y="2570">153.  2017-04-15 22:01:08 +0000     3239 bytes  docs/webpack.config.js</tspan>
-<tspan x="10" y="2586">154.  2017-04-15 22:01:08 +0000      491 bytes  generators/app/USAGE</tspan>
-<tspan x="10" y="2602">155.  2017-04-15 22:01:08 +0000    26533 bytes  generators/app/index.js</tspan>
-<tspan x="10" y="2618">156.  2017-04-15 22:01:08 +0000     2143 bytes  generators/component/index.js</tspan>
-<tspan x="10" y="2634">157.  2017-04-15 22:01:08 +0000      319 bytes  generators/controller/index.js</tspan>
-<tspan x="10" y="2650">158.  2017-04-15 22:01:08 +0000      317 bytes  generators/decorator/index.js</tspan>
-<tspan x="10" y="2666">159.  2017-04-15 22:01:08 +0000      317 bytes  generators/directive/index.js</tspan>
-<tspan x="10" y="2682">160.  2017-04-15 22:01:08 +0000     6867 bytes  generators/endpoint/index.js</tspan>
-<tspan x="10" y="2698">161.  2017-04-15 22:01:08 +0000      313 bytes  generators/factory/index.js</tspan>
-<tspan x="10" y="2714">162.  2017-04-15 22:01:08 +0000      311 bytes  generators/filter/index.js</tspan>
-<tspan x="10" y="2730">163.  2017-04-15 22:01:08 +0000     3201 bytes  generators/generator-base.js</tspan>
-<tspan x="10" y="2746">164.  2017-04-15 22:01:08 +0000      220 bytes  generators/heroku/USAGE</tspan>
-<tspan x="10" y="2762">165.  2017-04-15 22:01:08 +0000     9466 bytes  generators/heroku/index.js</tspan>
-<tspan x="10" y="2778">166.  2017-04-15 22:01:08 +0000      482 bytes  generators/insight-init.js</tspan>
-<tspan x="10" y="2794">167.  2017-04-15 22:01:08 +0000      225 bytes  generators/openshift/USAGE</tspan>
-<tspan x="10" y="2810">168.  2017-04-15 22:01:08 +0000    10823 bytes  generators/openshift/index.js</tspan>
-<tspan x="10" y="2826">169.  2017-04-15 22:01:08 +0000        0 bytes  generators/openshift/templates/hot_deploy</tspan>
-<tspan x="10" y="2842">170.  2017-04-15 22:01:08 +0000      315 bytes  generators/provider/index.js</tspan>
-<tspan x="10" y="2858">171.  2017-04-15 22:01:08 +0000      309 bytes  generators/route/index.js</tspan>
-<tspan x="10" y="2874">172.  2017-04-15 22:01:08 +0000      313 bytes  generators/service/index.js</tspan>
-<tspan x="10" y="2890">173.  2017-04-15 22:01:08 +0000     5715 bytes  generators/util.js</tspan>
-<tspan x="10" y="2906">174.  2017-04-15 22:01:08 +0000     8677 bytes  gulpfile.js</tspan>
-<tspan x="10" y="2922">175.  2017-04-15 22:01:08 +0000      245 bytes  media/readme.md</tspan>
-<tspan x="10" y="2938">176.  2017-04-15 22:01:08 +0000   594427 bytes  media/source/angular-fullstack-boxes.ai</tspan>
-<tspan x="10" y="2954">177.  2017-04-15 22:01:08 +0000   625001 bytes  media/source/angular-fullstack-logo.ai</tspan>
-<tspan x="10" y="2970">178.  2017-04-15 22:01:08 +0000   589017 bytes  media/svg/angular-fullstack-boxes.svg</tspan>
-<tspan x="10" y="2986">179.  2017-04-15 22:01:08 +0000   603239 bytes  media/svg/angular-fullstack-logo.svg</tspan>
-<tspan x="10" y="3002">180.  2017-04-15 22:01:08 +0000      137 bytes  mocha.conf.js</tspan>
-<tspan x="10" y="3018">181.  2017-04-15 22:01:08 +0000     5186 bytes  package.json</tspan>
-<tspan x="10" y="3034">182.  2017-04-15 22:01:08 +0000    12752 bytes  readme.md</tspan>
-<tspan x="10" y="3050">183.  2017-04-15 22:01:08 +0000     1884 bytes  scripts/sauce_connect_setup.sh</tspan>
-<tspan x="10" y="3066">184.  2017-04-15 22:01:08 +0000      491 bytes  src/generators/app/USAGE</tspan>
-<tspan x="10" y="3082">185.  2017-04-15 22:01:08 +0000    20477 bytes  src/generators/app/index.js</tspan>
-<tspan x="10" y="3098">186.  2017-04-15 22:01:08 +0000      308 bytes  src/generators/component/index.js</tspan>
-<tspan x="10" y="3114">187.  2017-04-15 22:01:08 +0000      309 bytes  src/generators/controller/index.js</tspan>
-<tspan x="10" y="3130">188.  2017-04-15 22:01:08 +0000      307 bytes  src/generators/decorator/index.js</tspan>
-<tspan x="10" y="3146">189.  2017-04-15 22:01:08 +0000      307 bytes  src/generators/directive/index.js</tspan>
-<tspan x="10" y="3162">190.  2017-04-15 22:01:08 +0000     4148 bytes  src/generators/endpoint/index.js</tspan>
-<tspan x="10" y="3178">191.  2017-04-15 22:01:08 +0000      303 bytes  src/generators/factory/index.js</tspan>
-<tspan x="10" y="3194">192.  2017-04-15 22:01:08 +0000      301 bytes  src/generators/filter/index.js</tspan>
-<tspan x="10" y="3210">193.  2017-04-15 22:01:08 +0000     2151 bytes  src/generators/generator-base.js</tspan>
-<tspan x="10" y="3226">194.  2017-04-15 22:01:08 +0000      220 bytes  src/generators/heroku/USAGE</tspan>
-<tspan x="10" y="3242">195.  2017-04-15 22:01:08 +0000     5485 bytes  src/generators/heroku/index.js</tspan>
-<tspan x="10" y="3258">196.  2017-04-15 22:01:08 +0000      481 bytes  src/generators/insight-init.js</tspan>
-<tspan x="10" y="3274">197.  2017-04-15 22:01:08 +0000      225 bytes  src/generators/openshift/USAGE</tspan>
-<tspan x="10" y="3290">198.  2017-04-15 22:01:08 +0000    10754 bytes  src/generators/openshift/index.js</tspan>
-<tspan x="10" y="3306">199.  2017-04-15 22:01:08 +0000        0 bytes  src/generators/openshift/templates/hot_deploy</tspan>
-<tspan x="10" y="3322">200.  2017-04-15 22:01:08 +0000      305 bytes  src/generators/provider/index.js</tspan>
-<tspan x="10" y="3338">201.  2017-04-15 22:01:08 +0000      299 bytes  src/generators/route/index.js</tspan>
-<tspan x="10" y="3354">202.  2017-04-15 22:01:08 +0000      303 bytes  src/generators/service/index.js</tspan>
-<tspan x="10" y="3370">203.  2017-04-15 22:01:08 +0000     4922 bytes  src/generators/util.js</tspan>
-<tspan x="10" y="3386">204.  2017-04-15 22:01:08 +0000     5926 bytes  src/test/endpoint.test.js</tspan>
-<tspan x="10" y="3402">205.  2017-04-15 22:01:08 +0000     7504 bytes  src/test/get-expected-files.js</tspan>
-<tspan x="10" y="3418">206.  2017-04-15 22:01:08 +0000    11682 bytes  src/test/main.test.js</tspan>
-<tspan x="10" y="3434">207.  2017-04-15 22:01:08 +0000      773 bytes  src/test/pre.test.js</tspan>
-<tspan x="10" y="3450">208.  2017-04-15 22:01:08 +0000     3438 bytes  src/test/test-helpers.js</tspan>
-<tspan x="10" y="3466">209.  2017-04-15 22:01:08 +0000      916 bytes  task-utils/changelog-templates/commit.hbs</tspan>
-<tspan x="10" y="3482">210.  2017-04-15 22:01:08 +0000     2766 bytes  task-utils/grunt.js</tspan>
-<tspan x="10" y="3498">211.  2017-04-15 22:01:08 +0000     1106 bytes  templates/app/README.md</tspan>
-<tspan x="10" y="3514">212.  2017-04-15 22:01:08 +0000      171 bytes  templates/app/_.babelrc</tspan>
-<tspan x="10" y="3530">213.  2017-04-15 22:01:08 +0000      173 bytes  templates/app/_.gitignore</tspan>
-<tspan x="10" y="3546">214.  2017-04-15 22:01:08 +0000     6647 bytes  templates/app/_package.json</tspan>
+<tspan x="10" y="1274"> 72.  2017-04-25 11:01:58 +0000     2350 bytes  docs/components/text-rotater/text-rotater.jsx</tspan>
+<tspan x="10" y="1290"> 73.  2017-04-25 11:01:58 +0000     4493 bytes  docs/components/vote/api.dev.js</tspan>
+<tspan x="10" y="1306"> 74.  2017-04-25 11:01:58 +0000     3512 bytes  docs/components/vote/api.js</tspan>
+<tspan x="10" y="1322"> 75.  2017-04-25 11:01:58 +0000     3242 bytes  docs/components/vote/app-style.scss</tspan>
+<tspan x="10" y="1338"> 76.  2017-04-25 11:01:58 +0000    11007 bytes  docs/components/vote/app.jsx</tspan>
+<tspan x="10" y="1354"> 77.  2017-04-25 11:01:58 +0000      752 bytes  docs/components/vote/button/button-style.scss</tspan>
+<tspan x="10" y="1370"> 78.  2017-04-25 11:01:58 +0000     3641 bytes  docs/components/vote/button/button.jsx</tspan>
+<tspan x="10" y="1386"> 79.  2017-04-25 11:01:58 +0000      230 bytes  docs/components/vote/influence-style.scss</tspan>
+<tspan x="10" y="1402"> 80.  2017-04-25 11:01:58 +0000      986 bytes  docs/components/vote/influence.jsx</tspan>
+<tspan x="10" y="1418"> 81.  2017-04-25 11:01:58 +0000       56 bytes  docs/components/vote/list-style.scss</tspan>
+<tspan x="10" y="1434"> 82.  2017-04-25 11:01:58 +0000      680 bytes  docs/components/vote/list.jsx</tspan>
+<tspan x="10" y="1450"> 83.  2017-04-25 11:01:58 +0000     1230 bytes  docs/config.json</tspan>
+<tspan x="10" y="1466"> 84.  2017-04-25 11:01:58 +0000      484 bytes  docs/content/Contributing/00_title.md</tspan>
+<tspan x="10" y="1482"> 85.  2017-04-25 11:01:58 +0000     1871 bytes  docs/content/Contributing/01_Commit_Style.md</tspan>
+<tspan x="10" y="1498"> 86.  2017-04-25 11:01:58 +0000      180 bytes  docs/content/contribute.md</tspan>
+<tspan x="10" y="1514"> 87.  2017-04-25 11:01:58 +0000      414 bytes  docs/content/deployment/index.md</tspan>
+<tspan x="10" y="1530"> 88.  2017-04-25 11:01:58 +0000     3228 bytes  docs/content/developing/01_Adding_a_Route.md</tspan>
+<tspan x="10" y="1546"> 89.  2017-04-25 11:01:58 +0000     5305 bytes  docs/content/developing/index.md</tspan>
+<tspan x="10" y="1562"> 90.  2017-04-25 11:01:58 +0000      577 bytes  docs/content/examples/Heroku_Deployment.md</tspan>
+<tspan x="10" y="1578"> 91.  2017-04-25 11:01:58 +0000     5676 bytes  docs/content/examples/IIS.md</tspan>
+<tspan x="10" y="1594"> 92.  2017-04-25 11:01:58 +0000       40 bytes  docs/content/examples/index.md</tspan>
+<tspan x="10" y="1610"> 93.  2017-04-25 11:01:58 +0000     1034 bytes  docs/content/generators/app.md</tspan>
+<tspan x="10" y="1626"> 94.  2017-04-25 11:01:58 +0000      345 bytes  docs/content/generators/component.md</tspan>
+<tspan x="10" y="1642"> 95.  2017-04-25 11:01:58 +0000      339 bytes  docs/content/generators/controller.md</tspan>
+<tspan x="10" y="1658"> 96.  2017-04-25 11:01:58 +0000      335 bytes  docs/content/generators/decorator.md</tspan>
+<tspan x="10" y="1674"> 97.  2017-04-25 11:01:58 +0000      897 bytes  docs/content/generators/directive.md</tspan>
+<tspan x="10" y="1690"> 98.  2017-04-25 11:01:58 +0000     1024 bytes  docs/content/generators/endpoint.md</tspan>
+<tspan x="10" y="1706"> 99.  2017-04-25 11:01:58 +0000      335 bytes  docs/content/generators/filter.md</tspan>
+<tspan x="10" y="1722">100.  2017-04-25 11:01:58 +0000     2213 bytes  docs/content/generators/heroku.md</tspan>
+<tspan x="10" y="1738">101.  2017-04-25 11:01:58 +0000       73 bytes  docs/content/generators/index.md</tspan>
+<tspan x="10" y="1754">102.  2017-04-25 11:01:58 +0000     1327 bytes  docs/content/generators/openshift.md</tspan>
+<tspan x="10" y="1770">103.  2017-04-25 11:01:58 +0000      887 bytes  docs/content/generators/route.md</tspan>
+<tspan x="10" y="1786">104.  2017-04-25 11:01:58 +0000      481 bytes  docs/content/generators/service.md</tspan>
+<tspan x="10" y="1802">105.  2017-04-25 11:01:58 +0000     3587 bytes  docs/content/get-started/index.md</tspan>
+<tspan x="10" y="1818">106.  2017-04-25 11:01:58 +0000     1270 bytes  docs/content/get-started/installation.md</tspan>
+<tspan x="10" y="1834">107.  2017-04-25 11:01:58 +0000     4888 bytes  docs/content/get-started/overview.md</tspan>
+<tspan x="10" y="1850">108.  2017-04-25 11:01:58 +0000      772 bytes  docs/content/get-started/running.md</tspan>
+<tspan x="10" y="1866">109.  2017-04-25 11:01:58 +0000       20 bytes  docs/content/guides/asdf.md</tspan>
+<tspan x="10" y="1882">110.  2017-04-25 11:01:58 +0000      137 bytes  docs/content/guides/index.md</tspan>
+<tspan x="10" y="1898">111.  2017-04-25 11:01:58 +0000      898 bytes  docs/content/index.md</tspan>
+<tspan x="10" y="1914">112.  2017-04-25 11:01:58 +0000      229 bytes  docs/docs.css</tspan>
+<tspan x="10" y="1930">113.  2017-04-25 11:01:58 +0000   176320 bytes  docs/images/afs-screenshot.png</tspan>
+<tspan x="10" y="1946">114.  2017-04-25 11:01:58 +0000    60976 bytes  docs/images/foo-route-navbar.jpg</tspan>
+<tspan x="10" y="1962">115.  2017-04-25 11:01:58 +0000    61800 bytes  docs/images/foo-route.jpg</tspan>
+<tspan x="10" y="1978">116.  2017-04-25 11:01:58 +0000   233276 bytes  docs/images/logged-in.jpg</tspan>
+<tspan x="10" y="1994">117.  2017-04-25 11:01:58 +0000    59827 bytes  docs/images/socket.io-demo.gif</tspan>
+<tspan x="10" y="2010">118.  2017-04-25 11:01:58 +0000     4433 bytes  docs/index.md</tspan>
+<tspan x="10" y="2026">119.  2017-04-25 11:01:58 +0000     3491 bytes  docs/package.json</tspan>
+<tspan x="10" y="2042">120.  2017-04-25 11:01:58 +0000     1439 bytes  docs/scripts/deploy.sh</tspan>
+<tspan x="10" y="2058">121.  2017-04-25 11:01:58 +0000     3248 bytes  docs/scripts/deploy_key.enc</tspan>
+<tspan x="10" y="2074">122.  2017-04-25 11:01:58 +0000      732 bytes  docs/scripts/deploy_key.pub</tspan>
+<tspan x="10" y="2090">123.  2017-04-25 11:01:58 +0000      581 bytes  docs/scripts/fetch.sh</tspan>
+<tspan x="10" y="2106">124.  2017-04-25 11:01:58 +0000     2820 bytes  docs/scripts/fetch_package_files.js</tspan>
+<tspan x="10" y="2122">125.  2017-04-25 11:01:58 +0000      943 bytes  docs/scripts/fetch_package_names.js</tspan>
+<tspan x="10" y="2138">126.  2017-04-25 11:01:58 +0000      205 bytes  docs/styles/fonts.scss</tspan>
+<tspan x="10" y="2154">127.  2017-04-25 11:01:58 +0000      349 bytes  docs/styles/homepage.scss</tspan>
+<tspan x="10" y="2170">128.  2017-04-25 11:01:58 +0000      157 bytes  docs/styles/icon.font.js</tspan>
+<tspan x="10" y="2186">129.  2017-04-25 11:01:58 +0000      311 bytes  docs/styles/icon.template.hbs</tspan>
+<tspan x="10" y="2202">130.  2017-04-25 11:01:58 +0000      750 bytes  docs/styles/icons/chevron-down.svg</tspan>
+<tspan x="10" y="2218">131.  2017-04-25 11:01:58 +0000      750 bytes  docs/styles/icons/chevron-left.svg</tspan>
+<tspan x="10" y="2234">132.  2017-04-25 11:01:58 +0000      750 bytes  docs/styles/icons/chevron-right.svg</tspan>
+<tspan x="10" y="2250">133.  2017-04-25 11:01:58 +0000      752 bytes  docs/styles/icons/chevron-up.svg</tspan>
+<tspan x="10" y="2266">134.  2017-04-25 11:01:58 +0000      835 bytes  docs/styles/icons/cross.svg</tspan>
+<tspan x="10" y="2282">135.  2017-04-25 11:01:58 +0000      829 bytes  docs/styles/icons/edit.svg</tspan>
+<tspan x="10" y="2298">136.  2017-04-25 11:01:58 +0000      840 bytes  docs/styles/icons/github.svg</tspan>
+<tspan x="10" y="2314">137.  2017-04-25 11:01:58 +0000     1372 bytes  docs/styles/icons/gitter.svg</tspan>
+<tspan x="10" y="2330">138.  2017-04-25 11:01:58 +0000      868 bytes  docs/styles/icons/link.svg</tspan>
+<tspan x="10" y="2346">139.  2017-04-25 11:01:58 +0000      904 bytes  docs/styles/icons/magnifying-glass.svg</tspan>
+<tspan x="10" y="2362">140.  2017-04-25 11:01:58 +0000      412 bytes  docs/styles/icons/medium.svg</tspan>
+<tspan x="10" y="2378">141.  2017-04-25 11:01:58 +0000      787 bytes  docs/styles/icons/menu.svg</tspan>
+<tspan x="10" y="2394">142.  2017-04-25 11:01:58 +0000      399 bytes  docs/styles/icons/stack-overflow.svg</tspan>
+<tspan x="10" y="2410">143.  2017-04-25 11:01:58 +0000     1432 bytes  docs/styles/index.scss</tspan>
+<tspan x="10" y="2426">144.  2017-04-25 11:01:58 +0000     4177 bytes  docs/styles/markdown.scss</tspan>
+<tspan x="10" y="2442">145.  2017-04-25 11:01:58 +0000      233 bytes  docs/styles/partials/_functions.scss</tspan>
+<tspan x="10" y="2458">146.  2017-04-25 11:01:58 +0000      100 bytes  docs/styles/partials/_mixins.scss</tspan>
+<tspan x="10" y="2474">147.  2017-04-25 11:01:58 +0000      597 bytes  docs/styles/partials/_vars.scss</tspan>
+<tspan x="10" y="2490">148.  2017-04-25 11:01:58 +0000     1582 bytes  docs/styles/prism-theme.scss</tspan>
+<tspan x="10" y="2506">149.  2017-04-25 11:01:58 +0000      864 bytes  docs/styles/reset.css</tspan>
+<tspan x="10" y="2522">150.  2017-04-25 11:01:58 +0000     1221 bytes  docs/template.ejs</tspan>
+<tspan x="10" y="2538">151.  2017-04-25 11:01:58 +0000      788 bytes  docs/utilities/highlight.js</tspan>
+<tspan x="10" y="2554">152.  2017-04-25 11:01:58 +0000     6615 bytes  docs/utilities/markdown.js</tspan>
+<tspan x="10" y="2570">153.  2017-04-25 11:01:58 +0000     3239 bytes  docs/webpack.config.js</tspan>
+<tspan x="10" y="2586">154.  2017-04-25 11:01:58 +0000      491 bytes  generators/app/USAGE</tspan>
+<tspan x="10" y="2602">155.  2017-04-25 11:01:58 +0000    27039 bytes  generators/app/index.js</tspan>
+<tspan x="10" y="2618">156.  2017-04-25 11:01:58 +0000     2143 bytes  generators/component/index.js</tspan>
+<tspan x="10" y="2634">157.  2017-04-25 11:01:58 +0000      319 bytes  generators/controller/index.js</tspan>
+<tspan x="10" y="2650">158.  2017-04-25 11:01:58 +0000      317 bytes  generators/decorator/index.js</tspan>
+<tspan x="10" y="2666">159.  2017-04-25 11:01:58 +0000      317 bytes  generators/directive/index.js</tspan>
+<tspan x="10" y="2682">160.  2017-04-25 11:01:58 +0000     6867 bytes  generators/endpoint/index.js</tspan>
+<tspan x="10" y="2698">161.  2017-04-25 11:01:58 +0000      313 bytes  generators/factory/index.js</tspan>
+<tspan x="10" y="2714">162.  2017-04-25 11:01:58 +0000      311 bytes  generators/filter/index.js</tspan>
+<tspan x="10" y="2730">163.  2017-04-25 11:01:58 +0000     3201 bytes  generators/generator-base.js</tspan>
+<tspan x="10" y="2746">164.  2017-04-25 11:01:58 +0000      220 bytes  generators/heroku/USAGE</tspan>
+<tspan x="10" y="2762">165.  2017-04-25 11:01:58 +0000     9466 bytes  generators/heroku/index.js</tspan>
+<tspan x="10" y="2778">166.  2017-04-25 11:01:58 +0000      482 bytes  generators/insight-init.js</tspan>
+<tspan x="10" y="2794">167.  2017-04-25 11:01:58 +0000      225 bytes  generators/openshift/USAGE</tspan>
+<tspan x="10" y="2810">168.  2017-04-25 11:01:58 +0000    10823 bytes  generators/openshift/index.js</tspan>
+<tspan x="10" y="2826">169.  2017-04-25 11:01:58 +0000        0 bytes  generators/openshift/templates/hot_deploy</tspan>
+<tspan x="10" y="2842">170.  2017-04-25 11:01:58 +0000      315 bytes  generators/provider/index.js</tspan>
+<tspan x="10" y="2858">171.  2017-04-25 11:01:58 +0000      309 bytes  generators/route/index.js</tspan>
+<tspan x="10" y="2874">172.  2017-04-25 11:01:58 +0000      313 bytes  generators/service/index.js</tspan>
+<tspan x="10" y="2890">173.  2017-04-25 11:01:58 +0000     5715 bytes  generators/util.js</tspan>
+<tspan x="10" y="2906">174.  2017-04-25 11:01:58 +0000     8956 bytes  gulpfile.js</tspan>
+<tspan x="10" y="2922">175.  2017-04-25 11:01:58 +0000      245 bytes  media/readme.md</tspan>
+<tspan x="10" y="2938">176.  2017-04-25 11:01:58 +0000   594427 bytes  media/source/angular-fullstack-boxes.ai</tspan>
+<tspan x="10" y="2954">177.  2017-04-25 11:01:58 +0000   625001 bytes  media/source/angular-fullstack-logo.ai</tspan>
+<tspan x="10" y="2970">178.  2017-04-25 11:01:58 +0000   589017 bytes  media/svg/angular-fullstack-boxes.svg</tspan>
+<tspan x="10" y="2986">179.  2017-04-25 11:01:58 +0000   603239 bytes  media/svg/angular-fullstack-logo.svg</tspan>
+<tspan x="10" y="3002">180.  2017-04-25 11:01:58 +0000      137 bytes  mocha.conf.js</tspan>
+<tspan x="10" y="3018">181.  2017-04-25 11:01:58 +0000     5185 bytes  package.json</tspan>
+<tspan x="10" y="3034">182.  2017-04-25 11:01:58 +0000    13185 bytes  readme.md</tspan>
+<tspan x="10" y="3050">183.  2017-04-25 11:01:58 +0000     1884 bytes  scripts/sauce_connect_setup.sh</tspan>
+<tspan x="10" y="3066">184.  2017-04-25 11:01:58 +0000      491 bytes  src/generators/app/USAGE</tspan>
+<tspan x="10" y="3082">185.  2017-04-25 11:01:58 +0000    20916 bytes  src/generators/app/index.js</tspan>
+<tspan x="10" y="3098">186.  2017-04-25 11:01:58 +0000      308 bytes  src/generators/component/index.js</tspan>
+<tspan x="10" y="3114">187.  2017-04-25 11:01:58 +0000      309 bytes  src/generators/controller/index.js</tspan>
+<tspan x="10" y="3130">188.  2017-04-25 11:01:58 +0000      307 bytes  src/generators/decorator/index.js</tspan>
+<tspan x="10" y="3146">189.  2017-04-25 11:01:58 +0000      307 bytes  src/generators/directive/index.js</tspan>
+<tspan x="10" y="3162">190.  2017-04-25 11:01:58 +0000     4148 bytes  src/generators/endpoint/index.js</tspan>
+<tspan x="10" y="3178">191.  2017-04-25 11:01:58 +0000      303 bytes  src/generators/factory/index.js</tspan>
+<tspan x="10" y="3194">192.  2017-04-25 11:01:58 +0000      301 bytes  src/generators/filter/index.js</tspan>
+<tspan x="10" y="3210">193.  2017-04-25 11:01:58 +0000     2151 bytes  src/generators/generator-base.js</tspan>
+<tspan x="10" y="3226">194.  2017-04-25 11:01:58 +0000      220 bytes  src/generators/heroku/USAGE</tspan>
+<tspan x="10" y="3242">195.  2017-04-25 11:01:58 +0000     5485 bytes  src/generators/heroku/index.js</tspan>
+<tspan x="10" y="3258">196.  2017-04-25 11:01:58 +0000      481 bytes  src/generators/insight-init.js</tspan>
+<tspan x="10" y="3274">197.  2017-04-25 11:01:58 +0000      225 bytes  src/generators/openshift/USAGE</tspan>
+<tspan x="10" y="3290">198.  2017-04-25 11:01:58 +0000    10754 bytes  src/generators/openshift/index.js</tspan>
+<tspan x="10" y="3306">199.  2017-04-25 11:01:58 +0000        0 bytes  src/generators/openshift/templates/hot_deploy</tspan>
+<tspan x="10" y="3322">200.  2017-04-25 11:01:58 +0000      305 bytes  src/generators/provider/index.js</tspan>
+<tspan x="10" y="3338">201.  2017-04-25 11:01:58 +0000      299 bytes  src/generators/route/index.js</tspan>
+<tspan x="10" y="3354">202.  2017-04-25 11:01:58 +0000      303 bytes  src/generators/service/index.js</tspan>
+<tspan x="10" y="3370">203.  2017-04-25 11:01:58 +0000     4922 bytes  src/generators/util.js</tspan>
+<tspan x="10" y="3386">204.  2017-04-25 11:01:58 +0000     5926 bytes  src/test/endpoint.test.js</tspan>
+<tspan x="10" y="3402">205.  2017-04-25 11:01:58 +0000     7504 bytes  src/test/get-expected-files.js</tspan>
+<tspan x="10" y="3418">206.  2017-04-25 11:01:58 +0000    11682 bytes  src/test/main.test.js</tspan>
+<tspan x="10" y="3434">207.  2017-04-25 11:01:58 +0000      773 bytes  src/test/pre.test.js</tspan>
+<tspan x="10" y="3450">208.  2017-04-25 11:01:58 +0000     3438 bytes  src/test/test-helpers.js</tspan>
+<tspan x="10" y="3466">209.  2017-04-25 11:01:58 +0000      916 bytes  task-utils/changelog-templates/commit.hbs</tspan>
+<tspan x="10" y="3482">210.  2017-04-25 11:01:58 +0000     2766 bytes  task-utils/grunt.js</tspan>
+<tspan x="10" y="3498">211.  2017-04-25 11:01:58 +0000     1106 bytes  templates/app/README.md</tspan>
+<tspan x="10" y="3514">212.  2017-04-25 11:01:58 +0000      171 bytes  templates/app/_.babelrc</tspan>
+<tspan x="10" y="3530">213.  2017-04-25 11:01:58 +0000      173 bytes  templates/app/_.gitignore</tspan>
+<tspan x="10" y="3546">214.  2017-04-25 11:01:58 +0000     6610 bytes  templates/app/_package.json</tspan>
 <tspan x="10" y="3562">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="3578">215.  2017-04-15 22:01:08 +0000     1291 bytes  templates/app/client/__index.html</tspan>
+<tspan x="10" y="3578">215.  2017-04-25 11:01:58 +0000     1291 bytes  templates/app/client/__index.html</tspan>
 <tspan x="10" y="3594">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="3610">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="3626">216.  2017-04-15 22:01:08 +0000     1291 bytes  templates/app/client/app/account(auth)/account.r\</tspan>
+<tspan x="10" y="3626">216.  2017-04-25 11:01:58 +0000     1291 bytes  templates/app/client/app/account(auth)/account.r\</tspan>
 <tspan x="10" y="3642">outes.js</tspan>
 <tspan x="10" y="3658">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="3674">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="3690">217.  2017-04-15 22:01:08 +0000     1291 bytes  templates/app/client/app/account(auth)/index.js</tspan>
+<tspan x="10" y="3690">217.  2017-04-25 11:01:58 +0000     1291 bytes  templates/app/client/app/account(auth)/index.js</tspan>
 <tspan x="10" y="3706">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="3722">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="3738">218.  2017-04-15 22:01:08 +0000     1291 bytes  templates/app/client/app/account(auth)/login/ind\</tspan>
+<tspan x="10" y="3738">218.  2017-04-25 11:01:58 +0000     1291 bytes  templates/app/client/app/account(auth)/login/ind\</tspan>
 <tspan x="10" y="3754">ex.js</tspan>
 <tspan x="10" y="3770">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="3786">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="3802">219.  2017-04-15 22:01:08 +0000     1291 bytes  templates/app/client/app/account(auth)/login/log\</tspan>
+<tspan x="10" y="3802">219.  2017-04-25 11:01:58 +0000     1291 bytes  templates/app/client/app/account(auth)/login/log\</tspan>
 <tspan x="10" y="3818">in(html).html</tspan>
 <tspan x="10" y="3834">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="3850">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="3866">220.  2017-04-15 22:01:08 +0000     1291 bytes  templates/app/client/app/account(auth)/login/log\</tspan>
+<tspan x="10" y="3866">220.  2017-04-25 11:01:58 +0000     1291 bytes  templates/app/client/app/account(auth)/login/log\</tspan>
 <tspan x="10" y="3882">in(pug).pug</tspan>
 <tspan x="10" y="3898">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="3914">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="3930">221.  2017-04-15 22:01:08 +0000     1291 bytes  templates/app/client/app/account(auth)/login/log\</tspan>
+<tspan x="10" y="3930">221.  2017-04-25 11:01:58 +0000     1291 bytes  templates/app/client/app/account(auth)/login/log\</tspan>
 <tspan x="10" y="3946">in.controller.js</tspan>
 <tspan x="10" y="3962">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="3978">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="3994">222.  2017-04-15 22:01:08 +0000     1291 bytes  templates/app/client/app/account(auth)/settings/\</tspan>
+<tspan x="10" y="3994">222.  2017-04-25 11:01:58 +0000     1291 bytes  templates/app/client/app/account(auth)/settings/\</tspan>
 <tspan x="10" y="4010">index.js</tspan>
 <tspan x="10" y="4026">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="4042">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="4058">223.  2017-04-15 22:01:08 +0000     1291 bytes  templates/app/client/app/account(auth)/settings/\</tspan>
+<tspan x="10" y="4058">223.  2017-04-25 11:01:58 +0000     1291 bytes  templates/app/client/app/account(auth)/settings/\</tspan>
 <tspan x="10" y="4074">settings(html).html</tspan>
 <tspan x="10" y="4090">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="4106">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="4122">224.  2017-04-15 22:01:08 +0000     1291 bytes  templates/app/client/app/account(auth)/settings/\</tspan>
+<tspan x="10" y="4122">224.  2017-04-25 11:01:58 +0000     1291 bytes  templates/app/client/app/account(auth)/settings/\</tspan>
 <tspan x="10" y="4138">settings(pug).pug</tspan>
 <tspan x="10" y="4154">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="4170">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="4186">225.  2017-04-15 22:01:08 +0000     1291 bytes  templates/app/client/app/account(auth)/settings/\</tspan>
+<tspan x="10" y="4186">225.  2017-04-25 11:01:58 +0000     1291 bytes  templates/app/client/app/account(auth)/settings/\</tspan>
 <tspan x="10" y="4202">settings.controller.js</tspan>
 <tspan x="10" y="4218">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="4234">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="4250">226.  2017-04-15 22:01:08 +0000     1291 bytes  templates/app/client/app/account(auth)/signup/in\</tspan>
+<tspan x="10" y="4250">226.  2017-04-25 11:01:58 +0000     1291 bytes  templates/app/client/app/account(auth)/signup/in\</tspan>
 <tspan x="10" y="4266">dex.js</tspan>
 <tspan x="10" y="4282">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="4298">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="4314">227.  2017-04-15 22:01:08 +0000     1291 bytes  templates/app/client/app/account(auth)/signup/si\</tspan>
+<tspan x="10" y="4314">227.  2017-04-25 11:01:58 +0000     1291 bytes  templates/app/client/app/account(auth)/signup/si\</tspan>
 <tspan x="10" y="4330">gnup(html).html</tspan>
 <tspan x="10" y="4346">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="4362">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="4378">228.  2017-04-15 22:01:08 +0000     1291 bytes  templates/app/client/app/account(auth)/signup/si\</tspan>
+<tspan x="10" y="4378">228.  2017-04-25 11:01:58 +0000     1291 bytes  templates/app/client/app/account(auth)/signup/si\</tspan>
 <tspan x="10" y="4394">gnup(pug).pug</tspan>
 <tspan x="10" y="4410">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="4426">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="4442">229.  2017-04-15 22:01:08 +0000     1291 bytes  templates/app/client/app/account(auth)/signup/si\</tspan>
+<tspan x="10" y="4442">229.  2017-04-25 11:01:58 +0000     1291 bytes  templates/app/client/app/account(auth)/signup/si\</tspan>
 <tspan x="10" y="4458">gnup.controller.js</tspan>
 <tspan x="10" y="4474">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="4490">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="4506">230.  2017-04-15 22:01:08 +0000     1291 bytes  templates/app/client/app/admin(auth)/admin(css).\</tspan>
+<tspan x="10" y="4506">230.  2017-04-25 11:01:58 +0000     1291 bytes  templates/app/client/app/admin(auth)/admin(css).\</tspan>
 <tspan x="10" y="4522">css</tspan>
 <tspan x="10" y="4538">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="4554">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="4570">231.  2017-04-15 22:01:08 +0000     1291 bytes  templates/app/client/app/admin(auth)/admin(html)\</tspan>
+<tspan x="10" y="4570">231.  2017-04-25 11:01:58 +0000     1291 bytes  templates/app/client/app/admin(auth)/admin(html)\</tspan>
 <tspan x="10" y="4586">.html</tspan>
 <tspan x="10" y="4602">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="4618">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="4634">232.  2017-04-15 22:01:08 +0000     1291 bytes  templates/app/client/app/admin(auth)/admin(less)\</tspan>
+<tspan x="10" y="4634">232.  2017-04-25 11:01:58 +0000     1291 bytes  templates/app/client/app/admin(auth)/admin(less)\</tspan>
 <tspan x="10" y="4650">.less</tspan>
 <tspan x="10" y="4666">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="4682">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="4698">233.  2017-04-15 22:01:08 +0000     1291 bytes  templates/app/client/app/admin(auth)/admin(pug).\</tspan>
+<tspan x="10" y="4698">233.  2017-04-25 11:01:58 +0000     1291 bytes  templates/app/client/app/admin(auth)/admin(pug).\</tspan>
 <tspan x="10" y="4714">pug</tspan>
 <tspan x="10" y="4730">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="4746">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="4762">234.  2017-04-15 22:01:08 +0000     1291 bytes  templates/app/client/app/admin(auth)/admin(sass)\</tspan>
+<tspan x="10" y="4762">234.  2017-04-25 11:01:58 +0000     1291 bytes  templates/app/client/app/admin(auth)/admin(sass)\</tspan>
 <tspan x="10" y="4778">.scss</tspan>
 <tspan x="10" y="4794">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="4810">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="4826">235.  2017-04-15 22:01:08 +0000     1291 bytes  templates/app/client/app/admin(auth)/admin(stylu\</tspan>
+<tspan x="10" y="4826">235.  2017-04-25 11:01:58 +0000     1291 bytes  templates/app/client/app/admin(auth)/admin(stylu\</tspan>
 <tspan x="10" y="4842">s).styl</tspan>
 <tspan x="10" y="4858">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="4874">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="4890">236.  2017-04-15 22:01:08 +0000     1291 bytes  templates/app/client/app/admin(auth)/admin.contr\</tspan>
+<tspan x="10" y="4890">236.  2017-04-25 11:01:58 +0000     1291 bytes  templates/app/client/app/admin(auth)/admin.contr\</tspan>
 <tspan x="10" y="4906">oller.js</tspan>
 <tspan x="10" y="4922">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="4938">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="4954">237.  2017-04-15 22:01:08 +0000     1291 bytes  templates/app/client/app/admin(auth)/admin.route\</tspan>
+<tspan x="10" y="4954">237.  2017-04-25 11:01:58 +0000     1291 bytes  templates/app/client/app/admin(auth)/admin.route\</tspan>
 <tspan x="10" y="4970">s.js</tspan>
 <tspan x="10" y="4986">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="5002">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="5018">238.  2017-04-15 22:01:08 +0000     1291 bytes  templates/app/client/app/admin(auth)/index.js</tspan>
+<tspan x="10" y="5018">238.  2017-04-25 11:01:58 +0000     1291 bytes  templates/app/client/app/admin(auth)/index.js</tspan>
 <tspan x="10" y="5034">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="5050">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="5066">239.  2017-04-15 22:01:08 +0000     1291 bytes  templates/app/client/app/app(css).css</tspan>
+<tspan x="10" y="5066">239.  2017-04-25 11:01:58 +0000     1291 bytes  templates/app/client/app/app(css).css</tspan>
 <tspan x="10" y="5082">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="5098">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="5114">240.  2017-04-15 22:01:08 +0000     1291 bytes  templates/app/client/app/app(less).less</tspan>
+<tspan x="10" y="5114">240.  2017-04-25 11:01:58 +0000     1291 bytes  templates/app/client/app/app(less).less</tspan>
 <tspan x="10" y="5130">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="5146">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="5162">241.  2017-04-15 22:01:08 +0000     1291 bytes  templates/app/client/app/app(sass).scss</tspan>
+<tspan x="10" y="5162">241.  2017-04-25 11:01:58 +0000     1291 bytes  templates/app/client/app/app(sass).scss</tspan>
 <tspan x="10" y="5178">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="5194">242.  2017-04-15 22:01:08 +0000     1291 bytes  templates/app/client/app/app(stylus).styl</tspan>
-<tspan x="10" y="5210">243.  2017-04-15 22:01:08 +0000      403 bytes  templates/app/client/app/app.config.js</tspan>
-<tspan x="10" y="5226">244.  2017-04-15 22:01:08 +0000      199 bytes  templates/app/client/app/app.constants.js</tspan>
+<tspan x="10" y="5194">242.  2017-04-25 11:01:58 +0000     1291 bytes  templates/app/client/app/app(stylus).styl</tspan>
+<tspan x="10" y="5210">243.  2017-04-25 11:01:58 +0000      403 bytes  templates/app/client/app/app.config.js</tspan>
+<tspan x="10" y="5226">244.  2017-04-25 11:01:58 +0000      199 bytes  templates/app/client/app/app.constants.js</tspan>
 <tspan x="10" y="5242">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="5258">245.  2017-04-15 22:01:08 +0000     2276 bytes  templates/app/client/app/app.js</tspan>
+<tspan x="10" y="5258">245.  2017-04-25 11:01:58 +0000     2231 bytes  templates/app/client/app/app.js</tspan>
 <tspan x="10" y="5274">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="5290">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="5306">246.  2017-04-15 22:01:08 +0000     2276 bytes  templates/app/client/app/main/main(css).css</tspan>
+<tspan x="10" y="5306">246.  2017-04-25 11:01:58 +0000     2231 bytes  templates/app/client/app/main/main(css).css</tspan>
 <tspan x="10" y="5322">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="5338">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="5354">247.  2017-04-15 22:01:08 +0000     2276 bytes  templates/app/client/app/main/main(html).html</tspan>
+<tspan x="10" y="5354">247.  2017-04-25 11:01:58 +0000     2231 bytes  templates/app/client/app/main/main(html).html</tspan>
 <tspan x="10" y="5370">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="5386">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="5402">248.  2017-04-15 22:01:08 +0000     2276 bytes  templates/app/client/app/main/main(less).less</tspan>
+<tspan x="10" y="5402">248.  2017-04-25 11:01:58 +0000     2231 bytes  templates/app/client/app/main/main(less).less</tspan>
 <tspan x="10" y="5418">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="5434">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="5450">249.  2017-04-15 22:01:08 +0000     2276 bytes  templates/app/client/app/main/main(pug).pug</tspan>
+<tspan x="10" y="5450">249.  2017-04-25 11:01:58 +0000     2231 bytes  templates/app/client/app/main/main(pug).pug</tspan>
 <tspan x="10" y="5466">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="5482">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="5498">250.  2017-04-15 22:01:08 +0000     2276 bytes  templates/app/client/app/main/main(sass).scss</tspan>
+<tspan x="10" y="5498">250.  2017-04-25 11:01:58 +0000     2231 bytes  templates/app/client/app/main/main(sass).scss</tspan>
 <tspan x="10" y="5514">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="5530">251.  2017-04-15 22:01:08 +0000     2276 bytes  templates/app/client/app/main/main(stylus).styl</tspan>
-<tspan x="10" y="5546">252.  2017-04-15 22:01:08 +0000     1461 bytes  templates/app/client/app/main/main.component.js</tspan>
-<tspan x="10" y="5562">253.  2017-04-15 22:01:08 +0000     1474 bytes  templates/app/client/app/main/main.component.spe\</tspan>
+<tspan x="10" y="5530">251.  2017-04-25 11:01:58 +0000     2231 bytes  templates/app/client/app/main/main(stylus).styl</tspan>
+<tspan x="10" y="5546">252.  2017-04-25 11:01:58 +0000     1461 bytes  templates/app/client/app/main/main.component.js</tspan>
+<tspan x="10" y="5562">253.  2017-04-25 11:01:58 +0000     1474 bytes  templates/app/client/app/main/main.component.spe\</tspan>
 <tspan x="10" y="5578">c.js</tspan>
-<tspan x="10" y="5594">254.  2017-04-15 22:01:08 +0000      390 bytes  templates/app/client/app/main/main.routes.js</tspan>
+<tspan x="10" y="5594">254.  2017-04-25 11:01:58 +0000      390 bytes  templates/app/client/app/main/main.routes.js</tspan>
 <tspan x="10" y="5610">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="5626">255.  2017-04-15 22:01:08 +0000    12331 bytes  templates/app/client/assets/images/!yeoman.png</tspan>
+<tspan x="10" y="5626">255.  2017-04-25 11:01:58 +0000    12331 bytes  templates/app/client/assets/images/!yeoman.png</tspan>
 <tspan x="10" y="5642">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="5658">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="5674">256.  2017-04-15 22:01:08 +0000    12331 bytes  templates/app/client/components/auth(auth)/auth.\</tspan>
+<tspan x="10" y="5674">256.  2017-04-25 11:01:58 +0000    12331 bytes  templates/app/client/components/auth(auth)/auth.\</tspan>
 <tspan x="10" y="5690">module.js</tspan>
 <tspan x="10" y="5706">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="5722">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="5738">257.  2017-04-15 22:01:08 +0000    12331 bytes  templates/app/client/components/auth(auth)/auth.\</tspan>
+<tspan x="10" y="5738">257.  2017-04-25 11:01:58 +0000    12331 bytes  templates/app/client/components/auth(auth)/auth.\</tspan>
 <tspan x="10" y="5754">service.js</tspan>
 <tspan x="10" y="5770">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="5786">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="5802">258.  2017-04-15 22:01:08 +0000    12331 bytes  templates/app/client/components/auth(auth)/inter\</tspan>
+<tspan x="10" y="5802">258.  2017-04-25 11:01:58 +0000    12331 bytes  templates/app/client/components/auth(auth)/inter\</tspan>
 <tspan x="10" y="5818">ceptor.service.js</tspan>
 <tspan x="10" y="5834">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="5850">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="5866">259.  2017-04-15 22:01:08 +0000    12331 bytes  templates/app/client/components/auth(auth)/route\</tspan>
+<tspan x="10" y="5866">259.  2017-04-25 11:01:58 +0000    12331 bytes  templates/app/client/components/auth(auth)/route\</tspan>
 <tspan x="10" y="5882">r.decorator.js</tspan>
 <tspan x="10" y="5898">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="5914">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="5930">260.  2017-04-15 22:01:08 +0000    12331 bytes  templates/app/client/components/auth(auth)/user.\</tspan>
+<tspan x="10" y="5930">260.  2017-04-25 11:01:58 +0000    12331 bytes  templates/app/client/components/auth(auth)/user.\</tspan>
 <tspan x="10" y="5946">service.js</tspan>
 <tspan x="10" y="5962">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="5978">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="5994">261.  2017-04-15 22:01:08 +0000    12331 bytes  templates/app/client/components/footer/footer(cs\</tspan>
+<tspan x="10" y="5994">261.  2017-04-25 11:01:58 +0000    12331 bytes  templates/app/client/components/footer/footer(cs\</tspan>
 <tspan x="10" y="6010">s).css</tspan>
 <tspan x="10" y="6026">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="6042">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="6058">262.  2017-04-15 22:01:08 +0000    12331 bytes  templates/app/client/components/footer/footer(ht\</tspan>
+<tspan x="10" y="6058">262.  2017-04-25 11:01:58 +0000    12331 bytes  templates/app/client/components/footer/footer(ht\</tspan>
 <tspan x="10" y="6074">ml).html</tspan>
 <tspan x="10" y="6090">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="6106">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="6122">263.  2017-04-15 22:01:08 +0000    12331 bytes  templates/app/client/components/footer/footer(le\</tspan>
+<tspan x="10" y="6122">263.  2017-04-25 11:01:58 +0000    12331 bytes  templates/app/client/components/footer/footer(le\</tspan>
 <tspan x="10" y="6138">ss).less</tspan>
 <tspan x="10" y="6154">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="6170">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="6186">264.  2017-04-15 22:01:08 +0000    12331 bytes  templates/app/client/components/footer/footer(pu\</tspan>
+<tspan x="10" y="6186">264.  2017-04-25 11:01:58 +0000    12331 bytes  templates/app/client/components/footer/footer(pu\</tspan>
 <tspan x="10" y="6202">g).pug</tspan>
 <tspan x="10" y="6218">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="6234">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="6250">265.  2017-04-15 22:01:08 +0000    12331 bytes  templates/app/client/components/footer/footer(sa\</tspan>
+<tspan x="10" y="6250">265.  2017-04-25 11:01:58 +0000    12331 bytes  templates/app/client/components/footer/footer(sa\</tspan>
 <tspan x="10" y="6266">ss).scss</tspan>
 <tspan x="10" y="6282">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="6298">266.  2017-04-15 22:01:08 +0000    12331 bytes  templates/app/client/components/footer/footer(st\</tspan>
+<tspan x="10" y="6298">266.  2017-04-25 11:01:58 +0000    12331 bytes  templates/app/client/components/footer/footer(st\</tspan>
 <tspan x="10" y="6314">ylus).styl</tspan>
 <tspan x="10" y="6330">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="6346">267.  2017-04-15 22:01:08 +0000      245 bytes  templates/app/client/components/footer/footer.co\</tspan>
+<tspan x="10" y="6346">267.  2017-04-25 11:01:58 +0000      245 bytes  templates/app/client/components/footer/footer.co\</tspan>
 <tspan x="10" y="6362">mponent.js</tspan>
 <tspan x="10" y="6378">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="6394">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="6410">268.  2017-04-15 22:01:08 +0000      245 bytes  templates/app/client/components/modal(uibootstra\</tspan>
+<tspan x="10" y="6410">268.  2017-04-25 11:01:58 +0000      245 bytes  templates/app/client/components/modal(uibootstra\</tspan>
 <tspan x="10" y="6426">p)/modal(css).css</tspan>
 <tspan x="10" y="6442">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="6458">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="6474">269.  2017-04-15 22:01:08 +0000      245 bytes  templates/app/client/components/modal(uibootstra\</tspan>
+<tspan x="10" y="6474">269.  2017-04-25 11:01:58 +0000      245 bytes  templates/app/client/components/modal(uibootstra\</tspan>
 <tspan x="10" y="6490">p)/modal(html).html</tspan>
 <tspan x="10" y="6506">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="6522">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="6538">270.  2017-04-15 22:01:08 +0000      245 bytes  templates/app/client/components/modal(uibootstra\</tspan>
+<tspan x="10" y="6538">270.  2017-04-25 11:01:58 +0000      245 bytes  templates/app/client/components/modal(uibootstra\</tspan>
 <tspan x="10" y="6554">p)/modal(less).less</tspan>
 <tspan x="10" y="6570">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="6586">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="6602">271.  2017-04-15 22:01:08 +0000      245 bytes  templates/app/client/components/modal(uibootstra\</tspan>
+<tspan x="10" y="6602">271.  2017-04-25 11:01:58 +0000      245 bytes  templates/app/client/components/modal(uibootstra\</tspan>
 <tspan x="10" y="6618">p)/modal(pug).pug</tspan>
 <tspan x="10" y="6634">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="6650">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="6666">272.  2017-04-15 22:01:08 +0000      245 bytes  templates/app/client/components/modal(uibootstra\</tspan>
+<tspan x="10" y="6666">272.  2017-04-25 11:01:58 +0000      245 bytes  templates/app/client/components/modal(uibootstra\</tspan>
 <tspan x="10" y="6682">p)/modal(sass).scss</tspan>
 <tspan x="10" y="6698">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="6714">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="6730">273.  2017-04-15 22:01:08 +0000      245 bytes  templates/app/client/components/modal(uibootstra\</tspan>
+<tspan x="10" y="6730">273.  2017-04-25 11:01:58 +0000      245 bytes  templates/app/client/components/modal(uibootstra\</tspan>
 <tspan x="10" y="6746">p)/modal(stylus).styl</tspan>
 <tspan x="10" y="6762">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="6778">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="6794">274.  2017-04-15 22:01:08 +0000      245 bytes  templates/app/client/components/modal(uibootstra\</tspan>
+<tspan x="10" y="6794">274.  2017-04-25 11:01:58 +0000      245 bytes  templates/app/client/components/modal(uibootstra\</tspan>
 <tspan x="10" y="6810">p)/modal.service.js</tspan>
 <tspan x="10" y="6826">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="6842">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="6858">275.  2017-04-15 22:01:08 +0000      245 bytes  templates/app/client/components/mongoose-error(a\</tspan>
+<tspan x="10" y="6858">275.  2017-04-25 11:01:58 +0000      245 bytes  templates/app/client/components/mongoose-error(a\</tspan>
 <tspan x="10" y="6874">uth)/mongoose-error.directive.js</tspan>
 <tspan x="10" y="6890">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="6906">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="6922">276.  2017-04-15 22:01:08 +0000      245 bytes  templates/app/client/components/navbar/navbar(ht\</tspan>
+<tspan x="10" y="6922">276.  2017-04-25 11:01:58 +0000      245 bytes  templates/app/client/components/navbar/navbar(ht\</tspan>
 <tspan x="10" y="6938">ml).html</tspan>
 <tspan x="10" y="6954">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="6970">277.  2017-04-15 22:01:08 +0000      245 bytes  templates/app/client/components/navbar/navbar(pu\</tspan>
+<tspan x="10" y="6970">277.  2017-04-25 11:01:58 +0000      245 bytes  templates/app/client/components/navbar/navbar(pu\</tspan>
 <tspan x="10" y="6986">g).pug</tspan>
 <tspan x="10" y="7002">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="7018">278.  2017-04-15 22:01:08 +0000     1188 bytes  templates/app/client/components/navbar/navbar.co\</tspan>
+<tspan x="10" y="7018">278.  2017-04-25 11:01:58 +0000     1188 bytes  templates/app/client/components/navbar/navbar.co\</tspan>
 <tspan x="10" y="7034">mponent.js</tspan>
 <tspan x="10" y="7050">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="7066">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="7082">279.  2017-04-15 22:01:08 +0000     1188 bytes  templates/app/client/components/oauth-buttons(oa\</tspan>
+<tspan x="10" y="7082">279.  2017-04-25 11:01:58 +0000     1188 bytes  templates/app/client/components/oauth-buttons(oa\</tspan>
 <tspan x="10" y="7098">uth)/index.js</tspan>
 <tspan x="10" y="7114">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="7130">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="7146">280.  2017-04-15 22:01:08 +0000     1188 bytes  templates/app/client/components/oauth-buttons(oa\</tspan>
+<tspan x="10" y="7146">280.  2017-04-25 11:01:58 +0000     1188 bytes  templates/app/client/components/oauth-buttons(oa\</tspan>
 <tspan x="10" y="7162">uth)/oauth-buttons(css).css</tspan>
 <tspan x="10" y="7178">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="7194">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="7210">281.  2017-04-15 22:01:08 +0000     1188 bytes  templates/app/client/components/oauth-buttons(oa\</tspan>
+<tspan x="10" y="7210">281.  2017-04-25 11:01:58 +0000     1188 bytes  templates/app/client/components/oauth-buttons(oa\</tspan>
 <tspan x="10" y="7226">uth)/oauth-buttons(html).html</tspan>
 <tspan x="10" y="7242">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="7258">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="7274">282.  2017-04-15 22:01:08 +0000     1188 bytes  templates/app/client/components/oauth-buttons(oa\</tspan>
+<tspan x="10" y="7274">282.  2017-04-25 11:01:58 +0000     1188 bytes  templates/app/client/components/oauth-buttons(oa\</tspan>
 <tspan x="10" y="7290">uth)/oauth-buttons(less).less</tspan>
 <tspan x="10" y="7306">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="7322">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="7338">283.  2017-04-15 22:01:08 +0000     1188 bytes  templates/app/client/components/oauth-buttons(oa\</tspan>
+<tspan x="10" y="7338">283.  2017-04-25 11:01:58 +0000     1188 bytes  templates/app/client/components/oauth-buttons(oa\</tspan>
 <tspan x="10" y="7354">uth)/oauth-buttons(pug).pug</tspan>
 <tspan x="10" y="7370">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="7386">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="7402">284.  2017-04-15 22:01:08 +0000     1188 bytes  templates/app/client/components/oauth-buttons(oa\</tspan>
+<tspan x="10" y="7402">284.  2017-04-25 11:01:58 +0000     1188 bytes  templates/app/client/components/oauth-buttons(oa\</tspan>
 <tspan x="10" y="7418">uth)/oauth-buttons(sass).scss</tspan>
 <tspan x="10" y="7434">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="7450">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="7466">285.  2017-04-15 22:01:08 +0000     1188 bytes  templates/app/client/components/oauth-buttons(oa\</tspan>
+<tspan x="10" y="7466">285.  2017-04-25 11:01:58 +0000     1188 bytes  templates/app/client/components/oauth-buttons(oa\</tspan>
 <tspan x="10" y="7482">uth)/oauth-buttons(stylus).styl</tspan>
 <tspan x="10" y="7498">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="7514">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="7530">286.  2017-04-15 22:01:08 +0000     1188 bytes  templates/app/client/components/oauth-buttons(oa\</tspan>
+<tspan x="10" y="7530">286.  2017-04-25 11:01:58 +0000     1188 bytes  templates/app/client/components/oauth-buttons(oa\</tspan>
 <tspan x="10" y="7546">uth)/oauth-buttons.controller.spec.js</tspan>
 <tspan x="10" y="7562">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="7578">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="7594">287.  2017-04-15 22:01:08 +0000     1188 bytes  templates/app/client/components/oauth-buttons(oa\</tspan>
+<tspan x="10" y="7594">287.  2017-04-25 11:01:58 +0000     1188 bytes  templates/app/client/components/oauth-buttons(oa\</tspan>
 <tspan x="10" y="7610">uth)/oauth-buttons.directive.spec.js</tspan>
 <tspan x="10" y="7626">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="7642">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="7658">288.  2017-04-15 22:01:08 +0000     1188 bytes  templates/app/client/components/socket(socketio)\</tspan>
+<tspan x="10" y="7658">288.  2017-04-25 11:01:58 +0000     1188 bytes  templates/app/client/components/socket(socketio)\</tspan>
 <tspan x="10" y="7674">/socket.mock.js</tspan>
 <tspan x="10" y="7690">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="7706">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="7722">289.  2017-04-15 22:01:08 +0000     1188 bytes  templates/app/client/components/socket(socketio)\</tspan>
+<tspan x="10" y="7722">289.  2017-04-25 11:01:58 +0000     1188 bytes  templates/app/client/components/socket(socketio)\</tspan>
 <tspan x="10" y="7738">/socket.service.js</tspan>
 <tspan x="10" y="7754">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="7770">290.  2017-04-15 22:01:08 +0000     1188 bytes  templates/app/client/components/ui-router(uirout\</tspan>
+<tspan x="10" y="7770">290.  2017-04-25 11:01:58 +0000     1188 bytes  templates/app/client/components/ui-router(uirout\</tspan>
 <tspan x="10" y="7786">er)/ui-router.mock.js</tspan>
-<tspan x="10" y="7802">291.  2017-04-15 22:01:08 +0000      194 bytes  templates/app/client/components/util/util.module\</tspan>
+<tspan x="10" y="7802">291.  2017-04-25 11:01:58 +0000      194 bytes  templates/app/client/components/util/util.module\</tspan>
 <tspan x="10" y="7818">.js</tspan>
-<tspan x="10" y="7834">292.  2017-04-15 22:01:08 +0000     2050 bytes  templates/app/client/components/util/util.servic\</tspan>
+<tspan x="10" y="7834">292.  2017-04-25 11:01:58 +0000     2050 bytes  templates/app/client/components/util/util.servic\</tspan>
 <tspan x="10" y="7850">e.js</tspan>
-<tspan x="10" y="7866">293.  2017-04-15 22:01:08 +0000     4286 bytes  templates/app/client/favicon.ico</tspan>
-<tspan x="10" y="7882">294.  2017-04-15 22:01:08 +0000      884 bytes  templates/app/client/polyfills.js</tspan>
+<tspan x="10" y="7866">293.  2017-04-25 11:01:58 +0000     4286 bytes  templates/app/client/favicon.ico</tspan>
+<tspan x="10" y="7882">294.  2017-04-25 11:01:58 +0000      884 bytes  templates/app/client/polyfills.js</tspan>
 <tspan x="10" y="7898">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="7914">295.  2017-04-15 22:01:08 +0000       31 bytes  templates/app/client/robots.txt</tspan>
+<tspan x="10" y="7914">295.  2017-04-25 11:01:58 +0000       31 bytes  templates/app/client/robots.txt</tspan>
 <tspan x="10" y="7930">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="7946">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="7962">296.  2017-04-15 22:01:08 +0000       31 bytes  templates/app/client/tslint.json(ts)</tspan>
+<tspan x="10" y="7962">296.  2017-04-25 11:01:58 +0000       31 bytes  templates/app/client/tslint.json(ts)</tspan>
 <tspan x="10" y="7978">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="7994">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="8010">297.  2017-04-15 22:01:08 +0000       31 bytes  templates/app/e2e/account(auth)/login/login.po.j\</tspan>
+<tspan x="10" y="8010">297.  2017-04-25 11:01:58 +0000       31 bytes  templates/app/e2e/account(auth)/login/login.po.j\</tspan>
 <tspan x="10" y="8026">s</tspan>
 <tspan x="10" y="8042">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="8058">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="8074">298.  2017-04-15 22:01:08 +0000       31 bytes  templates/app/e2e/account(auth)/login/login.spec\</tspan>
+<tspan x="10" y="8074">298.  2017-04-25 11:01:58 +0000       31 bytes  templates/app/e2e/account(auth)/login/login.spec\</tspan>
 <tspan x="10" y="8090">(jasmine).js</tspan>
 <tspan x="10" y="8106">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="8122">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="8138">299.  2017-04-15 22:01:08 +0000       31 bytes  templates/app/e2e/account(auth)/login/login.spec\</tspan>
+<tspan x="10" y="8138">299.  2017-04-25 11:01:58 +0000       31 bytes  templates/app/e2e/account(auth)/login/login.spec\</tspan>
 <tspan x="10" y="8154">(mocha).js</tspan>
 <tspan x="10" y="8170">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="8186">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="8202">300.  2017-04-15 22:01:08 +0000       31 bytes  templates/app/e2e/account(auth)/logout/logout.sp\</tspan>
+<tspan x="10" y="8202">300.  2017-04-25 11:01:58 +0000       31 bytes  templates/app/e2e/account(auth)/logout/logout.sp\</tspan>
 <tspan x="10" y="8218">ec(jasmine).js</tspan>
 <tspan x="10" y="8234">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="8250">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="8266">301.  2017-04-15 22:01:08 +0000       31 bytes  templates/app/e2e/account(auth)/logout/logout.sp\</tspan>
+<tspan x="10" y="8266">301.  2017-04-25 11:01:58 +0000       31 bytes  templates/app/e2e/account(auth)/logout/logout.sp\</tspan>
 <tspan x="10" y="8282">ec(mocha).js</tspan>
 <tspan x="10" y="8298">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="8314">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="8330">302.  2017-04-15 22:01:08 +0000       31 bytes  templates/app/e2e/account(auth)/signup/signup.po\</tspan>
+<tspan x="10" y="8330">302.  2017-04-25 11:01:58 +0000       31 bytes  templates/app/e2e/account(auth)/signup/signup.po\</tspan>
 <tspan x="10" y="8346">.js</tspan>
 <tspan x="10" y="8362">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="8378">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="8394">303.  2017-04-15 22:01:08 +0000       31 bytes  templates/app/e2e/account(auth)/signup/signup.sp\</tspan>
+<tspan x="10" y="8394">303.  2017-04-25 11:01:58 +0000       31 bytes  templates/app/e2e/account(auth)/signup/signup.sp\</tspan>
 <tspan x="10" y="8410">ec(jasmine).js</tspan>
 <tspan x="10" y="8426">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="8442">304.  2017-04-15 22:01:08 +0000       31 bytes  templates/app/e2e/account(auth)/signup/signup.sp\</tspan>
+<tspan x="10" y="8442">304.  2017-04-25 11:01:58 +0000       31 bytes  templates/app/e2e/account(auth)/signup/signup.sp\</tspan>
 <tspan x="10" y="8458">ec(mocha).js</tspan>
 <tspan x="10" y="8474">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="8490">305.  2017-04-15 22:01:08 +0000      703 bytes  templates/app/e2e/components/navbar/navbar.po.js</tspan>
+<tspan x="10" y="8490">305.  2017-04-25 11:01:58 +0000      703 bytes  templates/app/e2e/components/navbar/navbar.po.js</tspan>
 <tspan x="10" y="8506">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="8522">306.  2017-04-15 22:01:08 +0000      703 bytes  templates/app/e2e/components/oauth-buttons(oauth\</tspan>
+<tspan x="10" y="8522">306.  2017-04-25 11:01:58 +0000      703 bytes  templates/app/e2e/components/oauth-buttons(oauth\</tspan>
 <tspan x="10" y="8538">)/oauth-buttons.po.js</tspan>
 <tspan x="10" y="8554">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="8570">307.  2017-04-15 22:01:08 +0000      400 bytes  templates/app/e2e/main/main.po.js</tspan>
+<tspan x="10" y="8570">307.  2017-04-25 11:01:58 +0000      400 bytes  templates/app/e2e/main/main.po.js</tspan>
 <tspan x="10" y="8586">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="8602">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="8618">308.  2017-04-15 22:01:08 +0000      400 bytes  templates/app/e2e/main/main.spec(jasmine).js</tspan>
+<tspan x="10" y="8618">308.  2017-04-25 11:01:58 +0000      400 bytes  templates/app/e2e/main/main.spec(jasmine).js</tspan>
 <tspan x="10" y="8634">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="8650">309.  2017-04-15 22:01:08 +0000      400 bytes  templates/app/e2e/main/main.spec(mocha).js</tspan>
-<tspan x="10" y="8666">310.  2017-04-15 22:01:08 +0000    17935 bytes  templates/app/gulpfile.babel.js</tspan>
-<tspan x="10" y="8682">311.  2017-04-15 22:01:08 +0000     2632 bytes  templates/app/karma.conf.js</tspan>
-<tspan x="10" y="8698">312.  2017-04-15 22:01:08 +0000      390 bytes  templates/app/mocha.conf.js</tspan>
-<tspan x="10" y="8714">313.  2017-04-15 22:01:08 +0000      268 bytes  templates/app/mocha.global.js</tspan>
+<tspan x="10" y="8650">309.  2017-04-25 11:01:58 +0000      400 bytes  templates/app/e2e/main/main.spec(mocha).js</tspan>
+<tspan x="10" y="8666">310.  2017-04-25 11:01:58 +0000    17831 bytes  templates/app/gulpfile.babel.js</tspan>
+<tspan x="10" y="8682">311.  2017-04-25 11:01:58 +0000     2632 bytes  templates/app/karma.conf.js</tspan>
+<tspan x="10" y="8698">312.  2017-04-25 11:01:58 +0000      390 bytes  templates/app/mocha.conf.js</tspan>
+<tspan x="10" y="8714">313.  2017-04-25 11:01:58 +0000      268 bytes  templates/app/mocha.global.js</tspan>
 <tspan x="10" y="8730">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="8746">314.  2017-04-15 22:01:08 +0000     3067 bytes  templates/app/protractor.conf.js</tspan>
+<tspan x="10" y="8746">314.  2017-04-25 11:01:58 +0000     3067 bytes  templates/app/protractor.conf.js</tspan>
 <tspan x="10" y="8762">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="8778">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="8794">315.  2017-04-15 22:01:08 +0000     3067 bytes  templates/app/server/api/user(auth)/index.js</tspan>
+<tspan x="10" y="8794">315.  2017-04-25 11:01:58 +0000     3067 bytes  templates/app/server/api/user(auth)/index.js</tspan>
 <tspan x="10" y="8810">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="8826">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="8842">316.  2017-04-15 22:01:08 +0000     3067 bytes  templates/app/server/api/user(auth)/index.spec.j\</tspan>
+<tspan x="10" y="8842">316.  2017-04-25 11:01:58 +0000     3067 bytes  templates/app/server/api/user(auth)/index.spec.j\</tspan>
 <tspan x="10" y="8858">s</tspan>
 <tspan x="10" y="8874">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="8890">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="8906">317.  2017-04-15 22:01:08 +0000     3067 bytes  templates/app/server/api/user(auth)/user.control\</tspan>
+<tspan x="10" y="8906">317.  2017-04-25 11:01:58 +0000     3067 bytes  templates/app/server/api/user(auth)/user.control\</tspan>
 <tspan x="10" y="8922">ler.js</tspan>
 <tspan x="10" y="8938">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="8954">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="8970">318.  2017-04-15 22:01:08 +0000     3067 bytes  templates/app/server/api/user(auth)/user.events.\</tspan>
+<tspan x="10" y="8970">318.  2017-04-25 11:01:58 +0000     3067 bytes  templates/app/server/api/user(auth)/user.events.\</tspan>
 <tspan x="10" y="8986">js</tspan>
 <tspan x="10" y="9002">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="9018">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="9034">319.  2017-04-15 22:01:08 +0000     3067 bytes  templates/app/server/api/user(auth)/user.integra\</tspan>
+<tspan x="10" y="9034">319.  2017-04-25 11:01:58 +0000     3067 bytes  templates/app/server/api/user(auth)/user.integra\</tspan>
 <tspan x="10" y="9050">tion.js</tspan>
 <tspan x="10" y="9066">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="9082">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="9098">320.  2017-04-15 22:01:08 +0000     3067 bytes  templates/app/server/api/user(auth)/user.model(m\</tspan>
+<tspan x="10" y="9098">320.  2017-04-25 11:01:58 +0000     3067 bytes  templates/app/server/api/user(auth)/user.model(m\</tspan>
 <tspan x="10" y="9114">ongooseModels).js</tspan>
 <tspan x="10" y="9130">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="9146">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="9162">321.  2017-04-15 22:01:08 +0000     3067 bytes  templates/app/server/api/user(auth)/user.model(s\</tspan>
+<tspan x="10" y="9162">321.  2017-04-25 11:01:58 +0000     3067 bytes  templates/app/server/api/user(auth)/user.model(s\</tspan>
 <tspan x="10" y="9178">equelizeModels).js</tspan>
 <tspan x="10" y="9194">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="9210">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="9226">322.  2017-04-15 22:01:08 +0000     3067 bytes  templates/app/server/api/user(auth)/user.model.s\</tspan>
+<tspan x="10" y="9226">322.  2017-04-25 11:01:58 +0000     3067 bytes  templates/app/server/api/user(auth)/user.model.s\</tspan>
 <tspan x="10" y="9242">pec(mongooseModels).js</tspan>
 <tspan x="10" y="9258">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="9274">323.  2017-04-15 22:01:08 +0000     3067 bytes  templates/app/server/api/user(auth)/user.model.s\</tspan>
+<tspan x="10" y="9274">323.  2017-04-25 11:01:58 +0000     3067 bytes  templates/app/server/api/user(auth)/user.model.s\</tspan>
 <tspan x="10" y="9290">pec(sequelizeModels).js</tspan>
 <tspan x="10" y="9306">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="9322">324.  2017-04-15 22:01:08 +0000     1648 bytes  templates/app/server/app.js</tspan>
+<tspan x="10" y="9322">324.  2017-04-25 11:01:58 +0000     1648 bytes  templates/app/server/app.js</tspan>
 <tspan x="10" y="9338">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="9354">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="9370">325.  2017-04-15 22:01:08 +0000     1648 bytes  templates/app/server/auth(auth)/auth.service.js</tspan>
+<tspan x="10" y="9370">325.  2017-04-25 11:01:58 +0000     1648 bytes  templates/app/server/auth(auth)/auth.service.js</tspan>
 <tspan x="10" y="9386">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="9402">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="9418">326.  2017-04-15 22:01:08 +0000     1648 bytes  templates/app/server/auth(auth)/facebook(faceboo\</tspan>
+<tspan x="10" y="9418">326.  2017-04-25 11:01:58 +0000     1648 bytes  templates/app/server/auth(auth)/facebook(faceboo\</tspan>
 <tspan x="10" y="9434">kAuth)/index.js</tspan>
 <tspan x="10" y="9450">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="9466">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="9482">327.  2017-04-15 22:01:08 +0000     1648 bytes  templates/app/server/auth(auth)/facebook(faceboo\</tspan>
+<tspan x="10" y="9482">327.  2017-04-25 11:01:58 +0000     1648 bytes  templates/app/server/auth(auth)/facebook(faceboo\</tspan>
 <tspan x="10" y="9498">kAuth)/passport.js</tspan>
 <tspan x="10" y="9514">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="9530">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="9546">328.  2017-04-15 22:01:08 +0000     1648 bytes  templates/app/server/auth(auth)/google(googleAut\</tspan>
+<tspan x="10" y="9546">328.  2017-04-25 11:01:58 +0000     1648 bytes  templates/app/server/auth(auth)/google(googleAut\</tspan>
 <tspan x="10" y="9562">h)/index.js</tspan>
 <tspan x="10" y="9578">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="9594">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="9610">329.  2017-04-15 22:01:08 +0000     1648 bytes  templates/app/server/auth(auth)/google(googleAut\</tspan>
+<tspan x="10" y="9610">329.  2017-04-25 11:01:58 +0000     1648 bytes  templates/app/server/auth(auth)/google(googleAut\</tspan>
 <tspan x="10" y="9626">h)/passport.js</tspan>
 <tspan x="10" y="9642">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="9658">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="9674">330.  2017-04-15 22:01:08 +0000     1648 bytes  templates/app/server/auth(auth)/index.js</tspan>
+<tspan x="10" y="9674">330.  2017-04-25 11:01:58 +0000     1648 bytes  templates/app/server/auth(auth)/index.js</tspan>
 <tspan x="10" y="9690">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="9706">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="9722">331.  2017-04-15 22:01:08 +0000     1648 bytes  templates/app/server/auth(auth)/local/index.js</tspan>
+<tspan x="10" y="9722">331.  2017-04-25 11:01:58 +0000     1648 bytes  templates/app/server/auth(auth)/local/index.js</tspan>
 <tspan x="10" y="9738">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="9754">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="9770">332.  2017-04-15 22:01:08 +0000     1648 bytes  templates/app/server/auth(auth)/local/passport.j\</tspan>
+<tspan x="10" y="9770">332.  2017-04-25 11:01:58 +0000     1648 bytes  templates/app/server/auth(auth)/local/passport.j\</tspan>
 <tspan x="10" y="9786">s</tspan>
 <tspan x="10" y="9802">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="9818">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="9834">333.  2017-04-15 22:01:08 +0000     1648 bytes  templates/app/server/auth(auth)/twitter(twitterA\</tspan>
+<tspan x="10" y="9834">333.  2017-04-25 11:01:58 +0000     1648 bytes  templates/app/server/auth(auth)/twitter(twitterA\</tspan>
 <tspan x="10" y="9850">uth)/index.js</tspan>
 <tspan x="10" y="9866">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="9882">334.  2017-04-15 22:01:08 +0000     1648 bytes  templates/app/server/auth(auth)/twitter(twitterA\</tspan>
+<tspan x="10" y="9882">334.  2017-04-25 11:01:58 +0000     1648 bytes  templates/app/server/auth(auth)/twitter(twitterA\</tspan>
 <tspan x="10" y="9898">uth)/passport.js</tspan>
-<tspan x="10" y="9914">335.  2017-04-15 22:01:08 +0000      382 bytes  templates/app/server/components/errors/index.js</tspan>
-<tspan x="10" y="9930">336.  2017-04-15 22:01:08 +0000      724 bytes  templates/app/server/config/_local.env.js</tspan>
-<tspan x="10" y="9946">337.  2017-04-15 22:01:08 +0000      760 bytes  templates/app/server/config/_local.env.sample.js</tspan>
-<tspan x="10" y="9962">338.  2017-04-15 22:01:08 +0000      569 bytes  templates/app/server/config/environment/developm\</tspan>
+<tspan x="10" y="9914">335.  2017-04-25 11:01:58 +0000      382 bytes  templates/app/server/components/errors/index.js</tspan>
+<tspan x="10" y="9930">336.  2017-04-25 11:01:58 +0000      724 bytes  templates/app/server/config/_local.env.js</tspan>
+<tspan x="10" y="9946">337.  2017-04-25 11:01:58 +0000      760 bytes  templates/app/server/config/_local.env.sample.js</tspan>
+<tspan x="10" y="9962">338.  2017-04-25 11:01:58 +0000      569 bytes  templates/app/server/config/environment/developm\</tspan>
 <tspan x="10" y="9978">ent.js</tspan>
-<tspan x="10" y="9994">339.  2017-04-15 22:01:08 +0000     1936 bytes  templates/app/server/config/environment/index.js</tspan>
-<tspan x="10" y="10010">340.  2017-04-15 22:01:08 +0000      863 bytes  templates/app/server/config/environment/producti\</tspan>
+<tspan x="10" y="9994">339.  2017-04-25 11:01:58 +0000     1936 bytes  templates/app/server/config/environment/index.js</tspan>
+<tspan x="10" y="10010">340.  2017-04-25 11:01:58 +0000      863 bytes  templates/app/server/config/environment/producti\</tspan>
 <tspan x="10" y="10026">on.js</tspan>
-<tspan x="10" y="10042">341.  2017-04-15 22:01:08 +0000      111 bytes  templates/app/server/config/environment/shared.j\</tspan>
+<tspan x="10" y="10042">341.  2017-04-25 11:01:58 +0000      111 bytes  templates/app/server/config/environment/shared.j\</tspan>
 <tspan x="10" y="10058">s</tspan>
-<tspan x="10" y="10074">342.  2017-04-15 22:01:08 +0000      406 bytes  templates/app/server/config/environment/test.js</tspan>
+<tspan x="10" y="10074">342.  2017-04-25 11:01:58 +0000      406 bytes  templates/app/server/config/environment/test.js</tspan>
 <tspan x="10" y="10090">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="10106">343.  2017-04-15 22:01:08 +0000     4498 bytes  templates/app/server/config/express.js</tspan>
+<tspan x="10" y="10106">343.  2017-04-25 11:01:58 +0000     4498 bytes  templates/app/server/config/express.js</tspan>
 <tspan x="10" y="10122">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="10138">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="10154">344.  2017-04-15 22:01:08 +0000     4498 bytes  templates/app/server/config/seed(models).js</tspan>
+<tspan x="10" y="10154">344.  2017-04-25 11:01:58 +0000     4498 bytes  templates/app/server/config/seed(models).js</tspan>
 <tspan x="10" y="10170">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="10186">345.  2017-04-15 22:01:08 +0000     4498 bytes  templates/app/server/config/socketio(socketio).j\</tspan>
+<tspan x="10" y="10186">345.  2017-04-25 11:01:58 +0000     4498 bytes  templates/app/server/config/socketio(socketio).j\</tspan>
 <tspan x="10" y="10202">s</tspan>
-<tspan x="10" y="10218">346.  2017-04-15 22:01:08 +0000      322 bytes  templates/app/server/index.js</tspan>
+<tspan x="10" y="10218">346.  2017-04-25 11:01:58 +0000      322 bytes  templates/app/server/index.js</tspan>
 <tspan x="10" y="10234">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="10250">347.  2017-04-15 22:01:08 +0000      637 bytes  templates/app/server/routes.js</tspan>
+<tspan x="10" y="10250">347.  2017-04-25 11:01:58 +0000      637 bytes  templates/app/server/routes.js</tspan>
 <tspan x="10" y="10266">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="10282">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="10298">348.  2017-04-15 22:01:08 +0000      637 bytes  templates/app/server/sqldb(sequelize)/index.js</tspan>
+<tspan x="10" y="10298">348.  2017-04-25 11:01:58 +0000      637 bytes  templates/app/server/sqldb(sequelize)/index.js</tspan>
 <tspan x="10" y="10314">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="10330">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="10346">349.  2017-04-15 22:01:08 +0000      637 bytes  templates/app/server/views/404(html).html</tspan>
+<tspan x="10" y="10346">349.  2017-04-25 11:01:58 +0000      637 bytes  templates/app/server/views/404(html).html</tspan>
 <tspan x="10" y="10362">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="10378">350.  2017-04-15 22:01:08 +0000      637 bytes  templates/app/server/views/404(pug).pug</tspan>
+<tspan x="10" y="10378">350.  2017-04-25 11:01:58 +0000      637 bytes  templates/app/server/views/404(pug).pug</tspan>
 <tspan x="10" y="10394">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="10410">351.  2017-04-15 22:01:08 +0000      433 bytes  templates/app/spec.js</tspan>
+<tspan x="10" y="10410">351.  2017-04-25 11:01:58 +0000      433 bytes  templates/app/spec.js</tspan>
 <tspan x="10" y="10426">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="10442">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="10458">352.  2017-04-15 22:01:08 +0000      433 bytes  templates/app/tsconfig.client(ts).json</tspan>
+<tspan x="10" y="10458">352.  2017-04-25 11:01:58 +0000      433 bytes  templates/app/tsconfig.client(ts).json</tspan>
 <tspan x="10" y="10474">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="10490">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="10506">353.  2017-04-15 22:01:08 +0000      433 bytes  templates/app/tsconfig.client.test(ts).json</tspan>
+<tspan x="10" y="10506">353.  2017-04-25 11:01:58 +0000      433 bytes  templates/app/tsconfig.client.test(ts).json</tspan>
 <tspan x="10" y="10522">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="10538">354.  2017-04-15 22:01:08 +0000      433 bytes  templates/app/typings(ts).json</tspan>
-<tspan x="10" y="10554">355.  2017-04-15 22:01:08 +0000      135 bytes  templates/app/webpack.build.js</tspan>
-<tspan x="10" y="10570">356.  2017-04-15 22:01:08 +0000      140 bytes  templates/app/webpack.dev.js</tspan>
-<tspan x="10" y="10586">357.  2017-04-15 22:01:08 +0000    13920 bytes  templates/app/webpack.make.js</tspan>
-<tspan x="10" y="10602">358.  2017-04-15 22:01:08 +0000      134 bytes  templates/app/webpack.test.js</tspan>
+<tspan x="10" y="10538">354.  2017-04-25 11:01:58 +0000      433 bytes  templates/app/typings(ts).json</tspan>
+<tspan x="10" y="10554">355.  2017-04-25 11:01:58 +0000      135 bytes  templates/app/webpack.build.js</tspan>
+<tspan x="10" y="10570">356.  2017-04-25 11:01:58 +0000      140 bytes  templates/app/webpack.dev.js</tspan>
+<tspan x="10" y="10586">357.  2017-04-25 11:01:58 +0000    13920 bytes  templates/app/webpack.make.js</tspan>
+<tspan x="10" y="10602">358.  2017-04-25 11:01:58 +0000      134 bytes  templates/app/webpack.test.js</tspan>
 <tspan x="10" y="10618">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="10634">359.  2017-04-15 22:01:08 +0000     4336 bytes  templates/endpoint/basename.controller.js</tspan>
+<tspan x="10" y="10634">359.  2017-04-25 11:01:58 +0000     4425 bytes  templates/endpoint/basename.controller.js</tspan>
 <tspan x="10" y="10650">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="10666">360.  2017-04-15 22:01:08 +0000     4336 bytes  templates/endpoint/basename.events(models).js</tspan>
+<tspan x="10" y="10666">360.  2017-04-25 11:01:58 +0000     4425 bytes  templates/endpoint/basename.events(models).js</tspan>
 <tspan x="10" y="10682">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="10698">361.  2017-04-15 22:01:08 +0000     5666 bytes  templates/endpoint/basename.integration.js</tspan>
+<tspan x="10" y="10698">361.  2017-04-25 11:01:58 +0000     5666 bytes  templates/endpoint/basename.integration.js</tspan>
 <tspan x="10" y="10714">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="10730">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="10746">362.  2017-04-15 22:01:08 +0000     5666 bytes  templates/endpoint/basename.model(mongooseModels\</tspan>
+<tspan x="10" y="10746">362.  2017-04-25 11:01:58 +0000     5666 bytes  templates/endpoint/basename.model(mongooseModels\</tspan>
 <tspan x="10" y="10762">).js</tspan>
 <tspan x="10" y="10778">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="10794">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="10810">363.  2017-04-15 22:01:08 +0000     5666 bytes  templates/endpoint/basename.model(sequelizeModel\</tspan>
+<tspan x="10" y="10810">363.  2017-04-25 11:01:58 +0000     5666 bytes  templates/endpoint/basename.model(sequelizeModel\</tspan>
 <tspan x="10" y="10826">s).js</tspan>
 <tspan x="10" y="10842">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="10858">364.  2017-04-15 22:01:08 +0000     5666 bytes  templates/endpoint/basename.socket(socketio).js</tspan>
-<tspan x="10" y="10874">365.  2017-04-15 22:01:08 +0000      431 bytes  templates/endpoint/index.js</tspan>
-<tspan x="10" y="10890">366.  2017-04-15 22:01:08 +0000     2720 bytes  templates/endpoint/index.spec.js</tspan>
-<tspan x="10" y="10906">367.  2017-04-15 22:01:08 +0000       24 bytes  templates/heroku/Procfile</tspan>
-<tspan x="10" y="10922">368.  2017-04-15 22:01:08 +0000     7511 bytes  test/endpoint.test.js</tspan>
-<tspan x="10" y="10938">369.  2017-04-15 22:01:08 +0000     6966 bytes  test/get-expected-files.js</tspan>
-<tspan x="10" y="10954">370.  2017-04-15 22:01:08 +0000    13714 bytes  test/main.test.js</tspan>
-<tspan x="10" y="10970">371.  2017-04-15 22:01:08 +0000     1074 bytes  test/pre.test.js</tspan>
-<tspan x="10" y="10986">372.  2017-04-15 22:01:08 +0000     4592 bytes  test/test-helpers.js</tspan>
+<tspan x="10" y="10858">364.  2017-04-25 11:01:58 +0000     5666 bytes  templates/endpoint/basename.socket(socketio).js</tspan>
+<tspan x="10" y="10874">365.  2017-04-25 11:01:58 +0000      431 bytes  templates/endpoint/index.js</tspan>
+<tspan x="10" y="10890">366.  2017-04-25 11:01:58 +0000     2720 bytes  templates/endpoint/index.spec.js</tspan>
+<tspan x="10" y="10906">367.  2017-04-25 11:01:58 +0000       24 bytes  templates/heroku/Procfile</tspan>
+<tspan x="10" y="10922">368.  2017-04-25 11:01:58 +0000     7511 bytes  test/endpoint.test.js</tspan>
+<tspan x="10" y="10938">369.  2017-04-25 11:01:58 +0000     6966 bytes  test/get-expected-files.js</tspan>
+<tspan x="10" y="10954">370.  2017-04-25 11:01:58 +0000    13714 bytes  test/main.test.js</tspan>
+<tspan x="10" y="10970">371.  2017-04-25 11:01:58 +0000     1074 bytes  test/pre.test.js</tspan>
+<tspan x="10" y="10986">372.  2017-04-25 11:01:58 +0000     4592 bytes  test/test-helpers.js</tspan>
 </text>
 </svg>
