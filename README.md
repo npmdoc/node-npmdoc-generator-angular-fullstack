@@ -1,9 +1,14 @@
-# api documentation for  [generator-angular-fullstack (v4.1.4)](https://github.com/angular-fullstack/generator-angular-fullstack)  [![npm package](https://img.shields.io/npm/v/npmdoc-generator-angular-fullstack.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-generator-angular-fullstack) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-generator-angular-fullstack.svg)](https://travis-ci.org/npmdoc/node-npmdoc-generator-angular-fullstack)
+# npmdoc-generator-angular-fullstack
+
+#### basic api documentation for  [generator-angular-fullstack (v4.2.0)](https://github.com/angular-fullstack/generator-angular-fullstack)  [![npm package](https://img.shields.io/npm/v/npmdoc-generator-angular-fullstack.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-generator-angular-fullstack) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-generator-angular-fullstack.svg)](https://travis-ci.org/npmdoc/node-npmdoc-generator-angular-fullstack)
+
 #### Yeoman generator for creating MEAN stack applications, using MongoDB, Express, AngularJS, and Node
 
 [![NPM](https://nodei.co/npm/generator-angular-fullstack.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/generator-angular-fullstack)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-generator-angular-fullstack/build/screenCapture.buildCi.browser.apidoc.html.png)](https://npmdoc.github.io/node-npmdoc-generator-angular-fullstack/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-generator-angular-fullstack/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-generator-angular-fullstack/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-generator-angular-fullstack/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-generator-angular-fullstack/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-generator-angular-fullstack/build/screenCapture.npmPackageListing.svg)
 
@@ -104,14 +109,14 @@
     },
     "directories": {},
     "dist": {
-        "shasum": "ca2dc23f9abee9803714d34a3cb12835f5ffce8f",
-        "tarball": "https://registry.npmjs.org/generator-angular-fullstack/-/generator-angular-fullstack-4.1.4.tgz"
+        "shasum": "9e0cc7a9cfca2971a613d6cedaea7df68a7262ee",
+        "tarball": "https://registry.npmjs.org/generator-angular-fullstack/-/generator-angular-fullstack-4.2.0.tgz"
     },
     "engines": {
         "node": "^6.2.2",
         "npm": "^3.9.5"
     },
-    "gitHead": "431c4563713cfc8299166f59937a935fca5ad030",
+    "gitHead": "bc0ce9a73ac859264508839f44cca24773b5c14a",
     "homepage": "https://github.com/angular-fullstack/generator-angular-fullstack",
     "keywords": [
         "yeoman-generator",
@@ -145,19 +150,10 @@
         "prepublish": "gulp build",
         "test": "gulp updateFixtures:test && gulp installFixtures && gulp build && gulp test"
     },
-    "version": "4.1.4"
+    "version": "4.2.0",
+    "bin": {}
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module generator-angular-fullstack](#apidoc.module.generator-angular-fullstack)
-
-
-
-# <a name="apidoc.module.generator-angular-fullstack"></a>[module generator-angular-fullstack](#apidoc.module.generator-angular-fullstack)
 
 
 

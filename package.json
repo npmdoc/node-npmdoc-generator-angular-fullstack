@@ -1,7 +1,7 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
     "buildNpmdoc": "generator-angular-fullstack",
-    "description": "api documentation for [generator-angular-fullstack (v4.1.4)](https://github.com/angular-fullstack/generator-angular-fullstack) [![npm package](https://img.shields.io/npm/v/npmdoc-generator-angular-fullstack.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-generator-angular-fullstack) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-generator-angular-fullstack.svg)](https://travis-ci.org/npmdoc/node-npmdoc-generator-angular-fullstack)",
+    "description": "#### basic api documentation for  [generator-angular-fullstack (v4.2.0)](https://github.com/angular-fullstack/generator-angular-fullstack)  [![npm package](https://img.shields.io/npm/v/npmdoc-generator-angular-fullstack.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-generator-angular-fullstack) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-generator-angular-fullstack.svg)](https://travis-ci.org/npmdoc/node-npmdoc-generator-angular-fullstack)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "generator-angular-fullstack": "*",
@@ -36,5 +36,5 @@
         "start": "(set -e; export PORT=${PORT:-8080}; utility2 start test.js)",
         "test": "(set -e; export PORT=$(utility2 shServerPortRandom); utility2 test test.js)"
     },
-    "version": "0.0.2"
+    "version": "2017.4.25"
 }
